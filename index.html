@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Hai trăm mùa tuyết · Truyện tình 6 chương &amp; 600 từ Hán ngữ</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body class="mh">
+<main>
+  <!-- Thanh điều hướng chương + tuỳ chọn hiển thị -->
+  <div class="nav">
+    <div class="row" id="nv"></div>
+    <div class="opt">
+      <div class="seg" id="md" role="group" aria-label="Chế độ hiển thị từ mới">
+        <button type="button" data-m="h" class="on">Hán tự</button>
+        <button type="button" data-m="p">Pinyin</button>
+      </div>
+      <label class="lh"><input type="checkbox" id="tp" checked> Pinyin</label>
+      <label class="lp"><input type="checkbox" id="th" checked> Hán tự</label>
+      <label><input type="checkbox" id="tm" checked> Nghĩa</label>
+      <span id="prog">Đã học: <b>0</b>/600</span>
+    </div>
+  </div>
+
+  <!-- 6 chương được JS dựng vào đây -->
+  <div id="bk"></div>
+
+  <h2>Mẹo học nhanh 600 từ</h2>
+  <ol class="tips">
+    <li><b>Đọc theo chương, mỗi chương 100 từ:</b> mỗi ngày 10 từ thì 10 ngày xong một chương.</li>
+    <li><b>Đọc 3 lượt:</b> bật hết; tắt “Nghĩa” để tự đoán; tắt cả Pinyin để thử thách. Muốn luyện nghe–đọc âm thì chuyển sang chế độ Pinyin rồi tắt Hán tự.</li>
+    <li><b>Học theo cụm:</b> số–tiền, gia đình, thời gian, phương hướng, đồ ăn, thân thể, màu sắc, cảm xúc, nghề nghiệp.</li>
+    <li><b>Tách từ ghép:</b> 图书馆 = tranh + sách + quán; 熊猫 = gấu + mèo; 雨伞 = mưa + ô.</li>
+    <li><b>Gắn với cảnh truyện:</b> nhớ bức thư, chiếc hộp, con chim đen thì chữ tự hiện ra.</li>
+  </ol>
+</main>
+
+<!-- Popup thông tin của từ -->
+<div id="ov">
+  <div id="pop">
+    <button class="x" id="cl" aria-label="Đóng">×</button>
+    <div id="hz"></div>
+    <div id="py"></div>
+    <div id="hv"></div>
+    <div id="mn"></div>
+    <button class="btn" id="sp">🔊 Nghe</button>
+    <button class="btn o" id="an">▶ Xem lại nét viết</button>
+    <button class="btn o" id="nb">📝 Ghi chú</button>
+    <div id="wr"></div>
+  </div>
+</div>
+
+<!-- Popup ghi chú gợi nhớ (mở từ nút "Ghi chú" ở popup trên) -->
+<div id="nov">
+  <div id="npop" role="dialog" aria-modal="true" aria-labelledby="nlabel">
+    <button class="x" id="ncl" aria-label="Đóng">×</button>
+    <div class="nhead"><span id="nhz"></span><span id="npy"></span><span id="nmn"></span></div>
+    <div class="nlabel" id="nlabel">📝 Ghi chú gợi nhớ</div>
+    <div id="nbody"></div>
+  </div>
+</div>
+
+<!-- Thứ tự nạp quan trọng: thư viện → dữ liệu → logic -->
+<script src="js/hanzi-writer.min.js"></script>
+<script src="js/hanzi-data.js"></script>
+<script src="js/vocab.js"></script>
+<script src="js/reader.js"></script>
+<script src="js/popup.js"></script>
+<script src="js/notes.js"></script>
+</body>
+</html>

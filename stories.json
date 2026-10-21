@@ -1,0 +1,4202 @@
+{
+ "北京": {
+  "py": "Běijīng",
+  "mn": "Bắc Kinh",
+  "hv": "Bắc Kinh",
+  "ch": 1,
+  "note": "北 (Hai người quay lưng lại nhau hướng phương bắc lạnh) + 京 (Lầu gác nguy nga): Kinh đô tráng lệ tọa lạc ở phương Bắc."
+ },
+ "一": {
+  "py": "yī",
+  "mn": "một",
+  "hv": "nhất",
+  "ch": 1,
+  "note": "Một nét gạch ngang duy nhất tượng trưng cho sự khởi đầu, vạn vật bắt đầu từ số 1."
+ },
+ "二": {
+  "py": "èr",
+  "mn": "hai",
+  "hv": "nhị",
+  "ch": 1,
+  "note": "Hai nét ngang song song, nét dưới dài hơn (đất) nâng đỡ nét trên (trời), tượng trưng cho trời đất, âm dương."
+ },
+ "三": {
+  "py": "sān",
+  "mn": "ba",
+  "hv": "tam",
+  "ch": 1,
+  "note": "Ba vạch ngang tượng trưng cho Tam tài: Thiên (trời ở trên), Nhân (người ở giữa), Địa (đất ở dưới)."
+ },
+ "四": {
+  "py": "sì",
+  "mn": "bốn",
+  "hv": "tứ",
+  "ch": 1,
+  "note": "Khung vây ngoài (Vi 囗), bên trong là hai nét rèm cửa mở ra 4 hướng đông tây nam bắc."
+ },
+ "五": {
+  "py": "wǔ",
+  "mn": "năm",
+  "hv": "ngũ",
+  "ch": 1,
+  "note": "Hai nét ngang trời - đất, ở giữa đan chéo kết nối âm dương và Ngũ hành (5 yếu tố tạo nên vũ trụ)."
+ },
+ "六": {
+  "py": "liù",
+  "mn": "sáu",
+  "hv": "lục",
+  "ch": 1,
+  "note": "Bộ Đầu (亠) ở trên là mái nhà/đỉnh núi, dưới là Bát (八) hai chân dang rộng: Người đứng vững vàng tạo thế số 6."
+ },
+ "七": {
+  "py": "qī",
+  "mn": "bảy",
+  "hv": "thất",
+  "ch": 1,
+  "note": "Nét ngang bị nét cong móc cắt ngược lên: Giống hình lưỡi kiếm cắm xuống đất hoặc số 7 lộn ngược."
+ },
+ "八": {
+  "py": "bā",
+  "mn": "tám",
+  "hv": "bát",
+  "ch": 1,
+  "note": "Hai nét phẩy và mác xòe ra hai phía đối xứng, mở rộng như cánh cửa đón tài lộc (số 8 phát tài)."
+ },
+ "九": {
+  "py": "jiǔ",
+  "mn": "chín",
+  "hv": "cửu",
+  "ch": 1,
+  "note": "Hình cánh tay co gập gồng cơ bắp sức mạnh tối thượng (số 9 cửu ngũ chí tôn, số lớn nhất một chữ số)."
+ },
+ "十": {
+  "py": "shí",
+  "mn": "mười",
+  "hv": "thập",
+  "ch": 1,
+  "note": "Nét ngang (Đông-Tây) giao nét dọc (Nam-Bắc): Tứ phương hội tụ tại tâm điểm trọn vẹn, thập toàn thập mỹ."
+ },
+ "我": {
+  "py": "wǒ",
+  "mn": "tôi",
+  "hv": "ngã",
+  "ch": 1,
+  "note": "Ghép từ Thủ (扌- tay) và Qua (戈 - vũ khí/giáo): Tay cầm vũ khí bảo vệ bản thân, khẳng định cái Tôi cá nhân."
+ },
+ "你": {
+  "py": "nǐ",
+  "mn": "bạn",
+  "hv": "nễ",
+  "ch": 1,
+  "note": "Bên trái là Nhân đứng (亻- người), bên phải là Nhĩ (尔 - mày/ngươi): Người đối diện đang trò chuyện với mình."
+ },
+ "他": {
+  "py": "tā",
+  "mn": "anh ấy",
+  "hv": "tha",
+  "ch": 1,
+  "note": "Nhân đứng (亻- người) + Dã (也 - cũng là): Người đàn ông khác cũng là con người như ta → Anh ấy."
+ },
+ "她": {
+  "py": "tā",
+  "mn": "cô ấy",
+  "hv": "tha",
+  "ch": 1,
+  "note": "Bộ Nữ (女 - người phụ nữ) + Dã (也 - cũng là): Người phụ nữ ở phía đối diện → Cô ấy, nàng."
+ },
+ "我们": {
+  "py": "wǒmen",
+  "mn": "chúng tôi",
+  "hv": "ngã môn",
+  "ch": 1,
+  "note": "我 (tôi) + 们 (Nhân đứng 亻 + Môn 门 cánh cửa): Những con người cùng bước chung qua một cánh cửa → Chúng tôi."
+ },
+ "这": {
+  "py": "zhè",
+  "mn": "này",
+  "hv": "giá",
+  "ch": 1,
+  "note": "Bộ Quai xước (辶 - bước đi) + Văn (文 - văn tự/dấu tích): Bước chân đi đến nhìn thấy dấu vết ngay trước mắt → Đây, này."
+ },
+ "那": {
+  "py": "nà",
+  "mn": "kia",
+  "hv": "na",
+  "ch": 1,
+  "note": "Bên trái là nét đao/nguyệt, bên phải là Phụ (阝- vùng đất): Chỉ về vùng đất xa xôi ở đằng kia → Kia, đó."
+ },
+ "谁": {
+  "py": "shéi",
+  "mn": "ai",
+  "hv": "thùy",
+  "ch": 1,
+  "note": "Ngôn (讠- lời nói) + Chuy (隹 - chim đuôi ngắn): Cất tiếng hỏi xem bóng dáng con chim lạ/người lạ nào đang tới → Ai."
+ },
+ "什么": {
+  "py": "shénme",
+  "mn": "cái gì",
+  "hv": "thập ma",
+  "ch": 1,
+  "note": "什 (Người 亻 đứng cạnh số Mười 十: mười người phức tạp) + 么 (nét phẩy gập nhỏ): Lời thắc mắc hỏi han: Cái gì đấy?"
+ },
+ "哪": {
+  "py": "nǎ",
+  "mn": "nào",
+  "hv": "na",
+  "ch": 1,
+  "note": "Khẩu (口 - mở miệng hỏi) + Na (那 - kia): Mở miệng cất tiếng hỏi xem ở phương hướng/vị trí nào → Nào, đâu."
+ },
+ "好": {
+  "py": "hǎo",
+  "mn": "tốt",
+  "hv": "hảo",
+  "ch": 1,
+  "note": "Bên trái là Nữ (女 - người mẹ), bên phải là Tử (子 - đứa con): Người mẹ ôm đứa con thơ là hình ảnh đẹp đẽ, tốt lành nhất."
+ },
+ "您": {
+  "py": "nín",
+  "mn": "ngài",
+  "hv": "nâm",
+  "ch": 1,
+  "note": "Phía trên là Nễ (你 - bạn), phía dưới là Tâm (心 - trái tim): Đặt người đối diện lên trên trái tim để tôn kính → Ngài, ông, bác."
+ },
+ "是": {
+  "py": "shì",
+  "mn": "là",
+  "hv": "thị",
+  "ch": 1,
+  "note": "Phía trên là Nhật (日 - mặt trời), phía dưới là Chính/Sơ (疋/正 - ngay thẳng): Dưới ánh mặt trời chân lý luôn đúng đắn → Là, phải."
+ },
+ "不": {
+  "py": "bù",
+  "mn": "không",
+  "hv": "bất",
+  "ch": 1,
+  "note": "Hình một mầm cây vừa nhú nhưng có nét ngang bên trên chặn đứng lại không cho phát triển → Phủ định: Không."
+ },
+ "很": {
+  "py": "hěn",
+  "mn": "rất",
+  "hv": "ngận",
+  "ch": 1,
+  "note": "Bên trái là Xích (彳- bước chân), bên phải là Cấn (艮 - cứng cỏi/kiên định): Bước đi dứt khoát, vượt bậc → Rất, lắm."
+ },
+ "谢谢": {
+  "py": "xièxie",
+  "mn": "cảm ơn",
+  "hv": "tạ tạ",
+  "ch": 1,
+  "note": "Chữ Tạ gồm Ngôn (讠- lời nói) + Thân (身 - thân thể) + Thốn (寸 - tấc lòng): Cúi gập thân mình nói lời cảm tạ tự đáy lòng."
+ },
+ "不客气": {
+  "py": "bú kèqi",
+  "mn": "đừng khách sáo",
+  "hv": "bất khách khí",
+  "ch": 1,
+  "note": "不 (không) + 客 (Khách: mái nhà 宀 + người 各 đến thăm) + 气 (khí chất): Đừng xem nhau như khách ngoài cửa mà câu nệ."
+ },
+ "对不起": {
+  "py": "duìbuqǐ",
+  "mn": "xin lỗi",
+  "hv": "đối bất khởi",
+  "ch": 1,
+  "note": "对 (Đúng/đối diện: Hựu 又 + Thốn 寸) + 不 (không) + 起 (Khởi: Tẩu 走 + Kỷ 己 bước dậy): Cảm thấy có lỗi không dám ngẩng mặt lên."
+ },
+ "没关系": {
+  "py": "méi guānxi",
+  "mn": "không sao",
+  "hv": "một quan hệ",
+  "ch": 1,
+  "note": "没 (không có) + 关 (cửa ải/liên quan) + 系 (sợi tơ kết nối): Không có vướng mắc hay trở ngại gì phải bận tâm."
+ },
+ "再见": {
+  "py": "zàijiàn",
+  "mn": "tạm biệt",
+  "hv": "tái kiến",
+  "ch": 1,
+  "note": "再 (thêm một lần nữa) + 见 (Kiến: Mắt 目 trên đôi chân 儿 nhìn thấy): Hẹn gặp lại nhau bằng mắt một lần nữa."
+ },
+ "人": {
+  "py": "rén",
+  "mn": "người",
+  "hv": "nhân",
+  "ch": 1,
+  "note": "Hình ảnh con người đang sải hai chân bước đi về phía trước với tư thế đứng thẳng hiên ngang."
+ },
+ "家": {
+  "py": "jiā",
+  "mn": "nhà",
+  "hv": "gia",
+  "ch": 1,
+  "note": "Phía trên là Miên (宀 - mái nhà), phía dưới là Thỉ (豕 - con lợn): Dưới mái nhà có chăn nuôi no ấm, sum vầy → Gia đình, nhà."
+ },
+ "爸爸": {
+  "py": "bàba",
+  "mn": "bố",
+  "hv": "bả bả",
+  "ch": 1,
+  "note": "Phụ (父: hai tay cầm roi răn dạy thuở xưa) + Ba (巴: bám chặt/chở che): Người cha nghiêm khắc nhưng là chỗ dựa vững chãi."
+ },
+ "妈妈": {
+  "py": "māma",
+  "mn": "mẹ",
+  "hv": "ma ma",
+  "ch": 1,
+  "note": "Bên trái là Nữ (女 - phụ nữ), bên phải là Mã (马 - con ngựa): Người mẹ dịu dàng nhưng chịu thương chịu khó làm lụng như ngựa vì con."
+ },
+ "儿子": {
+  "py": "érzi",
+  "mn": "con trai",
+  "hv": "nhi tử",
+  "ch": 1,
+  "note": "儿 (Nhi: đôi chân đứa trẻ đang chập chững) + 子 (Tử: em bé dang hai tay): Đứa con trai bé bỏng nối dõi tông đường."
+ },
+ "女儿": {
+  "py": "nǚ'ér",
+  "mn": "con gái",
+  "hv": "nữ nhi",
+  "ch": 1,
+  "note": "女 (Nữ: người con gái đoan trang thùy mị) + 儿 (Nhi: đứa trẻ): Bé gái đáng yêu của cha mẹ."
+ },
+ "朋友": {
+  "py": "péngyou",
+  "mn": "bạn bè",
+  "hv": "bằng hữu",
+  "ch": 1,
+  "note": "朋 (Hai vầng trăng 月 sánh vai tỏa sáng) + 友 (Hai bàn tay 又 đan chặt vào nhau): Hai người bạn cùng chung chí hướng."
+ },
+ "老师": {
+  "py": "lǎoshī",
+  "mn": "giáo viên",
+  "hv": "lão sư",
+  "ch": 1,
+  "note": "老 (Lão: người già chống gậy uyên bác) + 师 (Sư: người dẫn dắt đoàn quân): Bậc tiền bối giàu tri thức đứng ra chỉ đường."
+ },
+ "学生": {
+  "py": "xuésheng",
+  "mn": "học sinh",
+  "hv": "học sinh",
+  "ch": 1,
+  "note": "学 (Trẻ con 子 dưới mái nhà 宀 tiếp thu tri thức) + 生 (Mầm cây nhú khỏi mặt đất): Mầm non đang lớn lên từng ngày."
+ },
+ "同学": {
+  "py": "tóngxué",
+  "mn": "bạn học",
+  "hv": "đồng học",
+  "ch": 1,
+  "note": "同 (Bộ Quynh 冂 + Khẩu 口: cùng chung tiếng nói dưới một mái trường) + 学 (học): Những người cùng học chung lớp."
+ },
+ "年": {
+  "py": "nián",
+  "mn": "năm",
+  "hv": "niên",
+  "ch": 1,
+  "note": "Chữ tượng hình thời xưa vẽ người gánh bó lúa chín trĩu hạt sau mùa gặt: Một chu kỳ mùa màng trôi qua là một Năm."
+ },
+ "月": {
+  "py": "yuè",
+  "mn": "tháng",
+  "hv": "nguyệt",
+  "ch": 1,
+  "note": "Chữ tượng hình vẽ vầng trăng khuyết lơ lửng trời đêm: Chu kỳ trăng tròn rồi khuyết tương ứng với một Tháng."
+ },
+ "日": {
+  "py": "rì",
+  "mn": "ngày",
+  "hv": "nhật",
+  "ch": 1,
+  "note": "Chữ tượng hình vẽ mặt trời rực rỡ soi rọi ban ngày (vòng tròn có chấm sáng ở tâm biến thể thành hình chữ nhật)."
+ },
+ "号": {
+  "py": "hào",
+  "mn": "ngày (mùng)",
+  "hv": "hiệu",
+  "ch": 1,
+  "note": "Phía trên là Khẩu (口 - miệng hô to), dưới là nét gập âm vang: Miệng hô to số hiệu, ngày mùng đánh dấu lịch."
+ },
+ "星期": {
+  "py": "xīngqī",
+  "mn": "tuần",
+  "hv": "tinh kỳ",
+  "ch": 1,
+  "note": "星 (Mặt trời 日 sinh ra 生 muôn ngàn vì sao) + 期 (Kỳ: vầng trăng 月 hẹn ước): Chu kỳ 7 ngày tuần hoàn theo tinh tú."
+ },
+ "点": {
+  "py": "diǎn",
+  "mn": "giờ",
+  "hv": "điểm",
+  "ch": 1,
+  "note": "Phía trên là Chiêm (占: cắm mốc), phía dưới là 4 chấm hỏa (灬): Từng chấm lửa nhỏ rơi xuống đánh dấu mốc thời gian."
+ },
+ "分钟": {
+  "py": "fēnzhōng",
+  "mn": "phút",
+  "hv": "phân chung",
+  "ch": 1,
+  "note": "分 (Dùng dao 刀 chia đôi Bát 八) + 钟 (Chuông kim loại 金 đánh chuông 中 báo giờ): Kim quay chia nhỏ thời gian."
+ },
+ "现在": {
+  "py": "xiànzài",
+  "mn": "bây giờ",
+  "hv": "hiện tại",
+  "ch": 1,
+  "note": "现 (Ngọc Vương 王 phát sáng nhìn thấy Kiến 见 trước mắt) + 在 (Thổ 土 cắm mốc tồn tại): Điều đang hiện hữu ngay lúc này."
+ },
+ "今天": {
+  "py": "jīntiān",
+  "mn": "hôm nay",
+  "hv": "kim thiên",
+  "ch": 1,
+  "note": "今 (Nắp che 人 đậy lên khoảnh khắc hiện tại) + 天 (Bầu trời): Khoảng trời của ngày hiện tại → Hôm nay."
+ },
+ "明天": {
+  "py": "míngtiān",
+  "mn": "ngày mai",
+  "hv": "minh thiên",
+  "ch": 1,
+  "note": "明 (Mặt trời 日 đứng cạnh mặt trăng 月 sáng tỏ) + 天 (Bầu trời): Hết ngày sang đêm, ánh bình minh mới hé rạng."
+ },
+ "吃": {
+  "py": "chī",
+  "mn": "ăn",
+  "hv": "ngật",
+  "ch": 1,
+  "note": "Bên trái là bộ Khẩu (口 - miệng), bên phải là chữ Khất (乞 - xin ăn): Mở miệng đón đồ ăn vào thưởng thức."
+ },
+ "喝": {
+  "py": "hē",
+  "mn": "uống",
+  "hv": "hát",
+  "ch": 1,
+  "note": "Bộ Khẩu (口 - miệng) + Nhật (日 nắng gắt) + Bao (勹) + Nhân (人): Dưới trời nắng chang chang, người ta mở miệng uống nước giải khát."
+ },
+ "看": {
+  "py": "kàn",
+  "mn": "nhìn, xem",
+  "hv": "khán",
+  "ch": 1,
+  "note": "Phía trên là Thủ (手 - bàn tay), phía dưới là Mục (目 - con mắt): Đưa tay lên che trán phía trên mắt để phóng tầm nhìn ra xa."
+ },
+ "听": {
+  "py": "tīng",
+  "mn": "nghe",
+  "hv": "thính",
+  "ch": 1,
+  "note": "Bên trái là bộ Khẩu (口 - miệng), bên phải là chữ Cân (斤 - cái rìu): Lắng nghe từng âm thanh sắc sảo rót vào tai."
+ },
+ "说": {
+  "py": "shuō",
+  "mn": "nói",
+  "hv": "thuyết",
+  "ch": 1,
+  "note": "Bộ Ngôn (讠- lời nói) + Đoái (兑: nụ cười tươi): Lời nói phát ra từ khóe miệng cười tươi giải thích cho người khác hiểu."
+ },
+ "读": {
+  "py": "dú",
+  "mn": "đọc",
+  "hv": "độc",
+  "ch": 1,
+  "note": "Bộ Ngôn (讠- lời nói) + Mại (卖: buôn bán/trao đổi): Dùng giọng nói xướng to rành mạch từng câu chữ như người rao hàng."
+ },
+ "写": {
+  "py": "xiě",
+  "mn": "viết",
+  "hv": "tả",
+  "ch": 1,
+  "note": "Phía trên là Mịch (冖 - mái che), dưới là Dữ (与 - trao ban): Ngồi dưới mái nhà nắn nót ngòi bút trao gửi tâm tình lên giấy."
+ },
+ "做": {
+  "py": "zuò",
+  "mn": "làm",
+  "hv": "tố",
+  "ch": 1,
+  "note": "Nhân đứng (亻- con người) + Cố (故: Cổ 古 + Phộc 攵 hành động): Con người bắt tay vào hành động tạo nên thành quả."
+ },
+ "叫": {
+  "py": "jiào",
+  "mn": "tên là, gọi",
+  "hv": "khiếu",
+  "ch": 1,
+  "note": "Bộ Khẩu (口 - cái miệng) + số Bốn (丩 - sợi dây âm vang): Mở miệng cất tiếng gọi thật to vang xa."
+ },
+ "爱": {
+  "py": "ài",
+  "mn": "yêu",
+  "hv": "ái",
+  "ch": 1,
+  "note": "Móng vuốt (爫) + Mái che (冖) + Trái tim (心) + Bước chân (夂): Dang tay che chở và đặt trọn trái tim nâng niu người ấy."
+ },
+ "去": {
+  "py": "qù",
+  "mn": "đi",
+  "hv": "khứ",
+  "ch": 1,
+  "note": "Thổ (土 - mặt đất) + Khư (厶 - rời đi): Nhấc chân rời khỏi mảnh đất thân quen để đi đến chân trời mới."
+ },
+ "来": {
+  "py": "lái",
+  "mn": "đến",
+  "hv": "lai",
+  "ch": 1,
+  "note": "Tượng hình cây lúa mì trĩu hạt từ phương xa mang đến đem lại sự sống no ấm → Đến, lại."
+ },
+ "回": {
+  "py": "huí",
+  "mn": "về",
+  "hv": "hồi",
+  "ch": 1,
+  "note": "Vòng tròn/vuông lớn (囗) bao bọc lấy vòng nhỏ (口): Hình xoáy trôn ốc quay trở về lại điểm xuất phát ban đầu."
+ },
+ "买": {
+  "py": "mǎi",
+  "mn": "mua",
+  "hv": "mãi",
+  "ch": 1,
+  "note": "Nét móc phía trên và chữ Đầu (头 - cái đầu tính toán): Người đi chợ cúi đầu đếm tiền mua món đồ ưng ý."
+ },
+ "住": {
+  "py": "zhù",
+  "mn": "ở, sống",
+  "hv": "trú",
+  "ch": 1,
+  "note": "Nhân đứng (亻- con người) + Chủ (主 - ngọn đèn/chủ nhà): Dừng chân thắp lên ngọn đèn ấm cúng làm chủ nơi cư ngụ."
+ },
+ "坐": {
+  "py": "zuò",
+  "mn": "ngồi",
+  "hv": "tọa",
+  "ch": 1,
+  "note": "Hai chữ Nhân (人) ngồi đối diện nhau trên mảnh đất (土): Hai người ngồi chuyện trò tâm tình trên mặt đất."
+ },
+ "想": {
+  "py": "xiǎng",
+  "mn": "nhớ, muốn",
+  "hv": "tưởng",
+  "ch": 1,
+  "note": "Phía trên là Tướng (相: Cây 木 + Mắt 目 ngắm nhìn), dưới là Tâm (心 - trái tim): Mắt dõi trông theo và trái tim rung động."
+ },
+ "有": {
+  "py": "yǒu",
+  "mn": "có",
+  "hv": "hữu",
+  "ch": 1,
+  "note": "Phía trên là biến thể bàn tay (𠂇), phía dưới là bộ Nguyệt (月 - miếng thịt nạc): Bàn tay nắm giữ miếng thịt no ấm → Có."
+ },
+ "学习": {
+  "py": "xuéxí",
+  "mn": "học tập",
+  "hv": "học tập",
+  "ch": 1,
+  "note": "学 (Trẻ em 子 dưới mái nhà 宀 học đạo) + 习 (Chim non 羽 tập đập cánh bay): Học tri thức rồi luyện tập đôi cánh."
+ },
+ "喜欢": {
+  "py": "xǐhuan",
+  "mn": "thích",
+  "hv": "hỷ hoan",
+  "ch": 1,
+  "note": "喜 (Trống đánh 壴 + Miệng cười 口: vui mừng đón hỷ sự) + 欢 (Khiếm 欠 há miệng reo vui): Lòng rộn ràng trước điều mình mến."
+ },
+ "水": {
+  "py": "shuǐ",
+  "mn": "nước",
+  "hv": "thủy",
+  "ch": 1,
+  "note": "Chữ tượng hình mô phỏng dòng nước uốn lượn ở giữa với các bọt nước bắn tung tóe hai bên."
+ },
+ "茶": {
+  "py": "chá",
+  "mn": "trà",
+  "hv": "trà",
+  "ch": 1,
+  "note": "Bộ Thảo (艹 - búp trà non) + Nhân (人 - con người) + Mộc (木 - thân gỗ): Con người thong dong hòa mình giữa cỏ cây thưởng trà."
+ },
+ "米饭": {
+  "py": "mǐfàn",
+  "mn": "cơm",
+  "hv": "mễ phạn",
+  "ch": 1,
+  "note": "米 (Hạt thóc nổ bung bốn phía thành gạo) + 饭 (Thực 饣 thức ăn + Phản 反 xới lên): Bát cơm dẻo thơm nuôi dưỡng con người."
+ },
+ "菜": {
+  "py": "cài",
+  "mn": "món ăn",
+  "hv": "thái",
+  "ch": 1,
+  "note": "Bộ Thảo (艹 - rau cỏ) + Thải (采: bàn tay 爫 hái quả trên cây 木): Bàn tay hái những ngọn rau tươi ngon về chế biến món ăn."
+ },
+ "苹果": {
+  "py": "píngguǒ",
+  "mn": "quả táo",
+  "hv": "bình quả",
+  "ch": 1,
+  "note": "苹 (Cỏ cây 艹 bằng phẳng 平) + 果 (Ruộng Điền 田 trên cây 木 kết trái ngọt): Trái cây căng mọng mọc trên cây đem lại bình an."
+ },
+ "书": {
+  "py": "shū",
+  "mn": "sách",
+  "hv": "thư",
+  "ch": 1,
+  "note": "Nét bút mực uốn lượn và dấu chấm son: Tượng hình bàn tay cầm bút lông viết chữ lên thẻ tre đóng thành quyển sách."
+ },
+ "钱": {
+  "py": "qián",
+  "mn": "tiền",
+  "hv": "tiền",
+  "ch": 1,
+  "note": "Kim (钅- vàng bạc, kim loại) + hai mũi thương (戋/戈 - vũ khí tranh đoạt): Thứ kim loại quý giá khiến thiên hạ tranh giành."
+ },
+ "飞机": {
+  "py": "fēijī",
+  "mn": "máy bay",
+  "hv": "phi cơ",
+  "ch": 1,
+  "note": "飞 (Chú chim dang cánh vút bay lên trời cao) + 机 (Mộc 木 + Kỷ 几: cỗ máy động cơ): Cỗ máy có cánh bay lượn trên không."
+ },
+ "桌子": {
+  "py": "zhuōzi",
+  "mn": "cái bàn",
+  "hv": "trác tử",
+  "ch": 1,
+  "note": "桌 (Bói toán ⺊ + Nhật 日 trên chân gỗ 木 vững chãi) + 子: Mặt phẳng bằng gỗ có chân đỡ để đồ đạc, làm việc."
+ },
+ "椅子": {
+  "py": "yǐzi",
+  "mn": "cái ghế",
+  "hv": "ỷ tử",
+  "ch": 1,
+  "note": "椅 (Mộc 木 gỗ lim + Kỷ 奇 lạ kỳ uốn lượn tựa lưng) + 子: Đồ dùng bằng gỗ có lưng tựa êm ái để người ngồi nghỉ."
+ },
+ "学校": {
+  "py": "xuéxiào",
+  "mn": "trường học",
+  "hv": "học hiệu",
+  "ch": 1,
+  "note": "学 (Trẻ nhỏ 子 dưới mái nhà 宀 tiếp thu tri thức) + 校 (Mộc 木 cột kèo + Giao 交 giao lưu kết bạn): Nơi thầy trò cùng học."
+ },
+ "医院": {
+  "py": "yīyuàn",
+  "mn": "bệnh viện",
+  "hv": "y viện",
+  "ch": 1,
+  "note": "医 (Hòm tên 匚 chứa mũi tên 矢 nhổ bỏ vết thương) + 院 (Vùng đất 阝 có mái nhà 宀 che chở trọn vẹn 元): Nơi chữa bệnh."
+ },
+ "商店": {
+  "py": "shāngdiàn",
+  "mn": "cửa hàng",
+  "hv": "thương điếm",
+  "ch": 1,
+  "note": "商 (Mái nhà trao đổi hàng hóa 口) + 店 (Mái hiên 广 che quầy hàng Chiêm 占 buôn bán): Nơi tấp nập khách vào mua sắm."
+ },
+ "饭馆": {
+  "py": "fànguǎn",
+  "mn": "quán ăn",
+  "hv": "phạn quán",
+  "ch": 1,
+  "note": "饭 (Thực 饣 thức ăn xới lên) + 馆 (Thực 饣 + Quan 官 dinh thự phục vụ ẩm thực): Nơi nấu nướng món ngon cho thực khách."
+ },
+ "中国": {
+  "py": "Zhōngguó",
+  "mn": "Trung Quốc",
+  "hv": "Trung Quốc",
+  "ch": 1,
+  "note": "中 (Mũi tên cắm thẳng giữa hồng tâm) + 国 (Bức tường Vi 囗 bao bọc bảo vệ viên ngọc quý Ngọc 玉): Đất nước trung tâm."
+ },
+ "上": {
+  "py": "shàng",
+  "mn": "trên",
+  "hv": "thượng",
+  "ch": 1,
+  "note": "Nét ngang làm mốc bên dưới, nét dọc và nét chấm vươn lên cao: Chỉ vị trí/phương hướng ở phía Trên, lên."
+ },
+ "下": {
+  "py": "xià",
+  "mn": "dưới, xuống",
+  "hv": "hạ",
+  "ch": 1,
+  "note": "Nét ngang làm mốc bên trên, nét dọc và nét chấm trút xuống dưới: Chỉ vị trí/phương hướng ở phía Dưới, xuống."
+ },
+ "里": {
+  "py": "lǐ",
+  "mn": "trong",
+  "hv": "lý",
+  "ch": 1,
+  "note": "Phía trên là ruộng Điền (田), dưới là đất Thổ (土): Bước vào tận sâu bên trong những thửa ruộng bờ đất làng quê."
+ },
+ "前面": {
+  "py": "qiánmian",
+  "mn": "phía trước",
+  "hv": "tiền diện",
+  "ch": 1,
+  "note": "前 (Cắt cỏ bên thuyền 舟/月 mang đao 刂 bước tới) + 面 (Khuôn mặt có đôi mắt nhìn thẳng): Hướng thẳng trước mắt."
+ },
+ "大": {
+  "py": "dà",
+  "mn": "to, lớn",
+  "hv": "đại",
+  "ch": 1,
+  "note": "Hình ảnh một người (人) dang rộng cả hai tay và hai chân hết cỡ để phô diễn sự to lớn, vĩ đại."
+ },
+ "小": {
+  "py": "xiǎo",
+  "mn": "nhỏ",
+  "hv": "tiểu",
+  "ch": 1,
+  "note": "Nét móc đứng ở giữa bị hai nét phẩy hai bên cắt gọt chia nhỏ ra thành những mẩu bé tí teo."
+ },
+ "多": {
+  "py": "duō",
+  "mn": "nhiều",
+  "hv": "đa",
+  "ch": 1,
+  "note": "Hai vầng trăng (Tịch 夕) xếp chồng lên nhau: Đêm này qua đêm khác trôi qua, tích lũy số lượng ngày càng nhiều."
+ },
+ "少": {
+  "py": "shǎo",
+  "mn": "ít",
+  "hv": "thiểu",
+  "ch": 1,
+  "note": "Chữ Tiểu (小 - nhỏ bé) thêm nét phẩy gạt đi: Đã nhỏ bé nay lại bị phẩy gạt bớt đi một phần nữa → Ít."
+ },
+ "冷": {
+  "py": "lěng",
+  "mn": "lạnh",
+  "hv": "lãnh",
+  "ch": 1,
+  "note": "Bên trái là Băng (冫- hai giọt nước đóng băng lạnh cóng), bên phải là Lệnh (令 - mệnh lệnh): Cơn gió lạnh buốt thấu xương."
+ },
+ "热": {
+  "py": "rè",
+  "mn": "nóng",
+  "hv": "nhiệt",
+  "ch": 1,
+  "note": "Phía trên là Chấp (执: tay 扌 cầm nắm đất bốc hơi 丸), dưới là 4 chấm hỏa (灬 - ngọn lửa bùng cháy): Hơi nóng hừng hực bốc lên."
+ },
+ "的": {
+  "py": "de",
+  "mn": "của, trợ từ",
+  "hv": "đích",
+  "ch": 1,
+  "note": "Bên trái là Bạch (白 - màu trắng), bên phải là Thược (勺 - chiếc thìa): Bắn trúng hồng tâm đích điểm; trợ từ sở hữu."
+ },
+ "了": {
+  "py": "le",
+  "mn": "rồi (hoàn thành)",
+  "hv": "liễu",
+  "ch": 1,
+  "note": "Hình em bé sơ sinh vừa chào đời hai tay nép vào thân: Một việc đã ra đời, hoàn thành trọn vẹn → Rồi."
+ },
+ "吗": {
+  "py": "ma",
+  "mn": "không? (hỏi)",
+  "hv": "ma",
+  "ch": 1,
+  "note": "Bên trái là bộ Khẩu (口 - mở miệng ra hỏi), bên phải là chữ Mã (马 - con ngựa trợ âm): Mở miệng hỏi xem phải không."
+ },
+ "呢": {
+  "py": "ne",
+  "mn": "thì sao? (hỏi lại)",
+  "hv": "ni",
+  "ch": 1,
+  "note": "Bên trái là bộ Khẩu (口 - cái miệng), bên phải là Ni (尼 - cô gái nương tựa): Miệng thủ thỉ hỏi vặn lại đối phương."
+ },
+ "车站": {
+  "py": "chēzhàn",
+  "mn": "bến xe, ga",
+  "hv": "xa trạm",
+  "ch": 2,
+  "note": "Từ tiếp theo của anh: 车站 (chēzhàn — Hán Việt: Xa trạm). Nghĩa là: bến xe, ga tàu, trạm xe.1. Chữ 车 (Xa – Xe, phương tiện có bánh)Chữ này là chữ tượng hình thuần túy, nhìn thẳng từ trên trời xuống một cỗ xe ngựa thời xưa:Nét ngang trên cùng (一): Trục bánh trước hoặc cái càng xe.Bộ ở giữa (đóng khung vuông vắn): Khoang/thùng xe để chở người hoặc hàng hóa.Nét sổ thẳng dài xuyên từ trên xuống (丨): Trục chuyển động chính giữa nối toàn bộ xe.Nét ngang dưới cùng (一): Trục bánh sau hoặc điểm tiếp đất.Hình ảnh liên tưởng & Câu chuyện:车 là hình vẽ một chiếc xe đẩy/xe kéo: một trục thẳng 丨 xuyên qua thùng xe ở giữa, hai đầu là hai trục ngang 一 đỡ lấy xe. Cứ thấy chữ nào có dính đến phương tiện đi lại (xe hơi, xe buýt, xe đạp) là hầu hết có mặt chữ 车 này.2. Chữ 站 (Trạm – Đứng, nhà ga, trạm dừng)Chữ này cấu tạo theo kết cấu Trái – Phải:Bên trái: Bộ Lập (立)Hình tượng: Người đang đứng thẳng hai chân trên mặt đất (亠 là đầu vai, hai nét chéo là hai chân dạng ra, nét ngang dưới cùng 一 là mặt đất).Bên phải: Bộ Chiêm / Bói (占)Ý nghĩa: Chiếm giữ, bói toán, nhận lấy một vị trí (gồm nét bói 卜 phía trên miệng 口). Ở đây đóng vai trò lấy vị trí/chiếm chỗ.Hình ảnh liên tưởng & Câu chuyện:Muốn đứng ở bến xe đón người, bạn phải đứng (立) đó và chiếm (占) lấy một vị trí đợi xe đến. Ghép lại thành chữ 站 mang nghĩa là đứng thẳng dậy hoặc trạm dừng chân.Ghép đôi: 车站 (Chēzhàn)Chiếc xe (车) lăn bánh đến nơi có người đang đứng chiếm chỗ chờ (站) $\\rightarrow$ Đó chính là Bến xe / Trạm dừng (车站).Mẹo dùng thực tế:去车站 (Qù chēzhàn): Đi ra bến xe / ga tàu.车站到了。 (Chēzhàn dào le): Đến bến/trạm xe rồi.你在哪个车站？ (Nǐ zài nǎ ge chēzhàn?): Bạn đang ở bến xe/ga nào thế?"
+ },
+ "地铁": {
+  "py": "dìtiě",
+  "mn": "tàu điện ngầm",
+  "hv": "địa thiết",
+  "ch": 2,
+  "note": "Từ tiếp theo: 地铁 (dìtiě — Hán Việt: Địa thiết). Nghĩa là: Tàu điện ngầm (nghĩa đen: sắt/đường sắt dưới lòng đất).1. Chữ 地 (Địa – Đất đai, mặt đất)Chữ này cấu tạo theo kết cấu Trái – Phải:Bên trái: Bộ Thổ (土)Hình tượng: Đất cát, ụ đất nổi lên trên mặt phẳng (十 tượng trưng cho cây cối hoặc mầm cây mọc trồi lên từ mặt đất 一).Bên phải: Chữ Dã (也)Hình tượng: Trong chữ cổ, 也 vẽ hình một dòng nước uốn lượn ngoằn ngoèo hoặc chiếc phễu/bình chứa. Trong ngữ pháp hiện đại, nó có nghĩa là \"cũng\".Hình ảnh liên tưởng & Câu chuyện:Mặt đất (地) là nơi có những ụ đất (土) nhô lên, và cũng (也) là nơi có những rãnh nước, dòng kênh uốn lượn chảy qua. Ghép Thổ với Dã thành chữ Địa (地) chỉ vùng đất, mặt đất.2. Chữ 铁 (Thiết – Sắt, kim loại sắt)Chữ này cấu tạo theo kết cấu Trái – Phải:Bên trái: Bộ Kim (钅 - dạng giản thể của 金)Hình tượng: Kim loại, vàng bạc, quặng sắt được chôn giấu trong lòng đất (gốc chữ 金 có 2 chấm nhỏ hai bên tượng trưng cho quặng kim loại quý).Bên phải: Chữ Thất (失)Nghĩa: Đánh mất, thất lạc, mất mát (nhìn giống một người trượt chân làm rơi mất đồ trên tay).Hình ảnh liên tưởng & Câu chuyện:Sắt (铁) là một thứ kim loại (钅) rất dễ bị gỉ sét và hỏng hóc, nếu không bảo quản cẩn thận thì sẽ bị biến chất và mất đi (失) giá trị ban đầu.Cách nhớ nhanh: Thỏi kim loại (钅) bị thất lạc (失) chôn vùi dưới lòng đất đã biến thành quặng sắt (铁).Ghép đôi: 地铁 (Dìtiě)Dưới lòng đất (地) chạy những con tàu bằng sắt thép (铁) $\\rightarrow$ Đó chính là Tàu điện ngầm (地铁).Mẹo dùng thực tế:坐地铁 (Zuò dìtiě): Đi tàu điện ngầm.地铁站 (Dìtiě zhàn): Ga tàu điện ngầm (ghép chữ 站 - trạm vừa học lúc nãy vào luôn).附近有地铁站吗？ (Fùjìn yǒu dìtiě zhàn ma?): Gần đây có ga tàu điện ngầm nào không?"
+ },
+ "宾馆": {
+  "py": "bīnguǎn",
+  "mn": "khách sạn",
+  "hv": "tân quán",
+  "ch": 2,
+  "note": "Từ tiếp theo: 宾馆 (bīnguǎn — Hán Việt: Tân quán). Nghĩa là: Khách sạn, nhà khách (thường là khách sạn quy mô vừa, nhà nghỉ công vụ, hoặc nơi tiếp đón khách).\n\n1. Chữ 宾 (Tân – Khách quý, khách khứa)\nChữ này cấu tạo theo kết cấu Trên – Dưới:\n\nPhần trên: Bộ Miên (宀)\n\nHình tượng: Mái nhà có chóp nhọn phía trên và hai vách buông xuống hai bên. Cứ chữ nào có 宀 là thường dính đến nhà cửa, không gian có mái che.\n\nPhần dưới: Chữ Binh (兵 - dạng biến thể trong giản thể)\n\nThực tế chữ gốc bên dưới gồm hai thành phần: nét phẩy vắt ngang bên trên và chữ Bối (贝 - bảo bối, tiền tài thời xưa).\n\nHình ảnh liên tưởng & Câu chuyện:\n\nNgười khách quý (宾) khi bước vào dưới mái nhà (宀) của bạn, họ không chỉ mang lại niềm vui tiếp đón mà còn đem theo những món quà, tiền tài / bảo bối (贝) để tặng hoặc giao lưu. Người được đón vào tận trong mái ấm chính là Tân (宾) khách.\n\n2. Chữ 馆 (Quán – Nhà lớn, tòa nhà dịch vụ công cộng/tiếp khách)\nChữ này cấu tạo theo kết cấu Trái – Phải:\n\nBên trái: Bộ Thực (饣 - giản thể của 食)\n\nHình tượng: Thức ăn, đồ ăn, việc ăn uống (như trong 饭 - cơm, 饱 - no).\n\nBên phải: Chữ Quan (官)\n\nÝ nghĩa: Quan chức, quan lại, nhà nước (gồm mái nhà 宀 và hai gian phòng 㠯 xếp chồng, tượng trưng cho phủ đệ, chốn công quyền rộng rãi).\n\nHình ảnh liên tưởng & Câu chuyện:\n\nMuốn mở một quán xá lớn để phục vụ tầng lớp quan lại (官), nơi đó nhất định phải có đầy đủ thức ăn (饣) ngon và chỗ nghỉ ngơi sang trọng. Vì vậy, chữ Quán (馆) đại diện cho các tòa nhà dịch vụ lớn, nơi cung cấp chỗ ăn chỗ ở (như khách sạn, bảo tàng, thư viện).\n\nGhép đôi: 宾馆 (Bīnguǎn)\nĐón khách quý (宾) dưới mái nhà.\n\nĐưa vào tòa nhà dịch vụ sang trọng có phục vụ ăn uống (馆).\n\nKết quả: Nơi đón tiếp khách ăn ở tiện nghi chính là Khách sạn / Nhà khách (宾馆).\n\nMẹo mở rộng bộ nhớ:\nChữ 馆 (Quán) này cực kỳ hay gặp, thấy nó ở đâu là biết ở đó là một tòa nhà dịch vụ/công cộng:\n\n图书馆 (Túshūguǎn): Thư viện (nhà chứa sách/hình vẽ).\n\n饭馆 (Fànguǎn): Quán ăn, nhà hàng (nhà phục vụ cơm).\n\n博物馆 (Bówùguǎn): Viện bảo tàng (nhà trưng bày đồ vật phong phú).\n\nMẹo dùng thực tế:\n\n住宾馆 (Zhù bīnguǎn): Ở khách sạn.\n\n这家宾馆很干净。 (Zhè jiā bīnguǎn hěn gānjìng): Khách sạn này rất sạch sẽ."
+ },
+ "银行": {
+  "py": "yínháng",
+  "mn": "ngân hàng",
+  "hv": "ngân hàng",
+  "ch": 2,
+  "note": "Từ tiếp theo: 银行 (yínháng — Hán Việt: Ngân hàng). Nghĩa là: Ngân hàng.\n\nLưu ý phát âm: Chữ 行 bình thường đọc là xíng (được, đi), nhưng khi đóng vai trò là \"ngành nghề, tiệm buôn, hàng quán\" thì đổi âm sang đọc là háng.\n\n1. Chữ 银 (Ngân – Bạc, tiền bạc)\nChữ này cấu tạo theo kết cấu Trái – Phải:\n\nBên trái: Bộ Kim (钅 - kim loại, tiền tài)\n\nQuen thuộc từ chữ 铁 (sắt) hôm trước: đại diện cho kim khí, khoáng sản quý.\n\nBên phải: Chữ Cấn (艮)\n\nGồm bộ Mục 目 (mắt) biến thể quay ngược lại nhìn, mang ý nghĩa cứng rắn, dừng lại, hoặc đôi mắt đang mở to nhìn trừng trừng.\n\nHình ảnh liên tưởng & Câu chuyện:\n\nBạc (银) là thứ kim loại (钅) sáng lấp lánh khiến ai nhìn thấy cũng phải mở to đôi mắt (艮) trừng trừng chăm chú nhìn theo vì giá trị của nó. Thời xưa bạc đúc thành nén dùng làm tiền tệ, nên cứ nhắc đến chữ Ngân (银) là gắn liền với tiền của.\n\n2. Chữ 行 (Hành / Hàng – Đi lại, bước đi, hàng lối, hiệu buôn)\nChữ này cấu tạo theo dạng Bao quanh hai bên (Trái – Phải ôm lấy khoảng trống):\n\nBên trái: Bộ Xích (彳)\n\nHình nửa bên trái của một ngã tư đường (bước chân trái đi tới).\n\nBên phải: Nửa còn lại (亍)\n\nHình nửa bên phải của ngã tư đường (bước chân phải bước theo).\n\nHình ảnh liên tưởng & Câu chuyện:\n\nGốc chữ 行 vẽ lại hình ảnh một ngã tư đường sầm uất:\n\nNghĩa gốc là đi lại (xíng): chân trái bước (彳), chân phải bước (亍) đi qua ngã tư.\n\nNghĩa phái sinh (háng): Nơi ngã tư đông đúc người qua lại chính là nơi người ta dựng lên các dãy phố buôn bán, các cửa hiệu san sát thành từng hàng từng lối.\n\nGhép đôi: 银行 (Yínháng)\nNơi giao dịch cất giữ tiền bạc (银).\n\nNằm ngay góc sầm uất nhất của dãy hiệu buôn / ngành nghề (行).\n\nKết quả: 银行 chính là Tiệm tiền bạc / Ngân hàng.\n\nMẹo mở rộng bộ nhớ:\n\n银色 (yínsè): Màu bạc.\n\n行业 (hángyè): Ngành nghề, lĩnh vực kinh doanh.\n\n同行 (tóngháng): Đồng nghiệp, người cùng ngành cùng nghề.\n\nMẹo dùng thực tế:\n\n去银行取钱 (Qù yínháng qǔ qián): Đi ngân hàng rút tiền.\n\n中国银行 (Zhōngguó Yínháng): Ngân hàng Trung Quốc (Bank of China)."
+ },
+ "超市": {
+  "py": "chāoshì",
+  "mn": "siêu thị",
+  "hv": "siêu thị",
+  "ch": 2,
+  "note": "Từ tiếp theo: 超市 (chāoshì — Hán Việt: Siêu thị). Nghĩa là: Siêu thị (từ rút gọn của 超级市场 - siêu cấp thị trường).\n\n1. Chữ 超 (Siêu – Vượt qua, siêu việt, vượt trội)\nChữ này cấu tạo theo kết cấu Nửa bao quanh (Bao từ góc Dưới-Trái lên):\n\nBộ Tẩu (走): Nằm ở dưới và kéo dài sang phải\n\nHình tượng: Người đang chạy/đi bộ (土 ở trên là hình người dang tay chân, phần dưới là cái chân bước vội). Mang nghĩa chạy, đi, rời đi.\n\nChữ Đao / Triệu (召): Nằm lọt vào trong lòng góc trên\n\nGồm bộ Đao 刀 (con dao) ở trên và bộ Khẩu 口 (miệng) ở dưới. Chữ này có nghĩa là vẫy gọi, triệu tập (triệu tập bằng lời nói/mệnh lệnh).\n\nHình ảnh liên tưởng & Câu chuyện:\n\nMột người vừa nghe tiếng vẫy gọi (召) đã lập tức cắm đầu chạy (走) hết tốc lực để vượt qua tất cả mọi người khác. Hành động chạy vượt lên dẫn đầu đó chính là Siêu (超) — vượt cấp, vượt xa mức bình thường.\n\n2. Chữ 市 (Thị – Chợ, thành phố, nơi buôn bán)\nChữ này cấu tạo theo kết cấu Trên – Dưới:\n\nNét chấm và nét ngang trên đầu (亠): Bộ Đầu\n\nHình tượng mái che, biển hiệu hoặc chóp tháp của cổng chợ thời cổ.\n\nBộ Khăn / Cân (巾) ở dưới:\n\nHình tượng mảnh vải, chiếc khăn rủ xuống (giống tấm rèm che hoặc lá cờ hiệu treo ở sạp hàng).\n\nHình ảnh liên tưởng & Câu chuyện:\n\nNhìn chữ 市 giống như một gian hàng ngoài chợ:\n\nPhía trên (亠) là mái che bạt / khung lều.\n\nPhía dưới (巾) là tấm vải treo biển hiệu hoặc hàng hóa vải vóc bày ra bán.\n\nNơi tụ họp nhiều quầy lều vải có mái che buôn bán tập nập như thế gọi là Thị (市) — khu chợ, rồi mở rộng ra là thành thị, đô thị.\n\nGhép đôi: 超市 (Chāoshì)\nVượt trội, to lớn (超)\n\nKhu chợ, nơi buôn bán (市)\n\nKết quả: Khu chợ khổng lồ, quy mô vượt xa chợ truyền thống chính là Siêu thị (超市).\n\nMẹo mở rộng bộ nhớ:\n\nChữ 超 (Siêu):\n\n超人 (Chāorén): Siêu nhân.\n\n超级 (Chāojí): Siêu cấp (cực kỳ, rất).\n\nChữ 市 (Thị):\n\n市场 (Shìchǎng): Thị trường, chợ truyền thống.\n\n北京市 (Běijīng Shì): Thành phố Bắc Kinh.\n\nMẹo dùng thực tế:\n\n去超市买东西 (Qù chāoshì mǎi dōngxi): Đi siêu thị mua đồ.\n\n超市几点关门？ (Chāoshì jǐ diǎn guānmén?): Siêu thị mấy giờ đóng cửa?"
+ },
+ "图书馆": {
+  "py": "túshūguǎn",
+  "mn": "thư viện",
+  "hv": "đồ thư quán",
+  "ch": 2,
+  "note": "Từ tiếp theo: 图书馆 (túshūguǎn — Hán Việt: Đồ thư quán). Nghĩa là: Thư viện.Từ này có 3 chữ, trong đó chữ 馆 (Quán) anh đã học ở từ 宾馆 (khách sạn) rồi, giờ ta chỉ cần \"giải mã\" hai chữ đầu: 图 và 书.1. Chữ 图 (Đồ – Bản đồ, bức tranh, hình vẽ)Chữ này cấu tạo theo kết cấu Bao quanh toàn bộ (ngoài bọc lấy trong):Bên ngoài: Bộ Vi (囗)Hình tượng: Một cái khung chữ nhật khép kín (như khung tranh, bức tường bao quanh, hoặc đường viền bản đồ).Bên trong: Chữ Đông (冬 - mùa đông)Gồm nét phẩy-gập 夂 ở trên và hai dấu chấm 冫 ở dưới (tượng trưng cho băng tuyết rơi mùa đông).Hình ảnh liên tưởng & Câu chuyện:Người ta lồng vào bên trong một chiếc khung tranh (囗) một bức vẽ phong cảnh phủ đầy tuyết rơi của mùa đông (冬). Bức vẽ nằm gọn trong khung viền đó chính là một bức Đồ (图) — tranh ảnh, bản đồ, hình vẽ.2. Chữ 书 (Thư – Sách vở, chữ viết, viết lách)Chữ này là dạng giản thể được rút gọn từ chữ phồn thể (書 - vốn vẽ bàn tay cầm cây bút lông viết lên trang giấy):Nét trên cùng: Nét gập gãy khúc cong (横折折钩 - 乛 dạng uốn lượn)Nhìn tựa như mép gáy sách hoặc một cuộn thẻ tre/cuộn giấy đang mở hé ra.Nét ngang (一) và nét sổ thẳng (丨):Tượng trưng cho cây bút kẻ một đường mực thẳng tắp xuống trang giấy.Dấu chấm (丶) trên đỉnh:Giọt mực vừa chấm từ đầu bút lông rớt xuống mép sách.Hình ảnh liên tưởng & Câu chuyện:Nhìn toàn bộ chữ 书, anh hãy tưởng tượng một cuộn sách/tập tài liệu đang xếp gáy đứng, với một cây bút kẻ dọc (丨) qua các hàng ngang để viết, và phía trên góc còn đọng lại một chấm mực (丶). Cứ thấy biểu tượng này là nhớ ngay tới Thư (书) — sách vở, tài liệu.3. Chữ 馆 (Quán – Tòa nhà lớn, nơi phục vụ dịch vụ)(Ôn lại từ đợt trước)Gồm Bộ Thực (饣 - thức ăn) + Chữ Quan (官 - quan lại, phủ đệ).Đại diện cho tòa nhà lớn, công trình công cộng có quy mô rộng rãi để tiếp đón người tới học tập, ăn uống hoặc làm việc.Ghép cụm: 图书馆 (Túshūguǎn)Nơi lưu trữ tranh ảnh, bản đồ (图).Chứa đầy sách (书) vở, tài liệu quý báu.Được đặt trang trọng trong một tòa nhà lớn (馆).Kết quả: Tòa nhà chứa tranh ảnh sách báo $\\rightarrow$ Thư viện (图书馆).Mẹo mở rộng bộ nhớ:Chữ 图 (Đồ):地图 (Dìtú): Bản đồ (ghép chữ 地 - đất đã học ở 地铁).图片 (Túpiàn): Hình ảnh, bức ảnh.Chữ 书 (Thư):看书 (Kàn shū): Đọc sách.书包 (Shūbāo): Cặp sách, balo đựng sách.Mẹo dùng thực tế:去图书馆借书 (Qù túshūguǎn jiè shū): Đi thư viện mượn sách.图书馆很安静。 (Túshūguǎn hěn ānjìng): Thư viện rất yên tĩnh."
+ },
+ "公园": {
+  "py": "gōngyuán",
+  "mn": "công viên",
+  "hv": "công viên",
+  "ch": 2,
+  "note": "Từ tiếp theo: 公园 (gōngyuán — Hán Việt: Công viên). Nghĩa là: Công viên.\n\n1. Chữ 公 (Công – Của chung, công cộng, ông/bố chồng)\nChữ này cấu tạo theo kết cấu Trên – Dưới:\n\nPhần trên: Bộ Bát (八)\n\nHình tượng: Con số 8, nhưng trong tượng hình cổ, nó vẽ hai đường rẽ ra hai hướng khác nhau, mang ý nghĩa chia đều ra, mở rộng ra khắp mọi phía.\n\nPhần dưới: Nét gập (厶 - bộ Khư / Tư)\n\nHình tượng: Vẽ một cái vòng ôm vào người, tượng trưng cho sự riêng tư, tư lợi, cá nhân (như trong 私 - tư).\n\nHình ảnh liên tưởng & Câu chuyện:\n\nChia đôi (八) những cái lợi riêng tư (厶) của từng cá nhân để mang ra chia đều cho tất cả mọi người cùng hưởng. Đó chính là Công (公) — sự công bằng, của công, nơi công cộng.\n\n2. Chữ 园 (Viên – Khu vườn, mảnh đất có ranh giới)\nChữ này cấu tạo theo kết cấu Bao quanh toàn bộ (giống chữ 图 trong 图书馆):\n\nBên ngoài: Bộ Vi (囗)\n\nHình tượng: Bức tường rào, hàng giậu hoặc ranh giới bao bọc xung quanh một khu đất.\n\nBên trong: Chữ Nguyên (元)\n\nÝ nghĩa: Đứng đầu, bắt đầu, đồng tiền (như đồng Nhân dân tệ 元), vẽ hình người đội mũ to trên đầu.\n\nHình ảnh liên tưởng & Câu chuyện:\n\nMột khu đất được rào kín bằng hàng rào (囗) bảo vệ xung quanh, bên trong chôn giấu những đồng tiền vàng (元) và gieo trồng những mầm cây đầu tiên. Khu đất được khoanh vùng rào chắn cẩn thận như thế chính là một khu vườn — Viên (园).\n\nGhép đôi: 公园 (Gōngyuán)\nKhu đất rộng mở cho toàn bộ cộng đồng / của chung (公).\n\nĐược thiết kế thành một khu vườn có ranh giới rào chắn cây cối (园).\n\nKết quả: Khu vườn mở cửa cho toàn bộ công chúng đến dạo chơi chính là Công viên (公园).\n\nMẹo mở rộng bộ nhớ:\n\nChữ 公 (Công):\n\n公司 (Gōngsī): Công ty.\n\n公交车 (Gōngjiāochē): Xe buýt (xe giao thông công cộng — có chữ 车 xe đã học).\n\nChữ 园 (Viên):\n\n花园 (Huāyuán): Vườn hoa.\n\n动物园 (Dòngwùyuán): Vườn bách thú / sở thú.\n\nMẹo dùng thực tế:\n\n去公园散步 (Qù gōngyuán sànbù): Đi công viên dạo bộ.\n\n我家附近有一个公园。 (Wǒ jiā fùjìn yǒu yí ge gōngyuán): Gần nhà tôi có một cái công viên."
+ },
+ "洗手间": {
+  "py": "xǐshǒujiān",
+  "mn": "nhà vệ sinh",
+  "hv": "tẩy thủ gian",
+  "ch": 2,
+  "note": "Từ tiếp theo: 洗手间 (xǐshǒujiān — Hán Việt: Tẩy thủ gian). Nghĩa là: Nhà vệ sinh, phòng rửa tay.Đây là cách nói lịch sự, tao nhã nhất trong tiếng Trung (tương tự như \"restroom\" hay \"washroom\" trong tiếng Anh).1. Chữ 洗 (Tẩy – Rửa, giặt, gột sạch)Chữ này cấu tạo theo kết cấu Trái – Phải:Bên trái: Bộ Ba chấm thủy (氵)Hình tượng: 3 giọt nước bắn ra. Cứ chữ nào cần dùng đến nước để làm việc là hầu hết có bộ này (uống nước, tắm rửa, bơi lội, biển cả).Bên phải: Chữ Tiên (先 - trước, đầu tiên)Gồm nét phẩy ngang ở trên và bộ Nhi 儿 (đôi chân người bước đi phía trước). Có nghĩa là trước tiên, đi trước (như trong 先生 - Tiên sinh/thầy giáo).Hình ảnh liên tưởng & Câu chuyện:Khi đi làm về hoặc chuẩn bị ngồi vào bàn ăn, việc đầu tiên (先) bạn phải làm là hứng lấy dòng nước (氵) để làm sạch cơ thể. Hành động đó chính là Tẩy (洗) — rửa sạch, giặt giũ.2. Chữ 手 (Thủ – Bàn tay)Chữ này là chữ tượng hình thuần túy:Nét phẩy trên cùng (丿): Tượng trưng cho ngón tay cái đưa ra ngoài.Hai nét ngang ở giữa (二): Các khớp ngón tay và lòng bàn tay.Nét cong móc xuyên dọc (亅): Cổ tay và đường trục thẳng kéo xuống cẳng tay.Hình ảnh liên tưởng & Câu chuyện:手 chính là hình vẽ bàn tay với 5 ngón xòe ra gắn liền với cổ tay. Đây là một trong những chữ cơ bản nhất, khi đứng làm bộ thủ bên hông chữ khác nó biến thành bộ Tài gảy (扌).3. Chữ 间 (Gian – Gian phòng, ở giữa, khoảng cách)Chữ này cấu tạo theo kết cấu Nửa bao quanh (Ngoài ôm Lấy trong):Bên ngoài: Bộ Môn (门 - cánh cửa)Hình cánh cửa mở hé (chữ giản thể của 門).Bên trong: Chữ Nhật (日 - mặt trời, ánh sáng)Hình khung tròn/vuông có vạch giữa tượng trưng cho mặt trời.Hình ảnh liên tưởng & Câu chuyện:Hãy tưởng tượng vào buổi sáng sớm, hai cánh cửa (门) khép hờ, một tia nắng ấm áp của mặt trời (日) lọt qua khe cửa rọi vào giữa phòng. Cái khoảng không gian nằm giữa cánh cửa nhận ánh nắng đó được gọi là một Gian (间) — gian phòng, căn phòng, khoảng giữa.Ghép cụm: 洗手间 (Xǐshǒujiān)Rửa (洗)Bàn tay (手)Trong một gian phòng (间)Kết quả: Căn phòng chuyên dùng để rửa tay, chỉnh trang cá nhân $\\rightarrow$ Nhà vệ sinh / Phòng vệ sinh (洗手间).Mẹo mở rộng bộ nhớ:Chữ 洗 (Tẩy):洗衣机 (Xǐyījī): Máy giặt (máy rửa áo quần).洗澡 (Xǐzǎo): Tắm rửa.Chữ 手 (Thủ):手机 (Shǒujī): Điện thoại di động (chiếc máy cầm tay).Chữ 间 (Gian):房间 (Fángjiān): Căn phòng.时间 (Shíjiān): Thời gian.Mẹo dùng thực tế:请问，洗手间在哪儿？ (Qǐngwèn, xǐshǒujiān zài nǎr?): Cho hỏi, nhà vệ sinh ở đâu ạ?我去一下洗手间。 (Wǒ qù yíxià xǐshǒujiān): Tôi đi vệ sinh một chút."
+ },
+ "中间": {
+  "py": "zhōngjiān",
+  "mn": "ở giữa",
+  "hv": "trung gian",
+  "ch": 2,
+  "note": "Từ tiếp theo: 中间 (zhōngjiān — Hán Việt: Trung gian). Nghĩa là: Ở giữa, trung tâm, khoảng giữa.Chữ 间 (Gian) anh vừa học ở từ 洗手间 (nhà vệ sinh) rồi: ánh mặt trời 日 lọt qua khe cửa 门, chỉ khoảng trống / ở giữa. Giờ ta chỉ cần bẻ chữ 中 (Trung).1. Chữ 中 (Trung – Ở giữa, bên trong, trúng đích)Chữ này là chữ tượng hình thuần túy kinh điển nhất trong chữ Hán:Phần khung vuông (口): Đại diện cho một tấm bia ngắm, một khu vực hoặc một vòng tròn ranh giới.Nét sổ thẳng dài xuyên qua chính giữa (丨): Mũi tên cắm thẳng tắp vào tâm điểm.Hình ảnh liên tưởng & Câu chuyện:Hãy tưởng tượng một người bắn cung bắn một phát xuyên thẳng mũi tên 丨 vào chính giữa tâm hồng tâm của tấm bia 口. Nằm ngay hồng tâm, không lệch trái cũng không lệch phải, chính là Trung (中) — ở giữa, trung tâm (và bắn trúng đích cũng dùng chữ này: 中奖 - trúng thưởng).2. Chữ 间 (Gian – Ở giữa, khoảng cách, khoảng không gian)(Ôn lại từ 洗手间)Cửa 门 hé mở để ánh nắng 日 lọt vào ngay chính giữa khe cửa.Đại diện cho khoảng cách, khoảng không nằm giữa hai vật.Ghép đôi: 中间 (Zhōngjiān)Chính giữa (中)Của một khoảng không gian / khoảng cách (间)Kết quả: Vị trí nằm lọt vào trung tâm, ở giữa hai điểm $\\rightarrow$ Ở giữa, trung tâm (中间).Mẹo mở rộng bộ nhớ:Chữ 中 (Trung):中国 (Zhōngguó): Trung Quốc (đất nước ở trung tâm).中文 (Zhōngwén): Tiếng Trung.中午 (Zhōngwǔ): Buổi trưa (khoảng giữa ngày).Chữ 间 (Gian):在这中间 (Zài zhè zhōngjiān): Ở giữa những thứ này / Trong lúc này.Mẹo dùng thực tế:坐在中间 (Zuò zài zhōngjiān): Ngồi ở giữa.苹果在两个香蕉中间。 (Píngguǒ zài liǎng ge xiāngjiāo zhōngjiān): Quả táo nằm ở giữa hai quả chuối.我们两个人的中间 (Wǒmen liǎng ge rén de zhōngjiān): Giữa hai người chúng tôi."
+ },
+ "地方": {
+  "py": "dìfang",
+  "mn": "nơi, chỗ",
+  "hv": "địa phương",
+  "ch": 2,
+  "note": "Từ tiếp theo: 地方 (dìfang — Hán Việt: Địa phương). Nghĩa là: Nơi chốn, chỗ, địa phương.Lưu ý phát âm: Khi đứng một mình, chữ 方 đọc thanh 1 (fāng). Nhưng khi ghép trong cụm danh từ 地方 chỉ nơi chốn, nó thường được đọc nhẹ thành thanh nhẹ (dìfang).Chữ 地 (Địa) anh đã gặp ở từ 地铁 (tàu điện ngầm): gồm bộ Thổ (土 - đất) và chữ Dã (也 - cũng/rãnh nước), chỉ mặt đất, đất đai. Giờ ta bẻ tiếp chữ 方 (Phương).1. Chữ 地 (Địa – Mặt đất, vùng đất)(Ôn lại từ 地铁)Đất đai 土 và những con rạch nước uốn lượn 也 tạo nên mặt đất (地).2. Chữ 方 (Phương – Vuông, hướng, phương hướng)Chữ này cấu tạo theo kết cấu Trên – Dưới:Phần trên: Bộ Đầu (亠)Nét chấm và nét ngang dài trên cùng, tượng trưng cho cái nóc, mái che hoặc điểm mốc phía trên.Phần dưới: Nét móc cong gập (𠃌) và nét phẩy (丿)Trong giáp cốt văn cổ, 方 là hình vẽ một chiếc cày gỗ có tay cầm để xới đất, hoặc hai chiếc thuyền ghép đôi song song lái về một hướng.Trong quan niệm cổ xưa của người Á Đông: \"Trời tròn, đất vuông\" (Thiên viên địa phương).Hình ảnh liên tưởng & Câu chuyện:Nhìn chữ 方 như một chiếc la bàn định vị:Phía trên (亠) là cây kim chỉ mốc phương hướng.Phía dưới (𠃌 và 丿) là mũi tên rẽ hướng sang các cạnh góc vuông.Chữ này chỉ bốn phương tám hướng (Đông, Tây, Nam, Bắc) và các góc vuông vắn.Ghép đôi: 地方 (Dìfang)Mặt đất đai (地).Chia theo từng hướng, từng góc phương vị (方) cụ thể.Kết quả: Một mảnh đất thuộc về một phương hướng cụ thể nào đó $\\rightarrow$ Nơi chốn, chỗ, địa phương (地方).Mẹo mở rộng bộ nhớ:Chữ 方 (Phương):方向 (Fāngxiàng): Phương hướng.方便 (Fāngbiàn): Tiện lợi, thuận tiện (tiện theo hướng đi của mình).北方 (Běifāng): Miền Bắc / Phương Bắc.Ghép lại với chữ 地 (Địa):地址 (Dìzhǐ): Địa chỉ (chỗ ở trên đất).地图 (Dìtú): Bản đồ (đã gặp ở chữ 图 trong 图书馆).Mẹo dùng thực tế:这个地方很漂亮。 (Zhè ge dìfang hěn piàoliang): Chỗ này / nơi này rất đẹp.你去过什么地方？ (Nǐ qùguo shénme dìfang?): Anh từng đi qua những nơi nào rồi?我找不到这个地方。 (Wǒ zhǎo bú dào zhè ge dìfang): Tôi không tìm thấy chỗ này."
+ },
+ "见面": {
+  "py": "jiànmiàn",
+  "mn": "gặp mặt",
+  "hv": "kiến diện",
+  "ch": 2,
+  "note": "Từ tiếp theo: 见面 (jiànmiàn — Hán Việt: Kiến diện). Nghĩa là: Gặp mặt, gặp gỡ.1. Chữ 见 (Kiến – Nhìn thấy, trông thấy, gặp)Chữ này cấu tạo theo kết cấu Trên – Dưới:Phần trên: Khung hình chữ nhật bo góc (冂 có nét ngang bên trong, vốn biến thể từ bộ Mục 目 - con mắt)Tượng trưng cho con mắt đang mở to để quan sát.Phần dưới: Bộ Nhi (儿)Hai nét phẩy và móc cong ở dưới tượng trưng cho đôi chân người đang đứng hoặc bước đi.Hình ảnh liên tưởng & Câu chuyện:Trong chữ giáp cốt văn cổ, 见 vẽ lại hình ảnh một người với đôi chân (儿) bên dưới, nhưng phần đầu được vẽ phóng đại thành một con mắt (目) khổng lồ đang nhìn chằm chằm về phía trước.Câu chuyện: Người ta phải dùng chân (儿) bước lại gần, dùng mắt để nhìn ngắm nhau thì mới gọi là Kiến (见) — nhìn thấy, trông thấy, tương kiến.2. Chữ 面 (Diện – Khuôn mặt, bề mặt, sợi mì)Chữ này là chữ tượng hình thuần túy:Nét ngang trên cùng (一): Vầng trán hoặc đường viền chân tóc trên đầu.Khung bao quanh (囗 bo tròn): Đường nét của cả khuôn mặt.Phần bên trong (có nét phẩy và các nét gạch bên trong): Tượng trưng cho sống mũi và đôi mắt nằm trọn trong khuôn mặt.Hình ảnh liên tưởng & Câu chuyện:Nhìn chữ 面 giống hệt một bức chân dung chụp thẳng: có đường trán phía trên 一, khung cằm má bao quanh bên ngoài, và các chi tiết mắt mũi nằm gọn ở giữa. Cứ thấy biểu tượng này là nhớ ngay tới Diện (面) — khuôn mặt, diện mạo (hoặc bề mặt phẳng của một vật).Ghép đôi: 见面 (Jiànmiàn)Dùng mắt nhìn thấy (见).Khuôn mặt (面) của đối phương.Kết quả: Nhìn thấy mặt nhau trực tiếp $\\rightarrow$ Gặp mặt, gặp gỡ (见面).Mẹo mở rộng bộ nhớ:Chữ 见 (Kiến):再见 (Zàijiàn): Tạm biệt (hẹn gặp lại).意见 (Yìjiàn): Ý kiến (cái nhìn, quan điểm từ suy nghĩ).Chữ 面 (Diện):面条 (Miàntiáo): Mì sợi (sợi mì cán phẳng).前/后/左/右 面 (Qián/hòu/zuǒ/yòu miàn): Phía trước / sau / trái / phải.Mẹo ngữ pháp & dùng thực tế:Chữ này là động từ ly hợp (đã có sẵn tân ngữ \"mặt\" ở đuôi), nên không nói 见面你, mà phải dùng cấu trúc: 跟 / 和 + Ai đó + 见面 (Gặp gỡ cùng ai).我想跟你见面。 (Wǒ xiǎng gēn nǐ jiànmiàn): Anh muốn gặp mặt em.我们明天见面吧！ (Wǒmen míngtiān jiànmiàn ba!): Ngày mai tụi mình gặp nhau nhé!"
+ },
+ "聊天儿": {
+  "py": "liáotiānr",
+  "mn": "trò chuyện",
+  "hv": "liêu thiên nhi",
+  "ch": 2,
+  "note": "Từ tiếp theo: **聊天儿** (*liáotiānr* — Hán Việt: *Liêu thiên nhi*). Nghĩa là: **Nói chuyện phiếm, tán gẫu, trò chuyện**.\n\n*Lưu ý ngữ âm:* Người miền Bắc Trung Quốc (đặc biệt là Bắc Kinh) cực kỳ thích thêm âm cuốn lưỡi **儿 (r)** vào đuôi từ này. Nếu không quen uốn lưỡi, anh chỉ cần nói **聊天** (*liáotiān*) là cả nước đều hiểu chuẩn xác.\n\n---\n\n### 1. Chữ 聊 (Liêu – Nói chuyện, trò chuyện, nhàn rỗi)\n\nChữ này cấu tạo theo kết cấu Trái – Phải:\n\n* **Bên trái: Bộ Nhĩ (耳)**\n* Quen thuộc từ chữ *联* (liên hệ): Hình chiếc **tai** dùng để nghe.\n\n\n* **Bên phải: Chữ Mão (卯)**\n* Trong 12 con giáp, Mão là giờ Mão (5 giờ đến 7 giờ sáng) hoặc con Mèo/Thỏ.\n* Cấu tạo chữ nhìn giống như hai cánh cửa gỗ đang mở toang ra (`𠂎` bên trái và `卩` bên phải giống then cửa buông xuống).\n\n\n\n**Hình ảnh liên tưởng & Câu chuyện:**\n\n> Sáng sớm giờ Mão (**卯**), vừa mở toang cánh cửa nhà ra là hàng xóm đã ghé sát cái **tai (耳)** vào để nghe ngóng tin tức đầu ngày rồi rủ nhau buôn dưa lê. Dỏng **tai** nghe chuyện bên cánh **cửa** mở chính là chữ **Liêu (聊)** — trò chuyện, tán phét giết thời gian.\n\n---\n\n### 2. Chữ 天 (Thiên – Trời, bầu trời, ban ngày)\n\nChữ này là chữ tượng hình thuần túy:\n\n* **Bên dưới: Chữ Đại (大 - to lớn)**\n* Hình một người dang rộng cả hai tay và hai chân.\n\n\n* **Nét ngang trên cùng (一):**\n* Tượng trưng cho vòm trời bao la phủ ngay trên đỉnh đầu con người.\n\n\n\n**Hình ảnh liên tưởng & Câu chuyện:**\n\n> Một người đứng dang rộng chân tay (**大**) đã thấy mình to lớn, nhưng nhìn lên trên đỉnh đầu thì vẫn còn một mái vòm bao la vô tận (**一**). Thứ cao hơn cả con người to lớn đó chính là **Trời — Thiên (天)**.\n\n---\n\n### 3. Chữ 儿 (Nhi – Trẻ con, con cái, âm cuốn lưỡi)\n\nChữ này vẽ hình một đứa bé mới biết đi:\n\n* Nét phẩy `丿` bên trái và nét cong móc `乚` bên phải tựa như **đôi chân nhỏ xíu** của đứa trẻ chập chững bước đi.\n* Khi đứng cuối từ trong văn nói, nó đóng vai trò là \"âm uốn lưỡi\" tạo cảm giác thân mật, suồng sã, gần gũi như cách nói chuyện thường ngày.\n\n---\n\n### Ghép cụm: 聊天儿 (Liáotiānr)\n\n* Ghé tai nói chuyện rôm rả (**聊**).\n* Nói đủ thứ chuyện trên trời dưới biển (**天**).\n* Thêm ngữ khí tán gẫu đời thường, gần gũi (**儿**).\n* **Kết quả:** Bàn chuyện trên trời dưới đất để giải khuây $\\rightarrow$ **Tán gẫu, trò chuyện phiếm (聊天儿)**.\n\n---\n\n**Mẹo mở rộng bộ nhớ:**\n\n* Chữ **聊** (Liêu):\n* *无聊* (Wúliáo): Vô vị, nhàm chán (không có chuyện gì để nói/làm).\n* *聊一聊* (Liáo yì liáo): Nói chuyện một chút.\n\n\n* Chữ **天** (Thiên):\n* *今天* (Jīntiān): Hôm nay.\n* *天气* (Tiānqì): Thời tiết.\n\n\n\n**Mẹo dùng thực tế:**\n\n* *我们坐下来聊天儿吧。* (Wǒmen zuò xiàlái liáotiānr ba): Tụi mình ngồi xuống nói chuyện phiếm chút đi.\n* *我喜欢跟你聊天儿。* (Wǒ xǐhuan gēn nǐ liáotiānr): Tôi rất thích trò chuyện với bạn."
+ },
+ "帮忙": {
+  "py": "bāngmáng",
+  "mn": "giúp đỡ",
+  "hv": "bang mang",
+  "ch": 2,
+  "note": "Từ tiếp theo: **帮忙** (*bāngmáng* — Hán Việt: *Bang mang*). Nghĩa là: **Giúp đỡ, nhờ giúp đỡ**.\n\n---\n\n### 1. Chữ 帮 (Bang – Giúp đỡ, bè phái, bang hội)\n\nChữ này cấu tạo theo kết cấu Trên – Dưới:\n\n* **Góc trên bên trái: Bộ Phụ / Ấp dạng giản thể (邦 rút gọn thành 阝/邦)**\n* Nguyên gốc chữ trên là chữ **Bang (邦)** trong *bang hội, đất nước, thôn xóm*.\n\n\n* **Góc trên bên phải: Chữ Thốn (寸 - tấc, gang tay)**\n* Hình tượng bàn tay đo khoảng cách nhỏ, tượng trưng cho tấc đất, sự đong đếm chừng mực hoặc phép tắc.\n\n\n* **Phần dưới: Bộ Khăn / Cân (巾)**\n* Hình mảnh vải, chiếc khăn rủ xuống (đã gặp ở chữ *市* trong *超市*).\n\n\n\n**Hình ảnh liên tưởng & Câu chuyện:**\n\n> Trong một **bang hội (邦)** anh em, khi một người gặp khó khăn, những người khác không đứng nhìn mà xắn tay áo, cầm **khăn vải (巾)** ra lau mồ hôi, cùng góp sức chia sẻ gánh nặng. Hành động xúm lại cứu trợ lẫn nhau trong hội nhóm đó chính là **Bang (帮)** — giúp đỡ, tương trợ.\n\n---\n\n### 2. Chữ 忙 (Mang – Bận rộn, vội vã)\n\nChữ này cấu tạo theo kết cấu Trái – Phải:\n\n* **Bên trái: Bộ Tâm đứng (忄)**\n* **Hình tượng:** Trái tim, tâm can, cảm xúc trong lòng (dạng viết dọc của bộ Tâm `心`). Cứ chữ nào liên quan đến tâm trạng, suy nghĩ, cảm xúc là hay có bộ này (như *情* - tình, *快* - nhanh/vui).\n\n\n* **Bên phải: Chữ Vong (亡)**\n* **Ý nghĩa:** Mất mát, tiêu tan, chết đi (gồm mái che `亠` và góc khuất trốn tránh `乚`).\n\n\n\n**Hình ảnh liên tưởng & Câu chuyện:**\n\n> Khi công việc dồn dập đến mức **trái tim, tâm trí (忄)** của bạn bị cuốn phăng đi, cảm giác như **chết lặng / tiêu tan (亡)** không còn chút thời gian nào để thở. Trạng thái \"tâm hồn lạc lối vì quá tải\" đó chính là **Mang (忙)** — bận rộn, tất bật.\n\n---\n\n### Ghép đôi: 帮忙 (Bāngmáng)\n\n* Đưa tay ra **giúp sức (帮)**.\n* Cho một người đang ngập đầu trong **bận rộn, kiệt sức (忙)**.\n* **Kết quả:** Thấy người ta bận rộn rối bời mà xắn tay vào phụ một tay $\\rightarrow$ **Giúp đỡ, đỡ đần (帮忙)**.\n\n---\n\n**Mẹo mở rộng bộ nhớ:**\n\n* Chữ **帮** (Bang):\n* *帮派* (bāngpài): Bang phái.\n* *帮我* (bāng wǒ): Giúp tôi (lúc này *帮* dùng như ngoại động từ: *帮 + ai đó*).\n\n\n* Chữ **忙** (Mang):\n* *你忙吗？* (Nǐ máng ma?): Bạn có bận không?\n* *我很忙。* (Wǒ hěn máng): Tôi rất bận.\n\n\n\n**Mẹo ngữ pháp & dùng thực tế:**\n\n* Tương tự chữ *见面*, chữ **帮忙** là động từ ly hợp (đã chứa chữ *忙* phía sau), nên **không nói** *帮忙我*, mà nói:\n* *帮我的忙* (Bāng wǒ de máng): Giúp một tay cho tôi.\n* *你能帮我一个忙吗？* (Nǐ néng bāng wǒ yí ge máng ma?): Bạn có thể giúp tôi một việc được không?\n* *谢谢你的帮忙！* (Xièxie nǐ de bāngmáng!): Cảm ơn sự giúp đỡ của bạn!"
+ },
+ "借": {
+  "py": "jiè",
+  "mn": "mượn",
+  "hv": "tá",
+  "ch": 2,
+  "note": "Từ tiếp theo: **借** (*jiè* — Hán Việt: *Tá*). Nghĩa là: **Vay, mượn** (hoặc cho vay, cho mượn tùy theo ngữ cảnh).\n\n---\n\n### Cấu tạo chữ 借 (Tá)\n\nChữ này cấu tạo theo kết cấu Trái – Phải:\n\n* **Bên trái: Bộ Nhân đứng (亻)**\n* **Hình tượng:** Người đang đứng nghiêng (dạng biến thể khi đứng bên cạnh của chữ Nhân `人`). Cứ việc gì gắn liền với hành vi, mối quan hệ giữa người với người là thường có bộ này.\n\n\n* **Bên phải: Chữ Tích (昔 - ngày xưa, quá khứ)**\n* Chữ này gồm hai phần ghép lại:\n* **Phần trên (`艹` biến thể của những dải thịt khô/nhiều lớp):** Tượng trưng cho những xâu thịt hoặc đồ tích trữ từ ngày xưa được phơi khô xếp lớp.\n* **Phần dưới là chữ Nhật (日 - ngày tháng, mặt trời):** Chỉ thời gian trôi qua.\n* Ghép lại, **昔** mang nghĩa là chuyện ngày xưa, quá khứ (như trong *昔日 - ngày trước, xưa kia*).\n\n\n\n\n\n---\n\n### Hình ảnh liên tưởng & Câu chuyện\n\n> Chuyện vay mượn xưa nay luôn xảy ra giữa **con người với con người (亻)**. Khi một người túng thiếu chạy đến gõ cửa nhờ cậy, người kia sẽ mở kho lôi những món đồ, lương thực đã tích lũy từ **ngày xưa (昔)** ra để chia sẻ.\n> *Cách nhớ nhanh:* **Người (亻)** đem đồ tích trữ từ **xưa (昔)** ra cho người khác mượn tạm qua cơn ngặt nghèo $\\rightarrow$ **Mượn, vay (借)**.\n\n---\n\n**Mẹo mở rộng bộ nhớ:**\n\n* Chữ **昔** (Tích):\n* *往昔* (wǎngxī): Quá khứ, ngày trước.\n* *可惜* (kěxī): Đáng tiếc (chữ *惜 - Tiếc* gồm bộ Tâm `忄` ghép với chữ `昔` này: tiếc nuối chuyện ngày xưa).\n\n\n\n**Mẹo ngữ pháp & dùng thực tế:**\n\n* *Mượn từ ai:* Dùng cấu trúc **跟 / 向 + Ai đó + 借**\n* *我想跟你借一本书。* (Wǒ xiǎng gēn nǐ jiè yì běn shū): Tôi muốn mượn bạn một cuốn sách (sách *书* đã học ở *图书馆*).\n\n\n* *Cho ai mượn:* Dùng cấu trúc **借给 + Ai đó**\n* *把钱借给他* (Bǎ qián jiè gěi tā): Cho anh ấy mượn tiền.\n\n\n* *借用* (jièyòng): Mượn dùng tạm một chút."
+ },
+ "汉语": {
+  "py": "Hànyǔ",
+  "mn": "tiếng Hán",
+  "hv": "hán ngữ",
+  "ch": 2,
+  "note": "Từ tiếp theo: **汉语** (*hànyǔ* — Hán Việt: *Hán ngữ*). Nghĩa là: **Tiếng Trung, tiếng Hán** (ngôn ngữ của dân tộc Hán).\n\n---\n\n### 1. Chữ 汉 (Hán – Dân tộc Hán, sông Hán Thủy, người đàn ông)\n\nChữ này cấu tạo theo kết cấu Trái – Phải:\n\n* **Bên trái: Bộ Ba chấm thủy (氵)**\n* Quen thuộc từ chữ *洗* (tẩy - rửa): Tượng trưng cho **nước, dòng sông**.\n\n\n* **Bên phải: Chữ Hựu (又)**\n* **Hình tượng:** Một cánh tay hoặc bàn tay phải nắm lại (nghĩa mở rộng trong ngữ pháp là \"lại, vả lại\").\n\n\n\n**Hình ảnh liên tưởng & Câu chuyện:**\n\n> Tên gọi nhà Hán và người Hán bắt nguồn từ dòng sông **Hán Thủy** cổ xưa.\n> *Cách nhớ nhanh:* Dòng **nước (氵)** cuồn cuộn chảy qua vùng đất nơi những bàn **tay (又)** người đàn ông vạm vỡ khai hoang lập nghiệp hết lần này đến lần khác. Dòng sông và con người nơi ấy lập nên triều đại nhà **Hán (汉)**.\n\n---\n\n### 2. Chữ 语 (Ngữ – Ngôn ngữ, lời nói)\n\nChữ này cấu tạo theo kết cấu Trái – Phải:\n\n* **Bên trái: Bộ Ngôn (讠 - dạng giản thể của 言)**\n* **Hình tượng:** Cây bút lông hoặc chiếc lưỡi thè ra phát ra âm thanh. Cứ chữ nào dính đến **lời nói, trò chuyện, thảo luận** là có bộ này (như *说* - nói, *请* - xin/mời, *话* - lời nói).\n\n\n* **Bên phải: Chữ Ngũ (五) + Bộ Khẩu (口)**\n* **Ngũ (五):** Con số 5.\n* **Khẩu (口):** Cái miệng.\n* Ghép lại thành chữ **Ngô (吾)**, chữ cổ có nghĩa là **Tôi, bản thân ta** (5 giác quan cùng hướng về một miệng $\\rightarrow$ Tôi).\n\n\n\n**Hình ảnh liên tưởng & Câu chuyện:**\n\n> Dùng **lời nói (讠)** để diễn đạt những suy nghĩ phát ra từ **miệng (口)** của chính bản thân **tôi (吾)**. Thứ công cụ dùng lời để bộc lộ tâm tư cá nhân ra ngoài chính là **Ngữ (语)** — ngôn ngữ, tiếng nói.\n\n---\n\n### Ghép đôi: 汉语 (Hànyǔ)\n\n* Dân tộc / người **Hán (汉)**.\n* Lời nói, ngôn **ngữ (语)**.\n* **Kết quả:** Tiếng nói của người Hán $\\rightarrow$ **Tiếng Trung / Hán ngữ (汉语)**.\n\n---\n\n**Mẹo mở rộng bộ nhớ:**\n\n* Chữ **汉** (Hán):\n* *汉字* (Hànzì): Chữ Hán.\n* *汉堡* (Hànbǎo): Bánh hamburger (từ mượn phiên âm).\n\n\n* Chữ **语** (Ngữ):\n* *英语* (Yīngyǔ): Tiếng Anh.\n* *语法* (Yǔfǎ): Ngữ pháp.\n* *口语* (Kǒuyǔ): Khẩu ngữ (văn nói).\n\n\n\n**Mẹo dùng thực tế:**\n\n* *我学汉语。* (Wǒ xué Hànyǔ): Tôi học tiếng Trung.\n* *汉语不难。* (Hànyǔ bù nán): Tiếng Trung không khó.\n* *你的汉语很好！* (Nǐ de Hànyǔ hěn hǎo!): Tiếng Trung của bạn rất tốt đấy!"
+ },
+ "换": {
+  "py": "huàn",
+  "mn": "đổi",
+  "hv": "hoán",
+  "ch": 2,
+  "note": "Từ tiếp theo: **换** (*huàn* — Hán Việt: *Hoán*). Nghĩa là: **Đổi, thay đổi, hoán đổi** (như đổi tiền, thay quần áo, đổi chuyến xe).\n\n---\n\n### Cấu tạo chữ 换 (Hoán)\n\nChữ này cấu tạo theo kết cấu Trái – Phải:\n\n* **Bên trái: Bộ Tài gảy (扌 - biến thể của chữ Thủ 手)**\n* Quen thuộc từ chữ *手* trong *洗手间*: Hình tượng một **bàn tay** xòe ra để cầm, nắm, bốc, thao tác hành động.\n\n\n* **Bên phải: Chữ Hoán (奂 - dạng cổ)**\n* **Phần trên: Chữ Thao/Khảm thu nhỏ (勹 biến thể có nét phẩy `⺈` hoặc `刀` cách điệu)**: Tượng trưng cho bàn tay úp xuống bao bọc lấy đồ vật.\n* **Phần dưới: Chữ Đại (大)**: Hình người dang tay to lớn.\n* Bản thân chữ **奂** mang ý nghĩa biến hóa, rực rỡ, rộng mở (như trong *美奂美仑* - tráng lệ, lộng lẫy).\n\n\n\n---\n\n### Hình ảnh liên tưởng & Câu chuyện\n\n> Chữ này là một chuỗi động tác của bàn tay khi trao đổi hàng hóa:\n> * Bên trái là **bàn tay (扌)** đưa đồ vật ra.\n> * Bên phải là hình ảnh thu nhỏ của người khác đang xòe tay đón lấy và biến hóa (**奂**) món đồ đó thành một món đồ to lớn (**大**) khác đưa lại cho bạn.\n> \n> \n> *Cách nhớ nhanh:* Dùng **bàn tay (扌)** đưa vật này đi và đón lấy một thứ to lớn (**大**) khác về $\\rightarrow$ **Đổi, hoán đổi (换)**.\n\n---\n\n### Mẹo mở rộng bộ nhớ\n\n* **Cùng bộ Thủ (扌):** Cứ chữ nào hành động dùng tay dứt khoát là có bộ này:\n* *打* (dǎ): Đánh, gõ, gọi điện.\n* *找* (zhǎo): Tìm kiếm, trả lại tiền thừa.\n\n\n* **Chữ ghép phổ biến với 换:**\n* *换钱* (huàn qián): Đổi tiền (ghép với tiền/bạc *银* trong *银行*).\n* *换衣服* (huàn yīfu): Thay quần áo.\n* *换车* (huàn chē): Đổi xe, chuyển tuyến xe (ghép với chữ *车* trong *车站*).\n\n\n\n---\n\n### Mẹo dùng thực tế\n\n* *我想换钱。* (Wǒ xiǎng huàn qián): Tôi muốn đổi tiền.\n* *在哪个车站换车？* (Zài nǎ ge chēzhàn huàn chē?): Đổi xe ở ga/trạm nào thế?\n* *换一件新的。* (Huàn yí jiàn xīn de): Đổi một cái mới."
+ },
+ "遇到": {
+  "py": "yùdào",
+  "mn": "gặp phải",
+  "hv": "ngộ đáo",
+  "ch": 2,
+  "note": "Từ tiếp theo: 遇到 (yùdào — Hán Việt: Ngộ đáo). Nghĩa là: Gặp phải, bắt gặp, tình cờ gặp (dùng cho cả người, sự việc hay khó khăn).1. Chữ 遇 (Ngộ – Gặp gỡ, tao ngộ, tình cờ gặp)Chữ này cấu tạo theo kết cấu Nửa bao quanh (Bao từ góc Dưới-Trái lên):Bộ Quai xước (辶 - biến thể của chữ 辵): Nằm ở dưới và kéo dài sang phảiHình tượng: Một con đường và một bàn chân bước đi (丶 là đầu bước chân, nét ngoằn ngoèo kéo dài là con đường dài). Cứ việc gì liên quan đến đi lại, di chuyển trên đường, khoảng cách là thường có bộ này (như 进 - vào, 远 - xa, 送 - đưa tiễn).Chữ Ngu (禺): Nằm lọt trong lòng góc trênGồm khung vuông có nét sổ ở trên (日 cách điệu) và phần dưới giống như một góc vuông có đuôi quặp lại. Gốc chữ này vẽ một góc rẽ, ngóc ngách hoặc hình ảnh con vượn/khỉ đang nép mình trong góc.Hình ảnh liên tưởng & Câu chuyện:Đang sải bước đi trên con đường (辶), vừa quẹo qua một khúc quanh hay góc hẻm (禺), đột nhiên giật mình chạm mặt một người quen cũ bước tới. Cuộc chạm trán bất ngờ ngay góc đường đó chính là Ngộ (遇) — kỳ ngộ, tình cờ gặp gỡ.2. Chữ 到 (Đáo – Đến nơi, tới, đạt được)Chữ này cấu tạo theo kết cấu Trái – Phải:Bên trái: Chữ Chí (至 - đến, đỉnh điểm)Hình tượng: Trong giáp cốt văn, 至 vẽ hình một mũi tên bắn từ xa bay cắm phập xuống mặt đất (一 ở dưới là mặt đất, phần trên là mũi tên và đuôi lông chim cắm ngập vào). Mang ý nghĩa mũi tên đã bay tới đích.Bên phải: Bộ Đao đứng (刂 - biến thể của chữ 刀)Hình tượng: Một con dao sắc bén dựng đứng.Hình ảnh liên tưởng & Câu chuyện:Mũi tên bay xuyên qua không gian cắm phập xuống đất (至), như một nhát dao sắc bén (刂) cắm mốc dứt khoát tại điểm dừng. Khi mũi tên đã cắm vào đích, tức là hành trình đã Đáo (到) — đến nơi, chạm đích, đạt tới kết quả.Ghép đôi: 遇到 (Yùdào)Tình cờ chạm mặt trên đường (遇).Chạm ngay vào điểm hẹn / đối tượng cụ thể (到 đóng vai trò bổ ngữ kết quả, biểu thị đã chạm tới, thấy được).Kết quả: Đi trên đường bỗng dưng chạm mặt hoặc đụng phải sự việc gì đó $\\rightarrow$ Gặp phải, bắt gặp (遇到).So sánh nhanh: 见面 (Jiànmiàn) vs 遇到 (Yùdào)见面 (Kiến diện): Thường là gặp có hẹn trước, hai người ngồi xuống trò chuyện, gặp mặt trực tiếp (明天我们见面 - Mai chúng ta gặp nhau nhé).遇到 (Ngộ đáo): Mang tính bất ngờ, ngẫu nhiên, không hẹn trước (như va phải người quen ngoài đường, hoặc gặp phải rắc rối).Mẹo mở rộng bộ nhớ:Chữ 遇 (Ngộ):遇险 (yùxiǎn): Gặp nguy hiểm.相遇 (xiāngyù): Gặp nhau, tao ngộ.Chữ 到 (Đáo):到了 (dào le): Đến nơi rồi.找到 (zhǎodào): Tìm thấy rồi (chữ 找 ghép bổ ngữ 到).Mẹo dùng thực tế:今天我在路上遇到了一个老朋友。 (Jīntiān wǒ zài lù shang yùdào le yí ge lǎo péngyou): Hôm nay tôi tình cờ gặp một người bạn cũ trên đường.遇到困难不要怕。 (Yùdào kùnnan bú yào pà): Gặp phải khó khăn thì đừng sợ."
+ },
+ "迟到": {
+  "py": "chídào",
+  "mn": "đến muộn",
+  "hv": "trì đáo",
+  "ch": 2,
+  "note": "Từ tiếp theo: 迟到 (chídào — Hán Việt: Trì đáo). Nghĩa là: Đến muộn, đi trễ.Chữ 到 (Đáo) anh vừa học ở từ 遇到: mũi tên cắm phập xuống đất 至 cắm mốc như nhát dao 刂, nghĩa là đến nơi, chạm đích. Bây giờ chỉ cần bẻ chữ 迟 (Trì).1. Chữ 迟 (Trì – Chậm trễ, muộn màng)Chữ này cấu tạo theo kết cấu Nửa bao quanh (Bao từ góc Dưới-Trái lên):Bộ Quai xước (辶): Nằm ở dưới và kéo dài sang phảiQuen thuộc từ chữ 遇 trong 遇到: Hình tượng con đường và bước chân đi lại.Chữ Xích (尺): Nằm lọt trong lòng góc trênHình tượng: Cây thước đo độ dài thời xưa (khoảng 1 gang tay hoặc 1/3 mét).Hình ảnh liên tưởng & Câu chuyện:Người ta đi lại trên con đường (辶) mà cứ cắm cúi cầm từng chiếc thước kẻ (尺) đặt xuống đất đo đạc từng tấc một rồi mới chịu bước tiếp. Đi kiểu đo từng centimet đường như thế thì bước đi vô cùng chậm chạp, kéo dài thời gian. Đó chính là Trì (迟) — chậm chạp, trì hoãn, muộn màng.2. Chữ 到 (Đáo – Đến nơi, tới)(Ôn lại từ 遇到)Mũi tên cắm xuống đất 至 dứt khoát như nhát dao 刂 để định vị điểm dừng.Mang nghĩa là đến nơi, có mặt.Ghép đôi: 迟到 (Chídào)Bước đi chậm chạp từng bước như cầm thước đo đường (迟).Mãi mới chịu lết đến nơi (到).Kết quả: Đến nơi một cách chậm chạp, vượt quá giờ giấc quy định $\\rightarrow$ Đến muộn, đi trễ (迟到).Mẹo mở rộng bộ nhớ:Chữ 迟 (Trì):迟早 (chízǎo): Sớm muộn (muộn hay sớm gì thì cũng...).推迟 (tuīchí): Hoãn lại, lùi lịch lại (đẩy lùi về sau).Chữ 到 (Đáo):签到 (qiāndào): Điểm danh, ký tên có mặt.到家 (dàojiā): Về đến nhà.Mẹo dùng thực tế:对不起，我迟到了。 (Duìbuqǐ, wǒ chídào le): Xin lỗi, tôi đến muộn mất rồi.今天不要迟到！ (Jīntiān bú yào chídào!): Hôm nay đừng có đi trễ đấy nhé!他上班常常迟到。 (Tā shàngbān chángcháng chídào): Anh ta đi làm thường xuyên bị trễ."
+ },
+ "请假": {
+  "py": "qǐngjià",
+  "mn": "xin nghỉ",
+  "hv": "thỉnh giả",
+  "ch": 2,
+  "note": "Từ tiếp theo: **请假** (*qǐngjià* — Hán Việt: *Thỉnh giả*). Nghĩa là: **Xin nghỉ phép, xin nghỉ học/nghỉ làm**.\n\n*Lưu ý phát âm:* Chữ 假 bình thường đọc là *jiǎ* mang nghĩa là \"giả dối, đồ giả\", nhưng khi mang nghĩa \"kỳ nghỉ, ngày phép\" thì đổi âm sang thanh 4: **jià**.\n\n---\n\n### 1. Chữ 请 (Thỉnh – Mời, xin phép, thỉnh cầu)\n\nChữ này cấu tạo theo kết cấu Trái – Phải:\n\n* **Bên trái: Bộ Ngôn (讠)**\n* Quen thuộc từ chữ *语* trong *汉语*: Tượng trưng cho **lời nói, ngôn ngữ**.\n\n\n* **Bên phải: Chữ Thanh (青 - màu xanh của cây cỏ/bầu trời non trẻ)**\n* Phần trên là mầm cây đâm chồi `生` cách điệu, phần dưới là vầng trăng `月` hoặc giếng nước trong vắt `井` thời cổ. Đại diện cho sự tươi mát, trong sáng, thuần khiết.\n\n\n\n**Hình ảnh liên tưởng & Câu chuyện:**\n\n> Khi mở miệng dùng **lời nói (讠)** nhẹ nhàng, trong trẻo và chân thành như màu **xanh tươi mát (青)** của chồi non để nói chuyện với người khác, bạn sẽ khiến người nghe cảm thấy dễ chịu và dễ dàng đồng ý. Đó chính là **Thỉnh (请)** — mời mọc, cung kính xin phép, thỉnh cầu.\n\n---\n\n### 2. Chữ 假 (Giả – Kỳ nghỉ, ngày nghỉ phép / Giả tạo)\n\nChữ này cấu tạo theo kết cấu Trái – Phải:\n\n* **Bên trái: Bộ Nhân đứng (亻)**\n* Hình dáng **con người** đứng nghiêng (quen thuộc từ chữ *借 - vay mượn*).\n\n\n* **Bên phải: Chữ Đoán/Gia (叚 - dạng giản thể)**\n* Gồm nét ngang gập móc `𠃍`, nét ngang `一` và bộ Hựu `又` (bàn tay) ở dưới. Trong chữ cổ, đây là hình vẽ bàn tay mượn một hòn đá hay công cụ để làm việc tạm thời.\n\n\n\n**Hình ảnh liên tưởng & Câu chuyện:**\n\n> Bản chất của kỳ nghỉ phép: **Con người (亻)** tạm thời buông bỏ công việc bận rộn hằng ngày, dùng bàn **tay (又)** nhận lấy một khoảng thời gian trống tạm thời mượn được từ cơ quan để nghỉ ngơi phục hồi sức khỏe. Khoảng thời gian mượn tạm đó chính là **Giả (假)** — ngày nghỉ phép, kỳ nghỉ.\n\n---\n\n### Ghép đôi: 请假 (Qǐngjià)\n\n* Mở lời cung kính **thỉnh cầu, xin phép (请)**.\n* Để được hưởng một **ngày nghỉ phép (假)**.\n* **Kết quả:** Xin phép cấp trên/thầy cô cho nghỉ ngày làm việc $\\rightarrow$ **Xin nghỉ phép, xin nghỉ học (请假)**.\n\n---\n\n**Mẹo mở rộng bộ nhớ:**\n\n* Chữ **请** (Thỉnh):\n* *请坐* (Qǐng zuò): Mời ngồi.\n* *请问* (Qǐngwèn): Xin hỏi, làm phiền cho hỏi.\n\n\n* Chữ **假** (Giả - đọc *jià* khi là ngày nghỉ):\n* *放假* (Fàngjià): Nghỉ lễ, nghỉ hè/đông (được xả hơi, thả lỏng kỳ nghỉ).\n* *假期* (Jiàqī): Kỳ nghỉ.\n\n\n\n**Mẹo ngữ pháp & dùng thực tế:**\n\n* Chữ này là động từ ly hợp (đã chứa chữ *假 - ngày phép*), nên khi muốn nói xin nghỉ mấy ngày, ta **chèn số ngày vào giữa**:\n* *请一天假* (Qǐng yì tiān jià): Xin nghỉ một ngày.\n* *请三天假* (Qǐng sān tiān jià): Xin nghỉ ba ngày.\n* *我想请病假。* (Wǒ xiǎng qǐng bìngjià): Tôi muốn xin nghỉ ốm.\n* *我明天身体不舒服，想请假。* (Wǒ míngtiān shēntǐ bù shūfu, xiǎng qǐngjià): Ngày mai trong người tôi không khỏe, muốn xin nghỉ phép."
+ },
+ "决定": {
+  "py": "juédìng",
+  "mn": "quyết định",
+  "hv": "quyết định",
+  "ch": 2,
+  "note": "Từ tiếp theo: **决定** (*juédìng* — Hán Việt: *Quyết định*). Nghĩa là: **Quyết định, đưa ra lựa chọn dứt khoát**.\n\n---\n\n### 1. Chữ 决 (Quyết – Quyết đoán, dứt khoát, vỡ bờ)\n\nChữ này cấu tạo theo kết cấu Trái – Phải:\n\n* **Bên trái: Bộ Băng (冫)**\n* **Hình tượng:** Hai giọt nước bị đóng băng lại thành đá lạnh buốt. Tượng trưng cho sự lạnh lùng, dứt khoát, sắc bén và cứng rắn như băng.\n\n\n* **Bên phải: Chữ Quyết (夬)**\n* **Hình tượng:** Gồm nét ngang gập móc và nét phẩy xuyên qua, vẽ một bàn tay đeo chiếc nhẫn gảy ngón cái dùng để giương cung thời xưa (vòng gảy tên). Khi buông tay ra, mũi tên bắn đi không thể quay lại.\n\n\n\n**Hình ảnh liên tưởng & Câu chuyện:**\n\n> Hãy tưởng tượng một mũi tên được bắn dứt khoát khỏi dây cung (**夬**), đi kèm với thái độ lạnh băng, dứt khoát không chút do dự như tảng **băng tuyết (冫)**. Đã bắn ra là không thu lại được, hành động dứt khoát không chần chừ đó chính là **Quyết (决)** — quyết tâm, quyết đoán.\n\n---\n\n### 2. Chữ 定 (Định – Cố định, yên định, xác định)\n\nChữ này cấu tạo theo kết cấu Trên – Dưới:\n\n* **Phần trên: Bộ Miên (宀)**\n* Quen thuộc từ chữ *宾* trong *宾馆*: Hình ảnh **mái nhà** che chắn kiên cố.\n\n\n* **Phần dưới: Chữ Nhất (一) và chữ Chỉ (疋 rút gọn / 正 dạng cổ)**\n* Thực chất bên dưới là hình một **bàn chân bước về phía trước** rồi đặt vững chãi, ngay ngắn trên mặt đất.\n\n\n\n**Hình ảnh liên tưởng & Câu chuyện:**\n\n> Một người sau bao ngày phiêu bạt bên ngoài, khi bước chân vào dưới **mái nhà (宀)** của mình thì dừng lại, đứng vững hai chân ngay ngắn, không còn phải lo âu lang thang nữa. Trạng thái dừng lại vững vàng dưới một mái ấm đó chính là **Định (定)** — yên định, cố định, bình tâm xác định vị trí.\n\n---\n\n### Ghép đôi: 决定 (Juédìng)\n\n* Đưa ra lựa chọn dứt khoát, sắc bén như mũi tên băng tuyết (**决**).\n* Đặt nó vào vị trí vững chãi, chốt lại không thay đổi nữa (**定**).\n* **Kết quả:** Chốt lại phương án cuối cùng không đắn đo nữa $\\rightarrow$ **Quyết định (决定)**.\n\n---\n\n**Mẹo mở rộng bộ nhớ:**\n\n* Chữ **决** (Quyết):\n* *决心* (juéxīn): Quyết tâm (trái tim dứt khoát).\n* *坚决* (jiānjué): Kiên quyết.\n\n\n* Chữ **定** (Định):\n* *一定* (yídìng): Nhất định, chắc chắn.\n* *定单 / 订单* (dìngdān): Đơn đặt hàng (chốt danh sách).\n* *安定* (āndìng): An định, yên ổn.\n\n\n\n**Mẹo dùng thực tế:**\n\n* *你决定了吗？* (Nǐ juédìng le ma?): Bạn đã quyết định chưa?\n* *我决定去北京旅游。* (Wǒ juédìng qù Běijīng lǚyóu): Tôi quyết định đi du lịch Bắc Kinh.\n* *这是一个好决定。* (Zhè shì yí ge hǎo juédìng): Đây là một quyết định sáng suốt/tốt đấy."
+ },
+ "同意": {
+  "py": "tóngyì",
+  "mn": "đồng ý",
+  "hv": "đồng ý",
+  "ch": 2,
+  "note": "Từ tiếp theo: 同意 (tóngyì — Hán Việt: Đồng ý). Nghĩa là: Đồng ý, tán thành.1. Chữ 同 (Đồng – Cùng nhau, giống nhau)Chữ này cấu tạo theo kết cấu Nửa bao quanh (Bao từ ngoài vào trong):Bên ngoài: Bộ Quynh (冂)Hình tượng: Khung vòm rộng lớn bao quanh, như một căn nhà lớn hoặc bức tường bao bọc tập thể.Nét ngang bên trong (一):Tượng trưng cho sự thống nhất, quy về một mối.Bộ Khẩu ở dưới cùng (口):Hình tượng: Cái miệng, lời nói, ý kiến.Hình ảnh liên tưởng & Câu chuyện:Dưới cùng một mái nhà lớn (冂), tất cả mọi người cùng hòa chung (一) làm một, phát ra cùng một tiếng nói từ miệng (口). Khi mọi chiếc miệng cùng chung một tiếng nói, đó chính là Đồng (同) — tương đồng, cùng một lòng, nhất trí.2. Chữ 意 (Ý – Ý nghĩ, tâm ý, ý nghĩa)Chữ này cấu tạo theo kết cấu Trên – Dưới:Phần trên: Chữ Âm (音 - âm thanh, tiếng động)Gồm chữ Lập 立 (đứng thẳng) ở trên miệng 口 ở dưới: lời phát ra từ miệng ngân vang thành âm thanh.Phần dưới: Bộ Tâm (心 - trái tim, lòng dạ)Hình tượng trái tim với 3 giọt máu/ngăn tim.Hình ảnh liên tưởng & Câu chuyện:Những rung động, tiếng thì thầm hay âm thanh (音) vang lên từ sâu thẳm trong trái tim (心) của bạn. Thứ tiếng nói phát ra từ đáy lòng mà chưa cần nói thành lời đó chính là Ý (意) — tâm ý, suy nghĩ, ý niệm.Ghép đôi: 同意 (Tóngyì)Cùng chung một tiếng nói (同).Suy nghĩ và tâm ý phát ra từ trái tim (意).Kết quả: Tâm ý của đôi bên hòa hợp, cùng chung một suy nghĩ $\\rightarrow$ Đồng ý, tán thành (同意).Mẹo mở rộng bộ nhớ:Chữ 同 (Đồng):同学 (tóngxué): Bạn học (cùng học).同事 (tóngshì): Đồng nghiệp (cùng làm việc).同音 (tóngyīn): Cùng âm.Chữ 意 (Ý):意思 (yìsi): Ý nghĩa, sở thích/thú vị.意见 (yìjiàn): Ý kiến (đã gặp ở chữ 见 trong 见面).愿意 (yuànyì): Sẵn lòng, bằng lòng.Mẹo dùng thực tế:我同意你的看法。 (Wǒ tóngyì nǐ de kànfǎ): Tôi đồng ý với quan điểm của bạn.大家都同意了。 (Dàjiā dōu tóngyì le): Mọi người đều đã đồng ý rồi.你同意吗？ (Nǐ tóngyì ma?): Bạn có đồng ý không?"
+ },
+ "照顾": {
+  "py": "zhàogù",
+  "mn": "chăm sóc",
+  "hv": "chiếu cố",
+  "ch": 2,
+  "note": "Từ tiếp theo: 照顾 (zhàogù — Hán Việt: Chiếu cố). Nghĩa là: Chăm sóc, trông nom, để mắt tới.1. Chữ 照 (Chiếu – Chiếu sáng, soi rọi, chụp ảnh)Chữ này cấu tạo theo kết cấu Trên – Dưới:Phần trên: Chữ Chiêu (昭 - sáng sủa, rực rỡ)Bên trái: Bộ Nhật (日 - mặt trời, ánh sáng).Bên phải: Chữ Đao (刀) trên miệng (口), chính là chữ Triệu/Chiêu (đã gặp trong chữ 超 - siêu thị). Mặt trời lên cao phát ra hiệu lệnh rực rỡ làm bừng sáng vạn vật.Phần dưới: Bộ Tứ điểm hỏa (灬 - dạng viết dưới đáy của bộ Hỏa 火)Hình tượng: Bốn đốm lửa bập bùng đang cháy rừng rực bên dưới.Hình ảnh liên tưởng & Câu chuyện:Vừa có ánh sáng chói chang của mặt trời (日) rọi từ trên cao, vừa có ngọn lửa ấm áp (灬) cháy sáng bên dưới. Ánh sáng và hơi ấm bao phủ khắp nơi khiến không một góc tối nào bị bỏ sót. Đó chính là Chiếu (照) — chiếu sáng, rọi tới, bao quát bằng ánh nhìn.2. Chữ 顾 (Cố – Ngoảnh lại nhìn, đoái hoài, trông nom)Chữ này cấu tạo theo kết cấu Trái – Phải:Bên trái: Chữ Hộ (厄 dạng giản thể / biến thể của chữ Cổ 古/户)Nét phẩy đè lên nét gập móc, tượng trưng cho bờ vách che chở hoặc hoàn cảnh khó khăn cần được hỗ trợ.Bên phải: Bộ Hiệt (页 - trang giấy, cái đầu người)Hình tượng: Chữ giản thể của 頁, vẽ hình một cái đầu người có cổ và thân mình thu nhỏ. Cứ chữ nào liên quan đến đầu, cổ, đỉnh đầu, quay mặt là hay có bộ này (như 顶 - đỉnh, 领 - cổ áo/lãnh đạo, 顺 - thuận theo).Hình ảnh liên tưởng & Câu chuyện:Người ta đang đi về phía trước nhưng không đành lòng, liên tục quay cái đầu (页) ngoảnh lại phía sau để dõi theo, để ý xem người thân hay đứa nhỏ bên cạnh có an toàn hay gặp chuyện gì không. Động tác ngoảnh đầu lại đoái hoài, ngó chừng ấy chính là Cố (顾) — đoái thương, nhìn ngó, chăm nom.Ghép đôi: 照顾 (Zhàogù)Rọi ánh sáng dõi theo từng li từng tí (照).Thường xuyên ngoảnh đầu lại ngó chừng, để tâm (顾).Kết quả: Luôn hướng sự chú ý và tình cảm để bảo bọc người khác $\\rightarrow$ Chăm sóc, trông nom, săn sóc (照顾).Mẹo mở rộng bộ nhớ:Chữ 照 (Chiếu):照片 (zhàopiàn): Bức ảnh (tấm hình được chụp lại nhờ ánh sáng).照相 (zhàoxiàng): Chụp hình, chụp ảnh.Chữ 顾 (Cố):顾客 (gùkè): Khách hàng (người quen ghé thăm, ngoảnh lại ủng hộ tiệm).不用顾虑 (bú yòng gùlǜ): Không cần lo âu, e ngại.Mẹo dùng thực tế:照顾好自己！ (Zhàogù hǎo zìjǐ!): Chăm sóc bản thân cho thật tốt nhé!请多关照！ (Qǐng duō guānzhào!): Xin chiếu cố, giúp đỡ nhiều cho tôi!他在家照顾孩子。 (Tā zài jiā zhàogù háizi): Anh ấy ở nhà trông nom/chăm sóc con cái."
+ },
+ "搬家": {
+  "py": "bānjiā",
+  "mn": "chuyển nhà",
+  "hv": "ban gia",
+  "ch": 2,
+  "note": "Từ tiếp theo: 搬家 (bānjiā — Hán Việt: Ban gia). Nghĩa là: Chuyển nhà, dọn nhà.1. Chữ 搬 (Ban – Khuân vác, di chuyển, dời đi)Chữ này cấu tạo theo kết cấu Trái – Phải (bên phải gồm 2 tầng ghép lại):Bên trái: Bộ Tài gảy (扌 - bàn tay)Quen thuộc từ chữ 换 (đổi): Thể hiện động tác dùng sức của bàn tay để bốc, vác, bê đồ.Bên phải trên: Bộ Chu (舟 - chiếc thuyền)Hình chiếc thuyền độc mộc chở hàng xuôi ngược trên sông nước.Bên phải dưới: Chữ Thù (殳 - cây gậy xua đuổi, binh khí cầm tay)Hình một bàn tay cầm cây gậy dài chèo chống hoặc đẩy thuyền đi.Ghép 舟 (thuyền) với 殳 (chèo chống) ra chữ Bàn (般) nghĩa là dời chuyển, luân chuyển bằng đường thuyền.Hình ảnh liên tưởng & Câu chuyện:Ngày xưa chuyển đồ đạc cồng kềnh đi xa người ta phải chất lên thuyền (舟) rồi dùng sào chèo chống (殳) đưa đi. Để làm việc đó, con người phải dùng đôi bàn tay (扌) gồng mình khuân từng món đồ nặng nề chất lên thuyền rồi lại bê xuống. Hành động dùng sức tay khuân chuyển hàng đống đồ như thế chính là Ban (搬) — khuân vác, dời dọn.2. Chữ 家 (Gia – Nhà, gia đình)Chữ này cấu tạo theo kết cấu Trên – Dưới:Phần trên: Bộ Miên (宀 - mái nhà)Quen thuộc từ chữ 宾 (khách) và 定 (định): Mái nhà che mưa che nắng.Phần dưới: Chữ Thỉ (豕 - con heo, con lợn)Hình vẽ một con heo béo tròn với cái mõm nhọn, bụng to và bốn cái chân ngắn cùng chiếc đuôi ngoe nguẩy.Hình ảnh liên tưởng & Câu chuyện:Thời xa xưa ở Trung Quốc, nền nông nghiệp tự cung tự cấp coi gia súc là tài sản quý báu nhất. Dưới mỗi mái nhà (宀) định cư ổn định, người ta luôn nuôi nhốt đàn lợn (豕) ở tầng dưới hoặc chuồng liền kề để làm của cải tích trữ và nguồn thức ăn. Có mái nhà che chở và có lợn nuôi bên trong mới thành một mái ấm Gia (家) — nhà cửa, gia đình trọn vẹn.Ghép đôi: 搬家 (Bānjiā)Dùng tay gồng sức khuân vác toàn bộ đồ đạc (搬).Ra khỏi một mái ấm cũ để sang mái ấm mới (家).Kết quả: Khuân dọn toàn bộ tổ ấm sang nơi ở mới $\\rightarrow$ Chuyển nhà, dọn nhà (搬家).Mẹo mở rộng bộ nhớ:Chữ 搬 (Ban):搬走 (bān zǒu): Dọn đi, chuyển đi nơi khác.搬东西 (bān dōngxi): Khuân đồ, vác đồ.Chữ 家 (Gia):回家 (huí jiā): Về nhà.家人 (jiārén): Người nhà, thành viên trong gia đình.国家 (guójiā): Quốc gia, đất nước.Mẹo dùng thực tế:我下个星期要搬家。 (Wǒ xià ge xīngqī yào bānjiā): Tuần sau tôi phải chuyển nhà rồi.搬家很累。 (Bānjiā hěn lèi): Dọn nhà mệt lắm.明天你能来帮我搬家吗？ (Míngtiān nǐ néng lái bāng wǒ bānjiā ma?): Ngày mai bạn có thể tới giúp tôi chuyển nhà không? (ghép chữ 帮 đã học ở 帮忙)"
+ },
+ "打扫": {
+  "py": "dǎsǎo",
+  "mn": "quét dọn",
+  "hv": "đả tảo",
+  "ch": 2,
+  "note": "Từ tiếp theo: 打扫 (dǎsǎo — Hán Việt: Đả tảo). Nghĩa là: Quét dọn, dọn dẹp vệ sinh.Cả hai chữ này đều có chung một điểm nhận dạng cực kỳ rõ ràng: đều bắt đầu bằng Bộ Tài gảy (扌 - bàn tay). Cứ việc dọn dẹp, lao động chân tay là phải dùng đến đôi tay.1. Chữ 打 (Đả – Đánh, đập, làm, gõ)Chữ này cấu tạo theo kết cấu Trái – Phải:Bên trái: Bộ Tài gảy (扌)Bàn tay đang xòe ra sẵn sàng hành động.Bên phải: Chữ Đinh (丁)Hình tượng: Cây đinh sắt với cái mũ đinh nằm ngang phía trên và thân đinh thẳng tắp có mũi nhọn quặp nhẹ ở dưới (亅).Hình ảnh liên tưởng & Câu chuyện:Một bàn tay (扌) vung búa nện thẳng vào đầu cây đinh (丁) để đóng nó cắm phập vào tường gỗ. Động tác giáng mạnh xuống chiếc đinh đó chính là Đả (打) — đánh, gõ, đập (trong tiếng Trung hiện đại, nó đóng vai trò là một động từ vạn năng: đánh, gọi, làm, chơi).2. Chữ 扫 (Tảo – Quét, quét dọn)Chữ này cấu tạo theo kết cấu Trái – Phải:Bên trái: Bộ Tài gảy (扌)Lại là bàn tay cầm nắm công cụ.Bên phải: Bộ Ký / Kế (彐 dạng giản thể của cây chổi)Trong chữ Hán cổ, phần bên phải vốn vẽ một cây chổi quét nhà bện bằng cọng rơm/lá khô. Ở dạng giản thể, nó được rút gọn thành 3 nét ngang có khung gập 彐, trông như các sợi cước của đầu chổi cọ quét ngang trên sàn.Hình ảnh liên tưởng & Câu chuyện:Bàn tay (扌) cầm lấy cán chổi rơm (彐) lia qua lia lại trên mặt đất để gom rác và bụi bẩn. Hành động cầm chổi lia sạch sàn nhà đó chính là Tảo (扫) — quét, quét rác, xua sạch bụi.Ghép đôi: 打扫 (Dǎsǎo)Bắt tay vào làm một cách dứt khoát (打).Cầm chổi quét sạch mọi bụi bẩn (扫).Kết quả: Xắn tay áo lên quét tước, thu dọn toàn bộ căn phòng $\\rightarrow$ Quét dọn, dọn dẹp (打扫).Mẹo mở rộng bộ nhớ:Chữ 打 (Đả - cực kỳ đa năng):打电话 (dǎ diànhuà): Gọi điện thoại.打车 (dǎchē): Bắt xe taxi (ghép chữ 车 xe).打球 (dǎqiú): Chơi bóng.Chữ 扫 (Tảo):扫地 (sǎodì): Quét nhà, quét đất (ghép chữ 地 đất).扫码 (sǎomǎ): Quét mã QR (camera lia như cái chổi quét qua mã).Mẹo dùng thực tế:打扫房间 (Dǎsǎo fángjiān): Dọn dẹp phòng ốc.今天我们要把家里好好打扫一下。 (Jīntiān wǒmen yào bǎ jiālǐ hǎohāo dǎsǎo yíxià): Hôm nay chúng ta phải quét dọn nhà cửa cho thật sạch sẽ một chút."
+ },
+ "散步": {
+  "py": "sànbù",
+  "mn": "đi dạo",
+  "hv": "tản bộ",
+  "ch": 2,
+  "note": "Từ tiếp theo: 散步 (sànbù — Hán Việt: Tản bộ). Nghĩa là: Đi dạo, tản bộ.1. Chữ 散 (Tản – Rải rác, phân tán, thư giãn)Chữ này cấu tạo theo kết cấu Trái – Phải:Bên trái: Chữ Tán / Tản cổ (Bộ Củng kết hợp Nhục/Cỏ)Phía trên là bộ Thảo 艹 (cỏ cây rải rác) biến thể, phía dưới là chữ Nguyệt 月 (thịt, thân thể).Bên phải: Bộ Phác (攵 - gõ nhẹ, đánh khẽ, hành động)Hình tượng: Bàn tay cầm cây gậy nhỏ vung nhẹ để lùa đồ hoặc đánh nhịp.Hình ảnh liên tưởng & Câu chuyện:Một bàn tay cầm chiếc roi nhỏ (攵) gõ nhẹ để xua tan đám cỏ dại hay làm phân tán (散) đám đông tụ tập ra khắp các hướng. Hành động làm cho mọi thứ bung ra, không còn bị gò bó dồn nén lại một chỗ chính là Tản (散) — phân tán, buông lỏng, thong thả bung tỏa tâm trạng.2. Chữ 步 (Bộ – Bước chân, bước đi)Chữ này là chữ tượng hình thuần túy theo kết cấu Trên – Dưới:Phần trên: Chữ Chỉ (止 - dừng lại, bàn chân)Hình tượng: Bàn chân trái bước lên phía trước.Phần dưới: Chữ Thiếu dạng khuyết (thực chất là một chữ 止 quay ngược lại)Hình tượng: Bàn chân phải bước theo sau.Hình ảnh liên tưởng & Câu chuyện:Nhìn chữ 步, hãy tưởng tượng hai dấu chân nối tiếp nhau trên cát:Phía trên là bàn chân trái nhấc lên đặt xuống (止).Phía dưới là bàn chân phải tiếp tục tiến lên (少 bỏ nét chấm).Hai bàn chân luân phiên nhịp nhàng bước đi trên mặt đất tạo thành một Bộ (步) — bước đi, bước chân.Ghép đôi: 散步 (Sànbù)Buông lỏng tâm trí, xua tan căng thẳng (散).Thong thả nhấc từng bước chân chậm rãi (步).Kết quả: Thong thả thả lỏng bước đi mà không vội vàng $\\rightarrow$ Đi dạo, tản bộ (散步).Mẹo mở rộng bộ nhớ:Chữ 散 (Tản):散会 (sànhuì): Tan họp (giải tán cuộc họp).散心 (sànxīn): Thư giãn, giải khuây (xua tan muộn phiền trong tim).Chữ 步 (Bộ):跑步 (pǎobù): Chạy bộ (chạy từng bước).进步 (jìnbù): Tiến bộ (bước chân đi lên phía trước).脚步 (jiǎobù): Bước chân.Mẹo dùng thực tế:吃完晚饭去散步。 (Chī wán wǎnfàn qù sànbù): Ăn cơm tối xong thì đi dạo.公园里有很多人在散步。 (Gōngyuán lǐ yǒu hěn duō rén zài sànbù): Trong công viên có rất nhiều người đang đi dạo. (ghép luôn chữ 公园 đã học)"
+ },
+ "面包": {
+  "py": "miànbāo",
+  "mn": "bánh mì",
+  "hv": "diện bao",
+  "ch": 2,
+  "note": "Từ tiếp theo: 面包 (miànbāo — Hán Việt: Diện bao). Nghĩa là: Bánh mì.Chữ 面 (Diện) anh đã học ở từ 见面 (gặp mặt) rồi: nguyên gốc là hình vẽ khuôn mặt, nhưng trong ẩm thực nó còn có nghĩa là bột mì, mì sợi. Giờ ta giải mã chữ 包 (Bao).1. Chữ 面 (Diện – Bột mì, sợi mì, khuôn mặt)(Ôn lại từ 见面)Hình vẽ khuôn mặt phẳng phiu với vầng trán 一 và các chi tiết bên trong.Trong ăn uống, hạt lúa mì sau khi xay nhuyễn mịn màng phẳng phiu như mặt phẳng được gọi là bột diện (面粉 - bột mì). Cứ món bánh nào làm từ bột mì nở ra thì hầu hết mang chữ 面 này.2. Chữ 包 (Bao – Bọc lại, gói lại, cái túi, bánh bao)Chữ này là chữ tượng hình thuần túy:Nét phẩy trên đầu và khung bao bọc (勹 - Bộ Bao):Hình tượng: Một vòng tay hoặc chiếc bọc lớn cong vòng ôm lấy phía ngoài.Phần cong móc uốn lượn bên trong (巳 cách điệu):Trong giáp cốt văn cổ, bên trong vẽ hình một bào thai nhỏ đang nằm cuộn tròn, ngoan ngoãn trong bụng người mẹ.Hình ảnh liên tưởng & Câu chuyện:Nhìn chữ 包 giống hệt hình ảnh người mẹ đang mang bầu, chiếc bụng cong tròn bao bọc (勹) lấy đứa con nhỏ cuộn tròn bên trong. Từ đó chữ Bao (包) mang nghĩa là gói ghém, bọc lại, chiếc túi xách, hoặc những chiếc bánh có lớp vỏ ngoài nở căng bọc lấy phần ruột bên trong (như bánh bao).Ghép đôi: 面包 (Miànbāo)Nhào nặn từ tinh bột mì (面).Nướng phồng lên thành một khối căng tròn, nở xốp như một chiếc bọc (包).Kết quả: Ổ bánh nướng làm từ bột mì nở xốp $\\rightarrow$ Bánh mì (面包).Mẹo mở rộng bộ nhớ:Chữ 包 (Bao - cực kỳ hay gặp):包子 (bāozi): Bánh bao (loại bánh bao hấp truyền thống có nhân).书包 (shūbāo): Cặp sách, balo (cái túi bọc lấy sách 书).钱包 (qiánbāo): Ví tiền (túi bọc đựng tiền).打包 (dǎbāo): Gói đồ mang về (đóng gói lại).Mẹo dùng thực tế:吃面包 (Chī miànbāo): Ăn bánh mì.我早餐常吃面包和牛奶。 (Wǒ zǎocān cháng chī miànbāo hé niúnǎi): Bữa sáng tôi thường ăn bánh mì và sữa bò.这家面包店的面包很好吃。 (Zhè jiā miànbāodiàn de miànbāo hěn hǎochī): Bánh mì của tiệm bánh này rất ngon."
+ },
+ "米粉": {
+  "py": "mǐfěn",
+  "mn": "bún, phở",
+  "hv": "mễ phấn",
+  "ch": 2,
+  "note": "Từ tiếp theo: 米粉 (mǐfěn — Hán Việt: Mễ phấn). Nghĩa là: Bún, miến gạo, phở sợi gạo (hoặc bột gạo xay nhuyễn).1. Chữ 米 (Mễ – Hạt gạo, lúa gạo, mét)Chữ này là chữ tượng hình thuần túy kinh điển:Trục chữ thập ở giữa (十): Cái sàng sảy gạo hoặc thân bông lúa.Bốn hạt nhỏ xung quanh (hai nét phẩy-chấm bên trên 丷, hai nét phẩy-mác bên dưới 八): Bốn hạt thóc/gạo đang rơi vãi hoặc bung ra từ bông lúa.Hình ảnh liên tưởng & Câu chuyện:Trong giáp cốt văn cổ, 米 chính là hình ảnh những hạt thóc/gạo nhỏ nằm rải rác xung quanh khi người nông dân đập lúa. Cứ thứ gì liên quan đến hạt gạo, tinh bột từ lúa nước là dùng bộ Mễ (米).2. Chữ 粉 (Phấn – Bột mịn, phấn trang điểm, sợi bún/miến)Chữ này cấu tạo theo kết cấu Trái – Phải:Bên trái: Bộ Mễ (米)Chính là chữ Gạo (米) vừa học ở trên.Bên phải: Chữ Phân (分 - phân chia, chia nhỏ)Gồm bộ Bát 八 (tẽ ra hai bên) và bộ Đao 刀 (con dao). Cầm dao chặt nhỏ, chia cắt vụn ra thành từng phần nhỏ chính là Phân (分).Hình ảnh liên tưởng & Câu chuyện:Lấy những hạt gạo (米) đem đi xay xát, nghiền nát và chia nhỏ (分) vụn ra đến mức mịn màng như bụi. Thứ bột được nghiền mịn từ hạt gạo ra đó chính là Phấn (粉) — bột mịn, bột gạo (và thời xưa phụ nữ dùng chính bột gạo trắng này để thoa mặt trang điểm nên gọi là phấn). Khi nhào thứ bột này ép thành sợi, nó trở thành sợi bún, sợi phở.Ghép đôi: 米粉 (Mǐfěn)Hạt gạo (米).Được nghiền thành bột rồi ép sợi (粉).Kết quả: Sợi thực phẩm làm từ bột gạo $\\rightarrow$ Bún gạo, phở, miến gạo (米粉).Mẹo mở rộng bộ nhớ:Chữ 米 (Mễ):米饭 (mǐfàn): Cơm trắng.大米 (dàmǐ): Gạo tẻ.玉米 (yùmǐ): Ngô, bắp (loại hạt quý như ngọc).Chữ 粉 (Phấn):粉丝 (fěnsī): Miến dong sợi nhỏ / Fan hâm mộ (phiên âm từ tiếng Anh fans).红色 (hóngsè) $\\rightarrow$ 粉色 (fěnsè): Màu hồng phấn.花粉 (huāfěn): Phấn hoa.Mẹo dùng thực tế:桂林米粉 (Guìlín mǐfěn): Bún Quế Lâm (món bún trứ danh của Trung Quốc).一碗米粉 (Yì wǎn mǐfěn): Một bát bún.老板，来一碗牛肉米粉！ (Lǎobǎn, lái yì wǎn niúròu mǐfěn!): Chủ quán ơi, cho một bát bún bò!"
+ },
+ "果汁": {
+  "py": "guǒzhī",
+  "mn": "nước ép",
+  "hv": "quả trấp",
+  "ch": 2,
+  "note": "Từ tiếp theo: 果汁 (guǒzhī — Hán Việt: Quả trấp). Nghĩa là: Nước ép trái cây, nước hoa quả.1. Chữ 果 (Quả – Trái cây, hoa quả, kết quả)Chữ này cấu tạo theo kết cấu Trên – Dưới:Phần trên: Bộ Điền (田)Hình tượng: Trong chữ Hán cổ, đây không phải thửa ruộng mà là hình vẽ một trái cây tròn trịa, căng mọng với các đường rãnh khía trên vỏ quả.Phần dưới: Bộ Mộc (木 - cái cây)Cành lá xòe ra bên trên và bộ rễ cắm sâu xuống đất.Hình ảnh liên tưởng & Câu chuyện:Nhìn tổng thể chữ 果 giống hệt một cành cây (木) đang trĩu nặng vì gánh một chùm quả tròn xoe, mọng nước (田) lủng lẳng ở trên đỉnh cành. Hình ảnh quả ngọt mọc trên cành cây đó chính là Quả (果) — trái cây, quả ngọt (rồi mở rộng ra là thành quả, kết quả sau quá trình vun trồng).2. Chữ 汁 (Trấp – Nước cốt, nước ép, canh đặc)Chữ này cấu tạo theo kết cấu Trái – Phải:Bên trái: Bộ Ba chấm thủy (氵)Quen thuộc từ các chữ 洗 (rửa) và 汉 (Hán): Tượng trưng cho nước, chất lỏng.Bên phải: Chữ Thập (十 - số 10, vẹn toàn, nhiều)Ý nghĩa: Số 10 đại diện cho số lượng nhiều, thập toàn thập mỹ, hoặc hình tượng cái phễu vắt ép chất lỏng.Hình ảnh liên tưởng & Câu chuyện:Dùng lực ép chặt, chắt lọc lấy từng giọt nước (氵) tinh túy nhất từ mười (十) phần nguyên liệu dồn lại thành một ngụm cô đặc. Dòng nước cốt tinh khiết được ép ra đó chính là Trấp (汁) — nước ép, nước cốt, nước xốt.Ghép đôi: 果汁 (Guǒzhī)Hoa quả, trái cây (果).Chắt lấy phần nước cốt tinh túy (汁).Kết quả: Nước ép từ các loại trái cây $\\rightarrow$ Nước ép hoa quả (果汁).Mẹo mở rộng bộ nhớ:Chữ 果 (Quả):水果 (shuǐguǒ): Trái cây, hoa quả nói chung (quả mọng nước).苹果 (píngguǒ): Quả táo.如果 (rúguǒ): Nếu như (giả định kết quả).Chữ 汁 (Trấp):橙汁 (chéngzhī): Nước cam ép.苹果汁 (píngguǒzhī): Nước ép táo.汤汁 (tāngzhī): Nước canh, nước dùng đậm đà.Mẹo dùng thực tế:喝果汁 (Hē guǒzhī): Uống nước ép hoa quả.我要一杯新鲜果汁。 (Wǒ yào yì bēi xīnxiān guǒzhī): Tôi muốn một ly nước ép hoa quả tươi.果汁比可乐好。 (Guǒzhī bǐ kělè hǎo): Nước hoa quả tốt hơn nước ngọt coca."
+ },
+ "筷子": {
+  "py": "kuàizi",
+  "mn": "đũa",
+  "hv": "khoái tử",
+  "ch": 2,
+  "note": "Từ tiếp theo: 筷子 (kuàizi — Hán Việt: Khoái tử). Nghĩa là: Đôi đũa.1. Chữ 筷 (Khoái – Đôi đũa)Chữ này cấu tạo theo kết cấu Trên – Dưới:Phần trên: Bộ Trúc (⺮ - tre, trúc)Hình tượng: Hai nhánh lá tre rủ xuống. Cứ vật dụng gì theo truyền thống được đan lát, chẻ, vót từ thân tre trúc (như bút lông 笔, cái rổ, đôi đũa) đều có bộ Trúc đội trên đầu.Phần dưới: Chữ Khoái (快 - nhanh nhẹn, vui vẻ)Chữ này gồm Bộ Tâm đứng (忄 - trái tim) kết hợp với chữ Quyết (夬 - dứt khoát). Mang ý nghĩa là nhanh chóng, thần tốc (快点 - nhanh lên).Hình ảnh liên tưởng & Câu chuyện:Ngày xưa người ta vót cành tre trúc (⺮) thành hai thanh nhỏ để gắp thức ăn cho nhanh chóng (快) đỡ bị bỏng tay. Dụng cụ làm bằng tre giúp gắp đồ ăn nhanh thoăn thoắt đó chính là Khoái (筷) — chiếc đũa.2. Chữ 子 (Tử – Đứa con, cái/chiếc, hậu tố danh từ)Chữ này là chữ tượng hình thuần túy:Nét ngang gập móc (乛/㇇) ở trên: Cái đầu to tròn của một em bé sơ sinh.Nét cong móc xuyên dọc (亅): Thân mình và hai chân quấn tã túm lại.Nét ngang dài ở giữa (一): Hai cánh tay nhỏ bé dang rộng sang hai bên.Hình ảnh liên tưởng & Câu chuyện:子 nguyên gốc là hình vẽ đứa bé sơ sinh dang hai tay đòi bế. Trong tiếng Hán hiện đại, khi đứng sau danh từ (đọc thanh nhẹ zi), nó đóng vai trò là một hậu tố quen thuộc để chỉ những đồ vật nhỏ gọn dùng trong sinh hoạt hàng ngày (như 桌子 - cái bàn, 椅子 - cái ghế, 杯子 - cái cốc).Ghép đôi: 筷子 (Kuàizi)Dụng cụ bằng tre gắp thức ăn nhanh thoăn thoắt (筷).Đồ vật sinh hoạt nhỏ gọn quen thuộc (子).Kết quả: Đôi thanh tre dùng để ăn cơm $\\rightarrow$ Đôi đũa (筷子).Mẹo mở rộng bộ nhớ:Chữ 快 (Khoái):快 (kuài): Nhanh.快乐 (kuàilè): Vui vẻ, hạnh phúc (trái tim nhẹ nhõm, vui sướng).快餐 (kuàicān): Thức ăn nhanh (fast food).Chữ có bộ Trúc ⺮:笔 (bǐ): Cây bút (trên là cán tre ⺮, dưới là lông thú 毛).笑 (xiào): Cười (mắt híp lại như lá tre ⺮ lay động).Mẹo dùng thực tế:一双筷子 (Yì shuāng kuàizi): Một đôi đũa (lượng từ của đũa là 双 - đôi/cặp).你会用筷子吗？ (Nǐ huì yòng kuàizi ma?): Bạn biết dùng đũa không?服务员，请给我一双筷子。 (Fúwùyuán, qǐng gěi wǒ yì shuāng kuàizi): Phục vụ ơi, làm phiền cho tôi một đôi đũa với."
+ },
+ "盘子": {
+  "py": "pánzi",
+  "mn": "cái đĩa",
+  "hv": "bàn tử",
+  "ch": 2,
+  "note": "Từ tiếp theo: 盘子 (pánzi — Hán Việt: Bàn tử). Nghĩa là: Cái đĩa, cái khay.Hậu tố 子 (zi) anh vừa học ở từ 筷子 (đôi đũa): hình đứa bé sơ sinh dang tay, chuyên dùng làm đuôi chỉ các vật dụng gia đình nhỏ gọn. Giờ ta cùng bẻ chữ 盘 (Bàn).1. Chữ 盘 (Bàn – Cái đĩa, cái khay, cuộn tròn)Chữ này cấu tạo theo kết cấu Trên – Dưới:Phần trên: Chữ Bàn (般 - luân chuyển, xoay vần)Quen thuộc từ chữ 搬 (khuân vác) trong 搬家 (chuyển nhà)!Gồm:Bên trái: Bộ Chu (舟 - chiếc thuyền).Bên phải: Chữ Thù (殳 - bàn tay cầm cây gậy dài chèo lái thuyền ngoặt hướng, xoay vòng).Phần dưới: Bộ Mãnh (皿 - đồ đựng bằng sành, gốm, kim loại)Hình tượng: Một cái chậu hoặc cái đĩa lòng nông có hai quai/thành đĩa đứng thẳng và đế bằng phẳng (一 ở đáy). Cứ đồ gốm sứ, bát đĩa, chén khay đựng đồ ăn là thường có bộ 皿 này (như 盆 - cái chậu, 盒 - cái hộp).Hình ảnh liên tưởng & Câu chuyện:Chiếc thuyền độc mộc (舟) dưới sự điều khiển của tay chèo (殳) quay vòng tròn đều đặn trên mặt nước. Khi mang hình dáng xoay tròn phẳng phiu đó đúc thành một chiếc khay đựng bằng sành sứ (皿), ta được một chiếc đĩa tròn trĩnh. Đồ đựng bằng sứ đáy phẳng để xoay trở, bày biện đồ ăn chính là Bàn (盘) — cái đĩa, mâm, khay đĩa.2. Chữ 子 (Tử – Cái/chiếc, hậu tố danh từ)(Ôn lại từ 筷子)Đứng sau danh từ để biến thành tên vật dụng quen thuộc trong đời sống hằng ngày.Ghép đôi: 盘子 (Pánzi)Vật dụng nông đáy, tròn phẳng dùng để đựng và bày biện đồ ăn (盘).Đồ dùng sinh hoạt quen thuộc (子).Kết quả: Đồ dùng bày thức ăn trên bàn tiệc $\\rightarrow$ Cái đĩa, cái khay (盘子).Mẹo mở rộng bộ nhớ:Chữ 盘 (Bàn - ngoài làm danh từ, còn làm lượng từ đĩa thức ăn):一盘菜 (yì pán cài): Một đĩa thức ăn.光盘行动 (guāngpán xíngdòng): Chiến dịch \"ăn sạch đĩa\" (không bỏ thừa đồ ăn).硬盘 (yìngpán): Ổ cứng máy tính (cái đĩa đĩa cứng quay tròn).Chữ có bộ Mãnh 皿:盆 (pén): Cái chậu (phần trên là chữ 分 chia ra, dưới là 皿 đĩa/chậu).盐 (yán): Muối (chữ giản thể gồm chữ 土 đất bên trên bộ 皿 hũ đựng).Mẹo dùng thực tế:服务员，请换一个盘子。 (Fúwùyuán, qǐng huàn yí ge pánzi): Phục vụ ơi, đổi giúp tôi một cái đĩa mới với (ghép chữ 换 đã học).洗盘子 (xǐ pánzi): Rửa đĩa (ghép chữ 洗 trong 洗手间).桌子上有两个盘子。 (Zhuōzi shang yǒu liǎng ge pánzi): Trên bàn có hai cái đĩa."
+ },
+ "碗": {
+  "py": "wǎn",
+  "mn": "cái bát",
+  "hv": "oản",
+  "ch": 2,
+  "note": "Thạch (石- hòn đá, đồ gốm sứ) + Uyển (宛: cong tròn lòng sâu): Đồ sứ gốm nung uốn cong lòng sâu để đựng cơm canh."
+ },
+ "菜单": {
+  "py": "càidān",
+  "mn": "thực đơn",
+  "hv": "thái đơn",
+  "ch": 2,
+  "note": "菜 (món ăn từ rau cỏ thịt cá) + 单 (tờ giấy, bảng biểu kê chi tiết): Tờ danh sách liệt kê các món ăn của quán."
+ },
+ "香蕉": {
+  "py": "xiāngjiāo",
+  "mn": "chuối",
+  "hv": "hương tiêu",
+  "ch": 2,
+  "note": "香 (Hòa 禾 lúa + Nhật 日: hương thơm tỏa ngát) + 蕉 (Thảo 艹 cây cỏ + Tiêu 焦 chín vàng thơm phức): Loại quả vỏ vàng ngát hương."
+ },
+ "蛋糕": {
+  "py": "dàngāo",
+  "mn": "bánh ngọt",
+  "hv": "đản cao",
+  "ch": 2,
+  "note": "蛋 (Trứng: Sơ 疋 vỏ trứng + Trùng 虫) + 糕 (Mễ 米 bột + Cao 羔 thịt cừu non/béo ngậy): Bánh nướng từ trứng tươi và bột mềm xốp thơm bơ."
+ },
+ "啤酒": {
+  "py": "píjiǔ",
+  "mn": "bia",
+  "hv": "tỳ tửu",
+  "ch": 2,
+  "note": "啤 (Khẩu 口 + Ty 卑 mượn âm Beer) + 酒 (Thủy 氵 giọt nước + Dậu 酉 vò rượu lên men): Đồ uống có cồn lên men sủi bọt mát lạnh."
+ },
+ "饱": {
+  "py": "bǎo",
+  "mn": "no",
+  "hv": "bão",
+  "ch": 2,
+  "note": "Thực (饣- thức ăn đưa vào bụng) + Bao (包 - bao bọc căng tròn): Bụng nạp đầy thức ăn căng tròn như cái bọc → Đã no."
+ },
+ "饿": {
+  "py": "è",
+  "mn": "đói",
+  "hv": "ngạ",
+  "ch": 2,
+  "note": "Thực (饣- thức ăn) + Ngã (我 - cái tôi): Bản thân tôi đang khát khao thèm muốn thức ăn đưa vào bụng → Đói lả."
+ },
+ "渴": {
+  "py": "kě",
+  "mn": "khát",
+  "hv": "khát",
+  "ch": 2,
+  "note": "Thủy (氵- những giọt nước mát) + Cát (曷 - mặt trời 日 thiêu đốt khẩn nài xin nước): Cổ họng khô ran như bị nắng đốt thèm một ngụm nước."
+ },
+ "点菜": {
+  "py": "diǎn cài",
+  "mn": "gọi món",
+  "hv": "điểm thái",
+  "ch": 2,
+  "note": "点 (Chấm, chỉ vào từng dòng trên thực đơn) + 菜 (món ăn): Dùng ngón tay chấm chọn các món ngon để đầu bếp chế biến."
+ },
+ "尝": {
+  "py": "cháng",
+  "mn": "nếm",
+  "hv": "thường",
+  "ch": 2,
+  "note": "Thượng (⺌/冖 cao quý) + Chỉ (旨 - món ngon ngọt từ miệng 口): Đưa món ăn lên miệng nhấm nháp thưởng thức hương vị."
+ },
+ "刚才": {
+  "py": "gāngcái",
+  "mn": "vừa nãy",
+  "hv": "cương tài",
+  "ch": 2,
+  "note": "刚 (Cương: đao 刂 sắc chém dứt khoát) + 才 (Tài: mầm cây vừa mới nhú): Khoảnh khắc vừa mới trôi qua như một nhát cắt."
+ },
+ "马上": {
+  "py": "mǎshàng",
+  "mn": "ngay lập tức",
+  "hv": "mã thượng",
+  "ch": 2,
+  "note": "马 (ngựa phi nước đại) + 上 (lên trên lưng): Vừa nhảy tót lên lưng ngựa phi như bay không chậm trễ một giây."
+ },
+ "一直": {
+  "py": "yìzhí",
+  "mn": "luôn, suốt",
+  "hv": "nhất trực",
+  "ch": 2,
+  "note": "一 (số một xuyên suốt) + 直 (Thập 十 + Mục 目 + ∟: mắt nhìn thẳng tắp không nghiêng ngả): Một đường thẳng tắp không hề đổi hướng."
+ },
+ "总是": {
+  "py": "zǒngshì",
+  "mn": "lúc nào cũng",
+  "hv": "tổng thị",
+  "ch": 2,
+  "note": "总 (Tâm 心 kết tụ sợi tơ buộc chặt 𢆶) + 是 (là, đúng): Trái tim luôn hướng về một mối cố định không hề đổi thay."
+ },
+ "以前": {
+  "py": "yǐqián",
+  "mn": "trước đây",
+  "hv": "dĩ tiền",
+  "ch": 2,
+  "note": "以 (dùng làm mốc đo lường) + 前 (phía trước thời gian): Khoảng thời gian đã trôi qua trước thời điểm hiện tại."
+ },
+ "以后": {
+  "py": "yǐhòu",
+  "mn": "sau này",
+  "hv": "dĩ hậu",
+  "ch": 2,
+  "note": "以 (dùng làm mốc) + 后 (Hậu: vương hậu/phía sau, con người đứng sau bước chân 彳): Khoảng thời gian tiếp diễn về sau."
+ },
+ "平时": {
+  "py": "píngshí",
+  "mn": "ngày thường",
+  "hv": "bình thời",
+  "ch": 2,
+  "note": "平 (bằng phẳng, bình yên không sóng gió) + 时 (Nhật 日 mặt trời + Thốn 寸 tấc bóng thời gian): Những ngày trôi qua bình dị thường nhật."
+ },
+ "周末": {
+  "py": "zhōumò",
+  "mn": "cuối tuần",
+  "hv": "chu mạt",
+  "ch": 2,
+  "note": "周 (chu kỳ quay vòng tròn 7 ngày) + 末 (Cây Mộc 木 có nét trên dài hơn nét dưới: phần ngọn mút cuối cùng): Điểm kết thúc của một tuần."
+ },
+ "过去": {
+  "py": "guòqù",
+  "mn": "quá khứ",
+  "hv": "quá khứ",
+  "ch": 2,
+  "note": "过 (Quai xước 辶 bước chân + Thốn 寸: bước qua từng tấc đường) + 去 (đã rời đi): Những năm tháng đã trôi qua sau lưng."
+ },
+ "将来": {
+  "py": "jiānglái",
+  "mn": "tương lai",
+  "hv": "tương lai",
+  "ch": 2,
+  "note": "将 (Tương: tay cầm nắm tương lai sắp tới) + 来 (sắp đến): Những ngày tháng đang tiến về phía trước chưa từng tới."
+ },
+ "太阳": {
+  "py": "tàiyang",
+  "mn": "mặt trời",
+  "hv": "thái dương",
+  "ch": 2,
+  "note": "太 (Đại 大 to lớn thêm dấu chấm ở giữa: cực kỳ vĩ đại) + 阳 (Phụ 阝 ngọn đồi + Nhật 日 tỏa nắng ấm): Vầng thái dương rực rỡ soi sáng thế gian."
+ },
+ "月亮": {
+  "py": "yuèliang",
+  "mn": "mặt trăng",
+  "hv": "nguyệt lượng",
+  "ch": 2,
+  "note": "月 (vầng trăng khuyết) + 亮 (Đầu 亠 + Khẩu 口 + Nhi 儿: ánh sáng soi rọi lối đi đêm tối): Vầng trăng đêm thanh khiết tỏa ánh sáng dịu mát."
+ },
+ "风": {
+  "py": "fēng",
+  "mn": "gió",
+  "hv": "phong",
+  "ch": 2,
+  "note": "Kỷ 几 khung trời bao bọc con sâu Trùng 虫 thức giấc khi ngọn gió đầu xuân thổi qua mặt đất."
+ },
+ "下雨": {
+  "py": "xià yǔ",
+  "mn": "mưa rơi",
+  "hv": "hạ vũ",
+  "ch": 2,
+  "note": "下 (trút xuống dưới) + 雨 (Bầu trời 一 mây phủ 冂 và 4 hạt mưa rơi lất phất ⁝): Nước từ trên mây trời trút xuống nhân gian."
+ },
+ "雨伞": {
+  "py": "yǔsǎn",
+  "mn": "cái ô",
+  "hv": "vũ tản",
+  "ch": 2,
+  "note": "雨 (mưa rơi) + 伞 (Chiếc tán xòe rộng 人 che chở cho bốn người 十/人人 bên dưới): Cây dù giương lên che chắn hạt mưa rơi."
+ },
+ "树": {
+  "py": "shù",
+  "mn": "cây",
+  "hv": "thụ",
+  "ch": 2,
+  "note": "Mộc (木 - thân gỗ) + Đối (对: tay Thốn 寸 trồng trọt trên đất): Cây gỗ lớn được bàn tay con người dày công vun trồng xum xuê."
+ },
+ "花": {
+  "py": "huā",
+  "mn": "hoa",
+  "hv": "hoa",
+  "ch": 2,
+  "note": "Thảo (艹 - mầm cỏ) + Hóa (化: con người 人/匕 biến hóa đổi thay): Chồi non biến hóa diệu kỳ nở rộ thành đóa hoa rực rỡ sắc hương."
+ },
+ "草": {
+  "py": "cǎo",
+  "mn": "cỏ",
+  "hv": "thảo",
+  "ch": 2,
+  "note": "Thảo (艹 - mầm xanh) + Tảo (早 - mặt trời 日 vừa mọc sớm): Những ngọn cỏ non xanh mướt đón ánh nắng sớm mai."
+ },
+ "河": {
+  "py": "hé",
+  "mn": "sông",
+  "hv": "hà",
+  "ch": 2,
+  "note": "Thủy (氵- dòng nước) + Khả (可: mở miệng 口 hát ca êm ả): Dòng nước êm đềm uốn lượn như bài ca bất tận chảy ra biển lớn."
+ },
+ "山": {
+  "py": "shān",
+  "mn": "núi",
+  "hv": "sơn",
+  "ch": 2,
+  "note": "Chữ tượng hình vẽ ba ngọn núi sừng sững nhô lên giữa mây trời, đỉnh ở giữa cao vút uy nghiêm."
+ },
+ "猫": {
+  "py": "māo",
+  "mn": "con mèo",
+  "hv": "miêu",
+  "ch": 2,
+  "note": "Khuyển (犭- loài thú săn mồi) + Miêu (苗: mầm lúa 艹 trên ruộng 田): Con thú nhỏ thích nằm sưởi nắng rình chuột bên ruộng lúa kêu 'meo'."
+ },
+ "狗": {
+  "py": "gǒu",
+  "mn": "con chó",
+  "hv": "cẩu",
+  "ch": 2,
+  "note": "Khuyển (犭- loài thú bốn chân) + Cú (句: quấn quýt bên chủ): Con vật trung thành luôn quấn quýt bên cạnh bảo vệ chủ nhà."
+ },
+ "鸟": {
+  "py": "niǎo",
+  "mn": "con chim",
+  "hv": "điểu",
+  "ch": 2,
+  "note": "Chữ tượng hình vẽ chú chim nhỏ có mắt sáng (dấu chấm), mỏ nhọn và bộ lông đuôi xòe cong đậu trên cành."
+ },
+ "马": {
+  "py": "mǎ",
+  "mn": "con ngựa",
+  "hv": "mã",
+  "ch": 2,
+  "note": "Chữ tượng hình vẽ con tuấn mã với bờm dài tung bay trong gió và bốn vó phi nước đại dũng mãnh."
+ },
+ "熊猫": {
+  "py": "xióngmāo",
+  "mn": "gấu trúc",
+  "hv": "hùng miêu",
+  "ch": 2,
+  "note": "熊 (Hùng: Năng 能 khỏe khoắn + Hỏa 灬 4 móng vuốt gấu dũng mãnh) + 猫 (mèo mặt tròn đáng yêu): Loài thú lông trắng đen bụ bẫm ăn trúc."
+ },
+ "声音": {
+  "py": "shēngyīn",
+  "mn": "âm thanh",
+  "hv": "thanh âm",
+  "ch": 2,
+  "note": "声 (Thanh: Khánh đá 磬 đánh vang âm hưởng) + 音 (mở miệng cất lời phát ra nốt nhạc từ tim): Âm điệu vang vọng truyền vào thính giác."
+ },
+ "音乐": {
+  "py": "yīnyuè",
+  "mn": "âm nhạc",
+  "hv": "âm nhạc",
+  "ch": 2,
+  "note": "音 (nốt nhạc) + 乐 (chùm chuông gõ rung lên nhịp nhàng mang lại niềm vui sướng): Giai điệu trầm bổng nuôi dưỡng tâm hồn."
+ },
+ "电影": {
+  "py": "diànyǐng",
+  "mn": "phim",
+  "hv": "điện ảnh",
+  "ch": 2,
+  "note": "电 (Điện: tia chớp rạch trời phát sáng) + 影 (Cảnh 景 ánh mặt trời rọi xuống tạo 3 sợi lông 彡 thành bóng hình): Hình ảnh chuyển động nhờ ánh sáng."
+ },
+ "故事": {
+  "py": "gùshi",
+  "mn": "câu chuyện",
+  "hv": "cố sự",
+  "ch": 2,
+  "note": "故 (Cổ 古 xưa cũ + Phộc 攵 đánh roi ghi dấu) + 事 (việc đời ghi chép trên thẻ tre): Chuyện xưa tích cũ được truyền tụng qua năm tháng."
+ },
+ "新闻": {
+  "py": "xīnwén",
+  "mn": "tin tức",
+  "hv": "tân văn",
+  "ch": 2,
+  "note": "新 (Cây Mộc 木 chặt bằng búa Cân 斤 thơm mùi gỗ mới) + 闻 (Môn 门 ghé tai 耳 vào nghe ngóng): Những điều mới mẻ vừa nghe thấy."
+ },
+ "满意": {
+  "py": "mǎnyì",
+  "mn": "hài lòng",
+  "hv": "mãn ý",
+  "ch": 2,
+  "note": "满 (Thủy 氵 dòng nước dâng tràn đầy hai bờ ruộng) + 意 (ý nguyện từ tim): Dòng suối hạnh phúc đong đầy trọn vẹn đúng như ý muốn."
+ },
+ "放心": {
+  "py": "fàngxīn",
+  "mn": "yên tâm",
+  "hv": "phóng tâm",
+  "ch": 2,
+  "note": "放 (Phóng: mở rộng buông lỏng tay) + 心 (trái tim): Thả lỏng trái tim không còn âu lo nặng gánh trĩu nặng."
+ },
+ "着急": {
+  "py": "zháojí",
+  "mn": "sốt ruột",
+  "hv": "trước cấp",
+  "ch": 2,
+  "note": "着 (dính chặt vào lửa bốc cháy) + 急 (Tâm 忄 thắt lại như gối đầu lên núi nhọn 刍): Lòng dạ bồn chồn nóng như lửa đốt."
+ },
+ "奇怪": {
+  "py": "qíguài",
+  "mn": "kỳ lạ",
+  "hv": "kỳ quái",
+  "ch": 2,
+  "note": "奇 (Đại 大 người cưỡi trên lưng ngựa Khả 可 kỳ diệu) + 怪 (Tâm 忄 kinh ngạc trước việc Thánh 圣 phi thường): Sự việc lạ thường ngoài sức tưởng tượng."
+ },
+ "小心": {
+  "py": "xiǎoxīn",
+  "mn": "cẩn thận",
+  "hv": "tiểu tâm",
+  "ch": 2,
+  "note": "小 (thu nhỏ từng chi tiết tỉ mỉ) + 心 (đặt trọn tâm trí): Giữ tâm trí tỉ mỉ từng li từng tí để tránh sơ suất tai họa."
+ },
+ "习惯": {
+  "py": "xíguàn",
+  "mn": "thói quen",
+  "hv": "tập quán",
+  "ch": 2,
+  "note": "习 (Cánh chim non 羽 luyện tập đập cánh mỗi ngày) + 惯 (Tâm 忄 ghi tạc xâu tiền Quán 贯 bền chặt): Nếp sống lặp đi lặp lại ăn sâu vào tâm trí."
+ },
+ "愿意": {
+  "py": "yuànyì",
+  "mn": "sẵn lòng",
+  "hv": "nguyện ý",
+  "ch": 2,
+  "note": "愿 (Nguyên 原 suối nguồn mát lành tuôn chảy từ Tâm 心) + 意 (ý chí): Tấm lòng rộng mở tự nguyện dâng hiến không chút ép buộc."
+ },
+ "相信": {
+  "py": "xiāngxìn",
+  "mn": "tin tưởng",
+  "hv": "tương tín",
+  "ch": 2,
+  "note": "相 (Mắt 目 nhìn thẳng đối diện) + 信 (Nhân đứng 亻 con người + Ngôn 言 lời nói giữ trọn chữ tín): Tin vào lời nói chân thật của con người."
+ },
+ "明白": {
+  "py": "míngbai",
+  "mn": "hiểu",
+  "hv": "minh bạch",
+  "ch": 2,
+  "note": "明 (Mặt trời 日 và mặt trăng 月 chiếu sáng rực rỡ) + 白 (trắng trẻo rõ ràng): Mọi sự được soi tỏ sáng bạch, thấu hiểu ngọn ngành."
+ },
+ "记得": {
+  "py": "jìde",
+  "mn": "nhớ",
+  "hv": "ký đắc",
+  "ch": 2,
+  "note": "记 (Ngôn 讠 lời nói + Kỷ 己 ghi khắc vào chính bản thân) + 得 (đạt được, nắm giữ): Khắc sâu ký ức trong tâm khảm không hề phai mờ."
+ },
+ "环境": {
+  "py": "huánjìng",
+  "mn": "môi trường",
+  "hv": "hoàn cảnh",
+  "ch": 2,
+  "note": "环 (Ngọc 王 tròn khép kín bao quanh) + 境 (Thổ 土 đất đai + Cảnh 竟 ranh giới soi tỏ): Vùng không gian đất đai bao bọc xung quanh sự sống."
+ },
+ "联系": {
+  "py": "liánxì",
+  "mn": "liên lạc",
+  "hv": "liên hệ",
+  "ch": 2,
+  "note": "1. Chữ 联 (Liên – Kết nối, liên kết)Chữ này cấu tạo theo kết cấu Trái – Phải:Bên trái: Bộ Nhĩ (耳)Hình tượng: Cái tai.Gợi ý nhớ: Hình vẽ một cái vành tai với các nếp gấp bên trong.Bên phải: Bộ Quan (关)Hình tượng: Cánh cổng hoặc sự đóng lại, then chốt (như trong 关门 - đóng cửa, 关系 - quan hệ). Trông nó giống một người đang dang tay giơ hai chốt khóa lại.Hình ảnh liên tưởng & Câu chuyện:Muốn kết nối (联) và thấu hiểu một mối quan (关) hệ, ta phải mở cái tai (耳) ra để lắng nghe. Lắng nghe chính là chiếc chìa khóa gỡ bỏ mọi rào cản đóng kín giữa hai người.2. Chữ 系 (Hệ – Buộc, nối, hệ thống)Chữ này cấu tạo theo kết cấu Trên – Dưới:Phần trên: Nét phẩy (丿) kết hợp với bộ Mịch thu nhỏNguyên gốc chữ phồn thể là sợi tơ cuộn lại. Trong chữ giản thể, phần trên đầu gồm nét phẩy 丿 và hai nét gập giống như một bàn tay nhỏ hoặc một cái móc treo.Phần dưới: Bộ Mịch / Ti (糸 rút gọn thành 小 có nét móc)Thực chất bên dưới là hình ảnh một bó sợi tơ mỏng mảnh đang rủ xuống.Hình ảnh liên tưởng & Câu chuyện:Nhìn chữ 系 giống như một sợi dây treo chiếc móc: Trên là cái móc/mấu chốt, dưới là những sợi chỉ tơ buông xuống. Để duy trì một hệ (系) thống hay sợi dây tình cảm, người ta phải dùng sợi tơ này móc nối các đầu mối lại với nhau, buộc chặt không để tuột.Ghép đôi: 联系 (Liánxì)Tai lắng nghe (耳) để mở khóa mối quan hệ (关) $\\rightarrow$ 联Rút một sợi dây tơ buộc chặt (系) hai đầu lại với nhau $\\rightarrow$ 系Kết quả: Muốn liên lạc / liên hệ (联系), hãy dùng tai lắng nghe chân thành rồi lấy dây buộc chặt hai bên lại.Mẹo dùng thực tế:怎么联系你？ (Zěnme liánxì nǐ?): Liên lạc với anh/bạn bằng cách nào thế?保持联系！ (Bǎochí liánxì!): Giữ liên lạc nhé!"
+ },
+ "检查": {
+  "py": "jiǎnchá",
+  "mn": "kiểm tra",
+  "hv": "kiểm tra",
+  "ch": 2,
+  "note": "检 (Mộc 木 thẻ gỗ niêm phong + Thiểm 佥 xem xét tỉ mỉ) + 查 (Mộc 木 cây cối soi tỏ dưới ánh mặt trời 日/旦): Soi xét kỹ càng từng chi tiết."
+ },
+ "解决": {
+  "py": "jiějué",
+  "mn": "giải quyết",
+  "hv": "giải quyết",
+  "ch": 2,
+  "note": "解 (Giác 角 cặp sừng trâu dùng Dao 刀 mổ xẻ rành mạch Ngưu 牛) + 决 (dứt khoát vỡ òa): Tháo gỡ nút thắt khó khăn một cách triệt để."
+ },
+ "影响": {
+  "py": "yǐngxiǎng",
+  "mn": "ảnh hưởng",
+  "hv": "ảnh hưởng",
+  "ch": 2,
+  "note": "影 (bóng hình lung linh đổ dài) + 响 (Khẩu 口 phát ra tiếng vang vọng 向): Tiếng vang truyền đi tạo nên sự rung chuyển tác động lan tỏa."
+ },
+ "注意": {
+  "py": "zhùyì",
+  "mn": "chú ý",
+  "hv": "chú ý",
+  "ch": 2,
+  "note": "注 (Thủy 氵 rót dòng nước + Chủ 主 đích điểm chính xác) + 意 (tâm ý): Dồn toàn bộ dòng chảy suy nghĩ tập trung vào một điểm."
+ },
+ "选择": {
+  "py": "xuǎnzé",
+  "mn": "lựa chọn",
+  "hv": "tuyển trạch",
+  "ch": 2,
+  "note": "选 (Quai xước 辶 bước tới cân nhắc trước nhiều người) + 择 (Thủ 扌 tay nhặt hái quả ngon): Đưa tay chọn lấy phương án tối ưu nhất."
+ },
+ "参加": {
+  "py": "cānjiā",
+  "mn": "tham gia",
+  "hv": "tham gia",
+  "ch": 2,
+  "note": "参 (Ba vì sao lấp lánh sâm cầm tụ họp) + 加 (Lực 力 góp sức cùng Miệng 口 hô hào): Chung tay góp sức hòa mình vào một tập thể."
+ },
+ "发现": {
+  "py": "fāxiàn",
+  "mn": "phát hiện",
+  "hv": "phát hiện",
+  "ch": 2,
+  "note": "发 (Bắn mũi tên vút bay khai mở) + 现 (Ngọc quý 王 phát sáng nhìn thấy Kiến 见 rõ ràng): Đột phá nhìn ra điều mới mẻ trước mắt."
+ },
+ "复习": {
+  "py": "fùxí",
+  "mn": "ôn tập",
+  "hv": "phục tập",
+  "ch": 2,
+  "note": "复 (Quai xước / bước đi lại con đường cũ quay vòng) + 习 (đập cánh luyện tập thuần thục): Lặp lại bài học nhiều lần để biến thành kỹ năng."
+ },
+ "鼻子": {
+  "py": "bízi",
+  "mn": "cái mũi",
+  "hv": "tị tử",
+  "ch": 2,
+  "note": "鼻 (Tự 自 tự thân cái mũi + Tỷ 畀 đưa khí vào thở) + 子: Bộ phận đón nhận hơi thở sinh khí nuôi dưỡng toàn bộ cơ thể."
+ },
+ "耳朵": {
+  "py": "ěrduo",
+  "mn": "cái tai",
+  "hv": "nhĩ đóa",
+  "ch": 2,
+  "note": "耳 (chữ tượng hình vẽ vành tai uốn lượn hứng sóng âm) + 朵 (Cây Mộc 木 nở ra đóa hoa mềm mại): Đôi tai như đóa hoa lắng nghe thanh âm."
+ },
+ "嘴": {
+  "py": "zuǐ",
+  "mn": "miệng",
+  "hv": "chủy",
+  "ch": 2,
+  "note": "Khẩu (口 - cái miệng) + Thử (此 - chụm lại) + Giác (角 - góc cạnh nhọn): Khóe môi hé mở đón nhận ẩm thực và cất lên tiếng nói."
+ },
+ "头发": {
+  "py": "tóufa",
+  "mn": "mái tóc",
+  "hv": "đầu phát",
+  "ch": 2,
+  "note": "头 (Đậu 豆 cái bình chứa hạt + Hiệt 页 cái đầu trí tuệ) + 发 (từng sợi tóc đen mềm mại xõa dài): Mái tóc óng ả phủ che trên đầu."
+ },
+ "腿": {
+  "py": "tuǐ",
+  "mn": "cẳng chân",
+  "hv": "thoái",
+  "ch": 2,
+  "note": "Nguyệt (月 - bắp thịt cơ bắp) + Thoái (退 - bước lùi/tiến linh hoạt): Khối cơ bắp chắc khỏe nâng đỡ cơ thể sải bước linh hoạt."
+ },
+ "脚": {
+  "py": "jiǎo",
+  "mn": "bàn chân",
+  "hv": "cước",
+  "ch": 2,
+  "note": "Nguyệt (月 - da thịt gân cốt) + Khước (却 - gập đầu gối dừng lại): Điểm tựa vững chãi tiếp đất của toàn bộ cơ thể."
+ },
+ "药店": {
+  "py": "yàodiàn",
+  "mn": "hiệu thuốc",
+  "hv": "dược điếm",
+  "ch": 2,
+  "note": "药 (Thảo 艹 cỏ cây thảo mộc trị bệnh + Nhạc 乐 vui tươi khỏi ốm) + 店 (cửa hàng): Nơi bán các bài thuốc thảo mộc chữa lành bệnh."
+ },
+ "水平": {
+  "py": "shuǐpíng",
+  "mn": "trình độ",
+  "hv": "thủy bình",
+  "ch": 2,
+  "note": "水 (mặt nước tĩnh lặng phẳng lặng) + 平 (cân bằng): Thước đo chuẩn mực phẳng như mặt nước đánh giá năng lực."
+ },
+ "行李箱": {
+  "py": "xínglixiāng",
+  "mn": "vali",
+  "hv": "hành lý tương",
+  "ch": 2,
+  "note": "行 (bước đi du hành) + 李 (hành trang lộ phí) + 箱 (Trúc 竹 tre đan + Tương 相 cái rương): Chiếc rương chắc chắn chứa hành lý khi đi xa."
+ },
+ "护照": {
+  "py": "hùzhào",
+  "mn": "hộ chiếu",
+  "hv": "hộ chiếu",
+  "ch": 2,
+  "note": "护 (Thủ 扌 tay bảo bọc chở che) + 照 (tấm ảnh chân dung chụp có dấu mộc chứng thực): Giấy thông hành bảo hộ công dân ra nước ngoài."
+ },
+ "百": {
+  "py": "bǎi",
+  "mn": "trăm",
+  "hv": "bách",
+  "ch": 3,
+  "note": "Nét ngang 一 tượng trưng cho số 100, phía dưới là chữ Bạch 白 (sắc trắng thuần khiết): Tròn một trăm phân vẹn mười."
+ },
+ "千": {
+  "py": "qiān",
+  "mn": "nghìn",
+  "hv": "thiên",
+  "ch": 3,
+  "note": "Chữ Thập 十 (số 10) có thêm nét phẩy 丿 trên đầu: Mười lần của một trăm dồn lại thành một nghìn."
+ },
+ "第一": {
+  "py": "dìyī",
+  "mn": "thứ nhất",
+  "hv": "đệ nhất",
+  "ch": 3,
+  "note": "第 (Trúc 竹 thẻ tre thứ tự + Đệ 弟 hàng lối) + 一 (số một): Vị trí đứng đầu bảng xếp hạng, trước nhất."
+ },
+ "两": {
+  "py": "liǎng",
+  "mn": "hai (số lượng)",
+  "hv": "lưỡng",
+  "ch": 3,
+  "note": "Nét ngang 一 che chở khung vây và hai con người 人入 bên trong: Đôi lứa sánh vai, một cặp hai người."
+ },
+ "次": {
+  "py": "cì",
+  "mn": "lần",
+  "hv": "thứ",
+  "ch": 3,
+  "note": "Băng 冫 (hai giọt nước đóng băng) + Khiếm 欠 (há miệng): Từng đợt, từng lượt thở ra hơi sương lặp lại."
+ },
+ "件": {
+  "py": "jiàn",
+  "mn": "cái, chiếc (áo, việc)",
+  "hv": "kiện",
+  "ch": 3,
+  "note": "Nhân đứng (亻- con người) + Ngưu (牛 - con trâu): Con người phân chia từng con trâu, từng sự việc rành mạch."
+ },
+ "张": {
+  "py": "zhāng",
+  "mn": "tờ, tấm",
+  "hv": "trương",
+  "ch": 3,
+  "note": "Cung (弓 - cánh cung) + Trường (长 - dài): Kéo căng dây cung trải rộng ra như một tấm, một tờ phẳng."
+ },
+ "斤": {
+  "py": "jīn",
+  "mn": "cân (500g)",
+  "hv": "cân",
+  "ch": 3,
+  "note": "Chữ tượng hình vẽ cây rìu đốn củi thời cổ, dùng làm vật đo lường khối lượng chuẩn xác."
+ },
+ "公斤": {
+  "py": "gōngjīn",
+  "mn": "ki-lô-gam",
+  "hv": "công cân",
+  "ch": 3,
+  "note": "公 (công cộng, chuẩn quốc tế) + 斤 (cân 500g): Đơn vị đo lường quốc tế bằng hai cân truyền thống (1000g)."
+ },
+ "元": {
+  "py": "yuán",
+  "mn": "đồng (tệ)",
+  "hv": "nguyên",
+  "ch": 3,
+  "note": "Nhị 二 (trời đất) + Nhi 儿 (đôi chân người đứng vững): Đồng tiền căn bản đầu tiên nâng đỡ nền kinh tế."
+ },
+ "块": {
+  "py": "kuài",
+  "mn": "đồng (khẩu ngữ)",
+  "hv": "khối",
+  "ch": 3,
+  "note": "Thổ (土 - đất đai gạch đá) + Quyết (夬 - mẩu cắt dứt khoát): Từng thỏi bạc, mẩu tiền tròn trịa trao tay."
+ },
+ "角": {
+  "py": "jiǎo",
+  "mn": "hào",
+  "hv": "giác",
+  "ch": 3,
+  "note": "Chữ tượng hình vẽ chiếc sừng trâu nhọn hoắt: Đồng tiền nhỏ lẻ bằng một phần mười của đồng tệ."
+ },
+ "哥哥": {
+  "py": "gēge",
+  "mn": "anh trai",
+  "hv": "ca ca",
+  "ch": 3,
+  "note": "Khả 可 (miệng hát vang) xếp chồng lên Khả 可: Người anh trai luôn cất tiếng ca bảo ban, dìu dắt các em."
+ },
+ "弟弟": {
+  "py": "dìdi",
+  "mn": "em trai",
+  "hv": "đệ đệ",
+  "ch": 3,
+  "note": "Hình ảnh sợi dây quấn quanh thân cọc tre từ trên xuống: Đứa em trai nhỏ tuổi nhất nép sau anh chị."
+ },
+ "姐姐": {
+  "py": "jiějie",
+  "mn": "chị gái",
+  "hv": "tỷ tỷ",
+  "ch": 3,
+  "note": "Nữ (女 - người phụ nữ) + Thả (且 - bia đá vững chãi): Người chị gái như chỗ dựa vững chắc cho đàn em."
+ },
+ "妹妹": {
+  "py": "mèimei",
+  "mn": "em gái",
+  "hv": "muội muội",
+  "ch": 3,
+  "note": "Nữ (女 - phụ nữ) + Vị (未 - cành cây non chưa trổ hoa): Bé gái non nớt đáng yêu út ít trong nhà."
+ },
+ "丈夫": {
+  "py": "zhàngfu",
+  "mn": "chồng",
+  "hv": "trượng phu",
+  "ch": 3,
+  "note": "丈 (Trượng: một trượng trượng phu gang tấc) + 夫 (Người đàn ông 大 cắm trâm cài 一 trên đầu): Người đàn ông trụ cột gia đình."
+ },
+ "妻子": {
+  "py": "qīzǐ",
+  "mn": "vợ",
+  "hv": "thê tử",
+  "ch": 3,
+  "note": "妻 (Bàn tay 彐 cầm lược chải tóc cho người phụ nữ 女) + 子: Người phụ nữ hiền thục đầu ấp tay gối."
+ },
+ "孩子": {
+  "py": "háizi",
+  "mn": "đứa trẻ",
+  "hv": "hài tử",
+  "ch": 3,
+  "note": "孩 (Tử 子 đứa bé + Hợi 亥 mầm non vừa thành hình) + 子: Đứa trẻ thơ ngây đang tuổi lớn trong vòng tay cha mẹ."
+ },
+ "男": {
+  "py": "nán",
+  "mn": "nam",
+  "hv": "nam",
+  "ch": 3,
+  "note": "Điền (田 - đồng ruộng) + Lực (力 - sức mạnh cơ bắp): Người dốc sức cày cuốc ngoài đồng ruộng là đàn ông."
+ },
+ "女": {
+  "py": "nǚ",
+  "mn": "nữ",
+  "hv": "nữ",
+  "ch": 3,
+  "note": "Chữ tượng hình vẽ người phụ nữ đoan trang, dịu dàng ngồi khép nép khoanh tay trước ngực."
+ },
+ "服务员": {
+  "py": "fúwùyuán",
+  "mn": "nhân viên phục vụ",
+  "hv": "phục vụ viên",
+  "ch": 3,
+  "note": "服 (khoác áo đồng phục) + 务 (Lực 力 nỗ lực làm việc) + 员 (người làm nhiệm vụ 口/贝): Người phục vụ chu đáo."
+ },
+ "客人": {
+  "py": "kèrén",
+  "mn": "khách",
+  "hv": "khách nhân",
+  "ch": 3,
+  "note": "客 (Miên 宀 mái nhà tiếp đón người 各 phương xa đến thăm) + 人: Vị khách quý được chào đón vào nhà."
+ },
+ "邻居": {
+  "py": "línjū",
+  "mn": "hàng xóm",
+  "hv": "lân cư",
+  "ch": 3,
+  "note": "邻 (Lệnh 令 chỉ phương hướng + Phụ 阝 vùng đất xóm làng) + 居 (Thi 尸 nơi ở + Cổ 古): Những người sống kề cận nhau."
+ },
+ "司机": {
+  "py": "sījī",
+  "mn": "tài xế",
+  "hv": "ti cơ",
+  "ch": 3,
+  "note": "司 (chuyên trách cai quản tay lái) + 机 (cỗ máy động cơ xe cộ): Người chịu trách nhiệm vận hành cỗ xe an toàn."
+ },
+ "时间": {
+  "py": "shíjiān",
+  "mn": "thời gian",
+  "hv": "thời gian",
+  "ch": 3,
+  "note": "时 (Nhật 日 mặt trời + Thốn 寸 tấc bóng) + 间 (Môn 门 + Nhật 日 ánh sáng qua khe cửa): Dòng chảy vô hình của vũ trụ."
+ },
+ "时候": {
+  "py": "shíhou",
+  "mn": "lúc, khi",
+  "hv": "thời hậu",
+  "ch": 3,
+  "note": "时 (thời gian) + 候 (Nhân đứng 亻 trông ngóng mũi tên bắn tới): Thời điểm cụ thể đang đợi chờ diễn ra."
+ },
+ "小时": {
+  "py": "xiǎoshí",
+  "mn": "giờ đồng hồ",
+  "hv": "tiểu thời",
+  "ch": 3,
+  "note": "小 (chia nhỏ) + 时 (thời khắc): Một giờ đồng hồ gồm 60 phút đo lường nhịp sống."
+ },
+ "早上": {
+  "py": "zǎoshang",
+  "mn": "sáng sớm",
+  "hv": "tảo thượng",
+  "ch": 3,
+  "note": "早 (Nhật 日 mặt trời vừa nhô lên khỏi ngọn cỏ Thập 十) + 上 (lên): Khoảnh khắc bình minh vừa rạng rỡ."
+ },
+ "上午": {
+  "py": "shàngwǔ",
+  "mn": "buổi sáng",
+  "hv": "thượng ngọ",
+  "ch": 3,
+  "note": "上 (phía trước) + 午 (Ngọ: thời khắc mặt trời đứng bóng giữa trưa): Khoảng thời gian từ sáng tới trước 12h trưa."
+ },
+ "中午": {
+  "py": "zhōngwǔ",
+  "mn": "buổi trưa",
+  "hv": "trung ngọ",
+  "ch": 3,
+  "note": "中 (chính giữa) + 午 (giờ Ngọ): Thời điểm mặt trời lên đến đỉnh đầu cao nhất trong ngày."
+ },
+ "下午": {
+  "py": "xiàwǔ",
+  "mn": "buổi chiều",
+  "hv": "hạ ngọ",
+  "ch": 3,
+  "note": "下 (phía sau) + 午 (giờ Ngọ): Khoảng thời gian sau 12h trưa khi bóng nắng bắt đầu đổ dài."
+ },
+ "晚上": {
+  "py": "wǎnshang",
+  "mn": "buổi tối",
+  "hv": "vãn thượng",
+  "ch": 3,
+  "note": "晚 (Nhật 日 mặt trời lặn sau Miễn 免 thoát biến) + 上: Màn đêm buông xuống, ánh trăng sao thay thế mặt trời."
+ },
+ "昨天": {
+  "py": "zuótiān",
+  "mn": "hôm qua",
+  "hv": "tạc thiên",
+  "ch": 3,
+  "note": "昨 (Nhật 日 mặt trời + Tạc 乍 vừa mới chớp mắt qua đi) + 天 (bầu trời): Ngày vừa mới trôi qua sau lưng."
+ },
+ "今年": {
+  "py": "jīnnián",
+  "mn": "năm nay",
+  "hv": "kim niên",
+  "ch": 3,
+  "note": "今 (nắp đậy 人 khoảnh khắc hiện tại) + 年 (chu kỳ mùa lúa chín): Chu kỳ một năm mà chúng ta đang sống."
+ },
+ "明年": {
+  "py": "míngnián",
+  "mn": "sang năm",
+  "hv": "minh niên",
+  "ch": 3,
+  "note": "明 (Nhật 日 mặt trời + Nguyệt 月 mặt trăng tỏa sáng rạng rỡ) + 年 (năm): Năm tới với bao ước vọng tươi sáng."
+ },
+ "去年": {
+  "py": "qùnián",
+  "mn": "năm ngoái",
+  "hv": "khứ niên",
+  "ch": 3,
+  "note": "去 (Thổ 土 + Khư 厶 đã rời đi dứt khoát) + 年 (năm): Năm cũ đã vĩnh viễn trôi qua thành dĩ vãng."
+ },
+ "生日": {
+  "py": "shēngrì",
+  "mn": "sinh nhật",
+  "hv": "sinh nhật",
+  "ch": 3,
+  "note": "生 (Mầm cây xanh nhú lên mặt đất cất tiếng khóc chào đời) + 日 (ngày): Ngày kỷ niệm cất tiếng khóc ra đời."
+ },
+ "节日": {
+  "py": "jiérì",
+  "mn": "ngày lễ",
+  "hv": "tiết nhật",
+  "ch": 3,
+  "note": "节 (Thảo 艹 cỏ hoa trang hoàng + Đốt tre đan kết) + 日 (ngày): Ngày vui hội tụ sum vầy cùng cộng đồng."
+ },
+ "打算": {
+  "py": "dǎsuàn",
+  "mn": "dự định",
+  "hv": "đả toán",
+  "ch": 3,
+  "note": "打 (Thủ 扌 tay bắt đầu sắp xếp) + 算 (Trúc 竹 bàn tính + Lộng 弄 hai tay gảy hạt): Dự tính kế hoạch trong đầu."
+ },
+ "晴": {
+  "py": "qíng",
+  "mn": "trời nắng",
+  "hv": "tình",
+  "ch": 3,
+  "note": "Nhật (日 - mặt trời tỏa sáng rực rỡ) + Thanh (青 - bầu trời xanh biếc thuần khiết): Ngày trời trong vắt ngập tràn ánh nắng."
+ },
+ "阴": {
+  "py": "yīn",
+  "mn": "trời âm u",
+  "hv": "âm",
+  "ch": 3,
+  "note": "Phụ (阝- sườn đồi khuất nắng) + Nguyệt (月 - mây mờ che phủ tối sầm): Trời mù mịt mây xám không có tia nắng."
+ },
+ "雪": {
+  "py": "xuě",
+  "mn": "tuyết",
+  "hv": "tuyết",
+  "ch": 3,
+  "note": "Vũ (雨 - mây trời đổ mưa) + Ký (彐 - bàn tay gom từng nắm bông tuyết trắng muốt): Những bông hoa tuyết trắng rơi đầy trời."
+ },
+ "左边": {
+  "py": "zuǒbian",
+  "mn": "bên trái",
+  "hv": "tả biên",
+  "ch": 3,
+  "note": "左 (Tay 𠂇 cầm thước Thợ 工 đo đạc bên phía tay trái) + 边 (phía): Hướng phía tay trái của cơ thể."
+ },
+ "右边": {
+  "py": "yòubian",
+  "mn": "bên phải",
+  "hv": "hữu biên",
+  "ch": 3,
+  "note": "右 (Tay 𠂇 cầm đũa đưa vào Khẩu 口 ăn cơm phía tay phải) + 边 (phía): Hướng phía tay phải thuận của con người."
+ },
+ "旁边": {
+  "py": "pángbiān",
+  "mn": "bên cạnh",
+  "hv": "bàng biên",
+  "ch": 3,
+  "note": "旁 (Phương 方 bốn phương tỏa rộng che chở mái nhà) + 边 (bờ cõi): Vị trí sát ngay cạnh sườn, kề bên."
+ },
+ "外面": {
+  "py": "wàimiàn",
+  "mn": "bên ngoài",
+  "hv": "ngoại diện",
+  "ch": 3,
+  "note": "外 (Tịch 夕 đêm tối + Bốc 卜 bói quẻ ngoài sân) + 面 (khuôn mặt hướng ra): Không gian bên ngoài ngưỡng cửa."
+ },
+ "后面": {
+  "py": "hòumian",
+  "mn": "phía sau",
+  "hv": "hậu diện",
+  "ch": 3,
+  "note": "后 (con người đứng lùi bước sau gót chân) + 面 (bề mặt): Vị trí ở phía sau lưng."
+ },
+ "东": {
+  "py": "dōng",
+  "mn": "đông",
+  "hv": "đông",
+  "ch": 3,
+  "note": "Chữ Mộc 木 (cây cối) có mặt trời Nhật 日 mọc xuyên qua kẽ lá cành cây: Phương đông nơi ánh bình minh thức giấc."
+ },
+ "南": {
+  "py": "nán",
+  "mn": "nam",
+  "hv": "nam",
+  "ch": 3,
+  "note": "Mái nhà che cái chuông đồng ấm áp của phương nam cây cối tươi tốt xum xuê."
+ },
+ "西": {
+  "py": "xī",
+  "mn": "tây",
+  "hv": "tây",
+  "ch": 3,
+  "note": "Hình ảnh tổ chim lúc hoàng hôn, chim bay về tổ đậu khi mặt trời lặn ở phương tây."
+ },
+ "北": {
+  "py": "běi",
+  "mn": "bắc",
+  "hv": "bắc",
+  "ch": 3,
+  "note": "Hai người ngồi quay lưng lại nhau để chống chọi lại cái rét lạnh căm căm của phương bắc."
+ },
+ "远": {
+  "py": "yuǎn",
+  "mn": "xa",
+  "hv": "viễn",
+  "ch": 3,
+  "note": "Quai xước (辶 - bước đi ngàn dặm) + Viên (元 - dài đằng đẵng): Con đường vạn lý diệu vợi thăm thẳm."
+ },
+ "近": {
+  "py": "jìn",
+  "mn": "gần",
+  "hv": "cận",
+  "ch": 3,
+  "note": "Quai xước (辶 - cất bước đi) + Cân (斤 - cái rìu đốn củi kề bên): Khoảng cách gang tấc, đi vài bước là tới."
+ },
+ "附近": {
+  "py": "fùjìn",
+  "mn": "vùng lân cận",
+  "hv": "phụ cận",
+  "ch": 3,
+  "note": "附 (Phụ 阝 ngọn đồi + Phó 付 trao tay kề sát) + 近 (gần gũi): Khu vực xung quanh ngay sát bên cạnh."
+ },
+ "西瓜": {
+  "py": "xīguā",
+  "mn": "dưa hấu",
+  "hv": "tây qua",
+  "ch": 3,
+  "note": "西 (phương tây mang đến) + 瓜 (Quả dưa leo trên giàn trĩu quả): Loại quả vỏ xanh ruột đỏ mọng nước giải nhiệt."
+ },
+ "羊肉": {
+  "py": "yángròu",
+  "mn": "thịt dê",
+  "hv": "dương nhục",
+  "ch": 3,
+  "note": "羊 (Con cừu/dê có hai sừng cong hiền hòa) + 肉 (thớ thịt nạc bắp): Món thịt dê núi thơm ngon đậm đà."
+ },
+ "牛肉": {
+  "py": "niúròu",
+  "mn": "thịt bò",
+  "hv": "ngưu nhục",
+  "ch": 3,
+  "note": "牛 (Chữ tượng hình đầu trâu bò có hai sừng nhọn) + 肉 (miếng thịt nạc): Thịt bò giàu dinh dưỡng."
+ },
+ "鸡肉": {
+  "py": "jīròu",
+  "mn": "thịt gà",
+  "hv": "kê nhục",
+  "ch": 3,
+  "note": "鸡 (Hựu 又 + Điểu 鸟 chú gà có cánh vỗ cánh gáy) + 肉 (thịt): Thịt gà thơm ngọt."
+ },
+ "鸡蛋": {
+  "py": "jīdàn",
+  "mn": "trứng gà",
+  "hv": "kê đản",
+  "ch": 3,
+  "note": "鸡 (con gà) + 蛋 (Sơ 疋 vỏ trứng tròn + Trùng 虫 mầm sống): Quả trứng gà tròn trịa bổ dưỡng."
+ },
+ "牛奶": {
+  "py": "niúnǎi",
+  "mn": "sữa bò",
+  "hv": "ngưu nãi",
+  "ch": 3,
+  "note": "牛 (bò sữa) + 奶 (Nữ 女 người mẹ + Nãi 乃 dòng sữa trắng): Dòng sữa thơm ngon lấy từ bò mẹ."
+ },
+ "咖啡": {
+  "py": "kāfēi",
+  "mn": "cà phê",
+  "hv": "ca phê",
+  "ch": 3,
+  "note": "咖 (Khẩu 口 mượn âm Ca) + 啡 (Khẩu 口 + Phi 非 hạt màu nâu đậm): Thức uống thơm đắng đậm đà tỉnh táo đầu óc."
+ },
+ "鱼": {
+  "py": "yú",
+  "mn": "cá",
+  "hv": "ngư",
+  "ch": 3,
+  "note": "Chữ tượng hình vẽ con cá bơi lội dưới nước: đầu nhọn, thân có vảy lấp lánh và vây đuôi quẫy sóng."
+ },
+ "买单": {
+  "py": "mǎidān",
+  "mn": "thanh toán",
+  "hv": "mãi đơn",
+  "ch": 3,
+  "note": "买 (Mua hàng cúi đầu tính toán tiền) + 单 (tờ hóa đơn kê khai): Trả tiền bữa ăn theo phiếu tính tiền."
+ },
+ "包子": {
+  "py": "bāozi",
+  "mn": "bánh bao",
+  "hv": "bao tử",
+  "ch": 3,
+  "note": "包 (Bao bọc kín lớp vỏ bột mịn màng chứa nhân thịt thơm lừng bên trong) + 子: Món bánh hấp nóng hổi."
+ },
+ "糖": {
+  "py": "táng",
+  "mn": "đường, kẹo",
+  "hv": "đường",
+  "ch": 3,
+  "note": "Mễ (米 - tinh bột lúa gạo lên men mạch nha) + Đường (唐 - triều đại ngọt ngào): Vị ngọt lịm tan chảy trên đầu lưỡi."
+ },
+ "水饺": {
+  "py": "shuǐjiǎo",
+  "mn": "sủi cảo",
+  "hv": "thủy giảo",
+  "ch": 3,
+  "note": "水 (nước luộc sôi) + 饺 (Thực 饣 vỏ bánh + Giao 交 gấp mép sủi cảo hình thỏi vàng): Bánh luộc đón giao thừa may mắn."
+ },
+ "汤": {
+  "py": "tāng",
+  "mn": "canh, súp",
+  "hv": "thang",
+  "ch": 3,
+  "note": "Thủy (氵- nước canh) + Dương (昜 - ánh mặt trời bốc hơi nóng hổi): Nước súp nóng hổi nghi ngút khói thơm."
+ },
+ "味道": {
+  "py": "wèidao",
+  "mn": "hương vị",
+  "hv": "vị đạo",
+  "ch": 3,
+  "note": "味 (Khẩu 口 nếm + Mùi 未 hương vị nụ hoa hé nở) + 道 (đạo lý, cảm nhận sâu sắc): Dư vị đọng lại nơi đầu lưỡi và tâm hồn."
+ },
+ "新鲜": {
+  "py": "xīnxiān",
+  "mn": "tươi",
+  "hv": "tân tiên",
+  "ch": 3,
+  "note": "新 (mới mẻ thơm mùi gỗ mới) + 鲜 (Ngư 鱼 con cá tươi quẫy đuôi + Dương 羊 thịt dê ngọt mát): Thực phẩm tươi sống thơm ngọt."
+ },
+ "笑": {
+  "py": "xiào",
+  "mn": "cười",
+  "hv": "tiếu",
+  "ch": 3,
+  "note": "Trúc (竹 - lá trúc lay động trong gió) + Yêu (夭 - dáng người mềm mại nghiêng ngả reo vui): Nụ cười tươi rạng rỡ như hoa."
+ },
+ "哭": {
+  "py": "kū",
+  "mn": "khóc",
+  "hv": "khốc",
+  "ch": 3,
+  "note": "Hai Khẩu (口口 - hai con mắt mở to đẫm lệ) + Khuyển (犬 - chú chó tru dài đau đớn): Nước mắt tuôn rơi nghẹn ngào."
+ },
+ "跑": {
+  "py": "pǎo",
+  "mn": "chạy",
+  "hv": "bào",
+  "ch": 3,
+  "note": "Túc (𧾷- bàn chân gân guốc) + Bao (包 - cuộn mình lao nhanh): Đôi chân sải dài phi nhanh thoăn thoắt."
+ },
+ "跳": {
+  "py": "tiào",
+  "mn": "nhảy",
+  "hv": "khiêu",
+  "ch": 3,
+  "note": "Túc (𧾷- bàn chân) + Triệu (兆 - dấu hiệu mũi tên phóng lên không trung): Bật chân nhảy vút lên khỏi mặt đất."
+ },
+ "到": {
+  "py": "dào",
+  "mn": "đến",
+  "hv": "đáo",
+  "ch": 3,
+  "note": "Chí (至 - mũi tên cắm trúng hồng tâm mặt đất) + Đao (刂- vết mộc dứt khoát): Đặt chân tới đúng đích điểm đã định."
+ },
+ "开": {
+  "py": "kāi",
+  "mn": "mở",
+  "hv": "khai",
+  "ch": 3,
+  "note": "Hai tay đẩy then cài then ngang của cánh cổng bung ra: Mở rộng cánh cửa đón ánh ban mai."
+ },
+ "关": {
+  "py": "guān",
+  "mn": "đóng",
+  "hv": "quan",
+  "ch": 3,
+  "note": "Hai cánh cửa khép lại có then cài then chốt giữ chặt: Đóng chặt then cài bảo vệ căn nhà."
+ },
+ "站": {
+  "py": "zhàn",
+  "mn": "đứng",
+  "hv": "trạm",
+  "ch": 3,
+  "note": "Lập (立 - đứng vững chãi trên đất) + Chiêm (占 - cắm mốc chủ quyền): Đứng thẳng người bất động làm cột mốc."
+ },
+ "送": {
+  "py": "sòng",
+  "mn": "tặng, tiễn",
+  "hv": "tống",
+  "ch": 3,
+  "note": "Quai xước (辶 - bước chân đồng hành) + Quan (关 - trao gửi ân tình): Đi cùng một đoạn đường để tiễn bạn, trao quà quý."
+ },
+ "带": {
+  "py": "dài",
+  "mn": "mang",
+  "hv": "đới",
+  "ch": 3,
+  "note": "Dải lụa mềm 巾 thắt quanh lưng áo quấn theo hành lý bên mình khi đi xa."
+ },
+ "卖": {
+  "py": "mài",
+  "mn": "bán",
+  "hv": "mại",
+  "ch": 3,
+  "note": "Thập (十 - có mười phần) đặt trên Mãi (买 - mua sắm): Đem hàng hóa trong kho rao bán trao tay lấy tiền."
+ },
+ "穿": {
+  "py": "chuān",
+  "mn": "mặc",
+  "hv": "xuyên",
+  "ch": 3,
+  "note": "Huyệt (穴 - hang sâu, khoảng trống) + Nha (牙 - xỏ răng qua): Luồn tay áo chân quần xỏ vào bộ trang phục."
+ },
+ "洗": {
+  "py": "xǐ",
+  "mn": "rửa, giặt",
+  "hv": "tẩy",
+  "ch": 3,
+  "note": "Thủy (氵- dòng nước mát trong veo) + Tiên (先 - trước hết): Dùng nước gột rửa bụi bẩn sạch sẽ tinh tươm."
+ },
+ "进": {
+  "py": "jìn",
+  "mn": "vào",
+  "hv": "tiến",
+  "ch": 3,
+  "note": "Quai xước (辶 - bước đi) + Tỉnh (井 - miệng giếng sâu) / Chuy (隹 - cánh chim bay sà vào): Bước chân tiến vào bên trong."
+ },
+ "出": {
+  "py": "chū",
+  "mn": "ra",
+  "hv": "xuất",
+  "ch": 3,
+  "note": "Hình ảnh ngọn núi Sơn 山 này nhô trồi lên trên ngọn núi Sơn khác: Mầm mọc vươn ra khỏi lòng đất."
+ },
+ "离": {
+  "py": "lí",
+  "mn": "cách, rời",
+  "hv": "ly",
+  "ch": 3,
+  "note": "Hình bóng con chim rực rỡ dang cánh bay xa khỏi tổ cành cây: Rời xa nơi chốn thân quen."
+ },
+ "往": {
+  "py": "wǎng",
+  "mn": "hướng về",
+  "hv": "vãng",
+  "ch": 3,
+  "note": "Xích (彳- bước chân đi) + Chủ (主 - ngọn đèn dẫn lối): Bước chân hướng thẳng về phía ánh sáng mục tiêu."
+ },
+ "过": {
+  "py": "guò",
+  "mn": "qua",
+  "hv": "quá",
+  "ch": 3,
+  "note": "Quai xước (辶 - bước đi) + Thốn 寸 tấc lòng: Băng qua từng tấc đường, trải qua muôn ngàn phong ba."
+ },
+ "从": {
+  "py": "cóng",
+  "mn": "từ",
+  "hv": "tùng",
+  "ch": 3,
+  "note": "Hai người (人) đi nối gót theo sau nhau: Bắt đầu khởi hành từ dấu chân người đi trước."
+ },
+ "比": {
+  "py": "bǐ",
+  "mn": "so với",
+  "hv": "tỷ",
+  "ch": 3,
+  "note": "Hai người (匕) đứng kề sát bên nhau để đo đạc xem ai cao hơn, ai giỏi hơn."
+ },
+ "向": {
+  "py": "xiàng",
+  "mn": "hướng về",
+  "hv": "hướng",
+  "ch": 3,
+  "note": "Khung nhà có ô cửa sổ mở ra hướng đón ánh mặt trời: Hướng lòng về phương trời tươi sáng."
+ },
+ "因为": {
+  "py": "yīnwèi",
+  "mn": "bởi vì",
+  "hv": "nhân vi",
+  "ch": 3,
+  "note": "因 (Vi 囗 bao trọn Đại 大 nguyên do cốt lõi) + 为 (hành động): Căn nguyên dẫn tới sự việc diễn ra."
+ },
+ "所以": {
+  "py": "suǒyǐ",
+  "mn": "cho nên",
+  "hv": "sở dĩ",
+  "ch": 3,
+  "note": "所 (Hộ 户 cửa nhà + Cân 斤 cái búa đẽo gọt kết quả) + 以 (lấy đó làm căn cứ): Kết quả tất yếu sinh ra từ nguyên nhân."
+ },
+ "虽然": {
+  "py": "suīrán",
+  "mn": "tuy rằng",
+  "hv": "tuy nhiên",
+  "ch": 3,
+  "note": "虽 (Khẩu 口 + Trùng 虫 dẫu là loài sâu bọ nhỏ bé) + 然 (Hỏa 灬 thiêu đốt): Dù gặp muôn vàn nghịch cảnh gian truân."
+ },
+ "但是": {
+  "py": "dànshì",
+  "mn": "nhưng",
+  "hv": "đãn thị",
+  "ch": 3,
+  "note": "但 (Nhân đứng 亻 + Đán 旦 bình minh ló dạng): Nhưng chuyển biến bất ngờ như ánh rạng đông xua tan mây mù."
+ },
+ "Nếu": {
+  "py": "rúguǒ",
+  "mn": "nếu",
+  "hv": "",
+  "ch": 3,
+  "note": "如 (Nữ 女 thuận theo Khẩu 口 lời dặn) + 果 (trái ngọt kết thành): Giả định đặt ra một khả năng trong tương lai."
+ },
+ "跟": {
+  "py": "gēn",
+  "mn": "cùng, theo",
+  "hv": "cân",
+  "ch": 3,
+  "note": "Túc (𧾷- gót chân) + Cấn (艮 - kiên định bền bỉ): Bước chân dõi theo sát gót đồng hành cùng người thương."
+ },
+ "让": {
+  "py": "ràng",
+  "mn": "để, cho phép",
+  "hv": "nhượng",
+  "ch": 3,
+  "note": "Ngôn (讠- lời nói nhã nhặn) + Thượng (上 - nâng lên): Mở lời nhường nhịn cho phép người khác tiến bước."
+ },
+ "给": {
+  "py": "gěi",
+  "mn": "cho",
+  "hv": "cấp",
+  "ch": 3,
+  "note": "Mịch (糸 - sợi dây tơ liên kết) + Hợp (合 - hợp nhất vui vầy): Đem sợi dây yêu thương trao tận tay kết nối hai người."
+ },
+ "找": {
+  "py": "zhǎo",
+  "mn": "tìm",
+  "hv": "trảo",
+  "ch": 3,
+  "note": "Thủ (扌- bàn tay cầm mác) + Qua (戈 - mũi giáo mò mẫm): Đưa tay rẽ lối sục sạo tìm kiếm báu vật thất lạc."
+ },
+ "公共汽车": {
+  "py": "gōnggòngqìchē",
+  "mn": "xe buýt",
+  "hv": "công cộng khí xa",
+  "ch": 4,
+  "note": "公 (chia đều công cộng) + 共 (cùng chung tay) + 汽 (hơi nước/động cơ) + 车 (cỗ xe): Xe khách công cộng phục vụ mọi người."
+ },
+ "自行车": {
+  "py": "zìxíngchē",
+  "mn": "xe đạp",
+  "hv": "tự hành xa",
+  "ch": 4,
+  "note": "自 (tự thân) + 行 (vận hành bước đi) + 车 (xe): Cỗ xe hai bánh tự sức người đạp để di chuyển."
+ },
+ "船": {
+  "py": "chuán",
+  "mn": "thuyền",
+  "hv": "thuyền",
+  "ch": 4,
+  "note": "Chu (舟 - con thuyền độc mộc) + Duyên (㕣: Khẩu 口 khoang thuyền + Bát 八 rẽ sóng): Phương tiện rẽ sóng lướt đi trên sông nước."
+ },
+ "路": {
+  "py": "lù",
+  "mn": "đường",
+  "hv": "lộ",
+  "ch": 4,
+  "note": "Túc (𧾷- bàn chân) + Các (各 - mỗi người đi một ngả): Con đường muôn người qua lại in dấu chân."
+ },
+ "机场": {
+  "py": "jīchǎng",
+  "mn": "sân bay",
+  "hv": "cơ trường",
+  "ch": 4,
+  "note": "机 (máy bay) + 场 (Thổ 土 nền đất + Dương 𠃓 rộng rãi): Bãi đất rộng lớn mênh mông để phi cơ cất và hạ cánh."
+ },
+ "出租车": {
+  "py": "chūzūchē",
+  "mn": "taxi",
+  "hv": "xuất tô xa",
+  "ch": 4,
+  "note": "出 (ra ngoài) + 租 (Hòa 禾 thóc lúa + Thả 且: thuê mướn trả phí) + 车 (xe): Xe chở khách tính tiền theo cước thuê."
+ },
+ "门": {
+  "py": "mén",
+  "mn": "cửa",
+  "hv": "môn",
+  "ch": 4,
+  "note": "Chữ tượng hình vẽ hai cánh cửa liếp khép mở ra vào ngôi nhà."
+ },
+ "教室": {
+  "py": "jiàoshì",
+  "mn": "lớp học",
+  "hv": "giáo thất",
+  "ch": 4,
+  "note": "教 (Hiếu 孝 hiếu thảo + Phộc 攵 gõ roi răn dạy) + 室 (Miên 宀 mái nhà + Chí 至 nơi chốn): Căn phòng nơi thầy cô truyền dạy tri thức."
+ },
+ "房间": {
+  "py": "fángjiān",
+  "mn": "căn phòng",
+  "hv": "phòng gian",
+  "ch": 4,
+  "note": "房 (Hộ 户 cánh cửa + Phương 方 phòng vuông vắn) + 间 (khoảng không gian): Gian phòng ấm cúng trong nhà."
+ },
+ "公司": {
+  "py": "gōngsī",
+  "mn": "công ty",
+  "hv": "công ti",
+  "ch": 4,
+  "note": "公 (công khai, tập thể) + 司 (chuyên trách cai quản): Tổ chức tập thể cùng quản lý và kinh doanh."
+ },
+ "黑板": {
+  "py": "hēibǎn",
+  "mn": "bảng đen",
+  "hv": "hắc bản",
+  "ch": 4,
+  "note": "黑 (Đốm lửa Hỏa 灬 bốc khói đen kịt) + 板 (Mộc 木 ván gỗ + Phản 反): Tấm ván gỗ sơn đen dùng để viết phấn."
+ },
+ "信": {
+  "py": "xìn",
+  "mn": "thư",
+  "hv": "tín",
+  "ch": 4,
+  "note": "Nhân đứng (亻- con người) + Ngôn (言 - lời nói): Lời nói chân thành từ đáy lòng gửi gắm qua trang thư."
+ },
+ "信封": {
+  "py": "xìnfēng",
+  "mn": "phong bì",
+  "hv": "tín phong",
+  "ch": 4,
+  "note": "信 (lá thư) + 封 (Thổ 土 đắp mộc + Thốn 寸 niêm phong kín): Bao giấy dán kín bảo vệ bức thư bên trong."
+ },
+ "邮票": {
+  "py": "yóupiào",
+  "mn": "tem",
+  "hv": "bưu phiếu",
+  "ch": 4,
+  "note": "邮 (Bưu: vùng đất 阝 chuyển thư) + 票 (Vé: Phách 覀 + K示 bàn thờ/dấu mộc nhỏ): Mảnh giấy in nhỏ dán cước gửi thư."
+ },
+ "信箱": {
+  "py": "xìnxiāng",
+  "mn": "hòm thư",
+  "hv": "tín tương",
+  "ch": 4,
+  "note": "信 (thư từ) + 箱 (Trúc 竹 tre đan + Tương 相 cái rương): Hộp gỗ/sắt đặt trước cửa để đựng thư gửi tới."
+ },
+ "报纸": {
+  "py": "bàozhǐ",
+  "mn": "báo",
+  "hv": "báo chỉ",
+  "ch": 4,
+  "note": "报 (Báo cáo, đưa tin) + 纸 (Mịch 糸 sợi tơ ép mịn thành giấy): Tờ giấy in tin tức sự kiện hàng ngày."
+ },
+ "铅笔": {
+  "py": "qiānbǐ",
+  "mn": "bút chì",
+  "hv": "duyên bút",
+  "ch": 4,
+  "note": "铅 (Kim 钅 kim loại chì + Khẩu 口) + 笔 (Trúc 竹 cán tre + Duật 聿 lông viết): Cây bút có ruột khoáng chì gọt nhọn."
+ },
+ "手表": {
+  "py": "shǒubiǎo",
+  "mn": "đồng hồ đeo tay",
+  "hv": "thủ biểu",
+  "ch": 4,
+  "note": "手 (bàn tay/cổ tay) + 表 (bộ áo khoác ngoài hiển thị mặt số): Vật dụng đeo trên cổ tay hiển thị giờ giấc."
+ },
+ "事情": {
+  "py": "shìqing",
+  "mn": "sự việc",
+  "hv": "sự tình",
+  "ch": 4,
+  "note": "事 (ghi chép việc đời lên thẻ tre) + 情 (Tâm 忄 tình cảm + Thanh 青): Biến cố, sự việc diễn ra trong đời sống."
+ },
+ "问题": {
+  "py": "wèntí",
+  "mn": "vấn đề, câu hỏi",
+  "hv": "vấn đề",
+  "ch": 4,
+  "note": "问 (Môn 门 mở miệng Khẩu 口 hỏi han) + 题 (Hiệt 页 đầu óc nghĩ ngợi đề bài): Khúc mắc trăn trở cần giải đáp."
+ },
+ "意思": {
+  "py": "yìsi",
+  "mn": "ý nghĩa",
+  "hv": "ý tư",
+  "ch": 4,
+  "note": "意 (Âm 音 tiếng lòng từ Tâm 心) + 思 (Điền 田 mảnh đất suy nghĩ + Tâm 心): Nội hàm, ý tứ sâu xa ẩn sau câu chữ."
+ },
+ "考试": {
+  "py": "kǎoshì",
+  "mn": "thi",
+  "hv": "khảo thí",
+  "ch": 4,
+  "note": "考 (Lão 老 ông già chấm thi) + 试 (Ngôn 讠 lời nói + Thức 式 quy chuẩn): Kỳ sát hạch đánh giá năng lực theo chuẩn mực."
+ },
+ "工作": {
+  "py": "gōngzuò",
+  "mn": "công việc",
+  "hv": "công tác",
+  "ch": 4,
+  "note": "工 (cái thước đo góc của người thợ) + 作 (Nhân đứng 亻 người bắt tay chế tác): Hoạt động lao động cống hiến tạo ra giá trị."
+ },
+ "介绍": {
+  "py": "jièshào",
+  "mn": "giới thiệu",
+  "hv": "giới thiệu",
+  "ch": 4,
+  "note": "介 (Người chia ở giữa làm cầu nối) + 绍 (Mịch 糸 nối tiếp sợi dây liên kết): Làm cầu nối mai mối hai bên quen biết nhau."
+ },
+ "欢迎": {
+  "py": "huānyíng",
+  "mn": "chào đón",
+  "hv": "hoan nghênh",
+  "ch": 4,
+  "note": "欢 (há miệng reo vui hân hoan) + 迎 (Quai xước 辶 bước ra cửa đón khách): Tươi cười rạng rỡ nghênh đón khách quý."
+ },
+ "懂": {
+  "py": "dǒng",
+  "mn": "hiểu",
+  "hv": "đổng",
+  "ch": 4,
+  "note": "Tâm (忄- con tim, tấm lòng) + Đổng (董 - hiểu biết tường tận): Trái tim thông suốt tỏ tường mọi lẽ."
+ },
+ "知道": {
+  "py": "zhīdào",
+  "mn": "biết",
+  "hv": "tri đạo",
+  "ch": 4,
+  "note": "知 (Mũi tên Thỉ 矢 bắn trúng miệng Khẩu 口: nói đúng vanh vách) + 道 (đạo lý): Hiểu rõ tri thức và nắm vững đạo lý."
+ },
+ "认识": {
+  "py": "rènshi",
+  "mn": "quen biết",
+  "hv": "nhận thức",
+  "ch": 4,
+  "note": "认 (Ngôn 讠 lời nói + Nhân 人 nhận mặt) + 识 (Ngôn 讠 + Chỉ 只 phân biệt): Nhận diện và thấu tỏ về một ai đó."
+ },
+ "帮助": {
+  "py": "bāngzhù",
+  "mn": "giúp đỡ",
+  "hv": "bang trợ",
+  "ch": 4,
+  "note": "帮 (đôi cánh dệt vải chở che) + 助 (Thả 且 nâng đỡ + Lực 力 góp sức): Đem sức lực chìa tay tương trợ người hoạn nạn."
+ },
+ "希望": {
+  "py": "xīwàng",
+  "mn": "hy vọng",
+  "hv": "hy vọng",
+  "ch": 4,
+  "note": "希 (Mảnh vải thưa 巾 đón ánh sáng) + 望 (Đứng trên đồi trông ngóng vầng trăng tròn): Hướng mắt trông chờ tương lai tốt đẹp."
+ },
+ "觉得": {
+  "py": "juéde",
+  "mn": "cảm thấy",
+  "hv": "giác đắc",
+  "ch": 4,
+  "note": "觉 (Kiến 见 nhìn thấu hiểu ra) + 得 (nắm bắt được): Cảm nhận trực giác phát sinh từ nội tâm."
+ },
+ "准备": {
+  "py": "zhǔnbèi",
+  "mn": "chuẩn bị",
+  "hv": "chuẩn bị",
+  "ch": 4,
+  "note": "准 (bằng phẳng chuẩn mực) + 备 (Đông 夂 tích trữ đồ đạc trong kho 田): Sắp xếp đầy đủ mọi thứ trước khi hành động."
+ },
+ "开始": {
+  "py": "kāishǐ",
+  "mn": "bắt đầu",
+  "hv": "khai thủy",
+  "ch": 4,
+  "note": "开 (hai tay mở toang then cài) + 始 (Nữ 女 người mẹ hoài thai mầm sống Thai 台): Khởi đầu một chặng đường mới."
+ },
+ "完": {
+  "py": "wán",
+  "mn": "xong",
+  "hv": "hoàn",
+  "ch": 4,
+  "note": "Miên (宀 - mái nhà) + Nguyên (元 - vẹn toàn từ đầu đến chân): Làm trọn vẹn mọi việc dưới mái nhà, kết thúc êm đẹp."
+ },
+ "回答": {
+  "py": "huídá",
+  "mn": "trả lời",
+  "hv": "hồi đáp",
+  "ch": 4,
+  "note": "回 (xoay vòng đáp lại) + 答 (Trúc 竹 thẻ tre + Hợp 合 hòa hợp): Cất lời hồi đáp chuẩn xác đúng câu hỏi."
+ },
+ "运动": {
+  "py": "yùndòng",
+  "mn": "thể thao",
+  "hv": "vận động",
+  "ch": 4,
+  "note": "运 (Quai xước 辶 vận chuyển bánh xe) + 动 (Vân 云 mây bay + Lực 力 sức mạnh): Vận động rèn luyện thân thể dẻo dai."
+ },
+ "跑步": {
+  "py": "pǎobù",
+  "mn": "chạy bộ",
+  "hv": "bào bộ",
+  "ch": 4,
+  "note": "跑 (Túc 𧾷 bàn chân cuộn nhanh) + 步 (hai bàn chân bước nối tiếp): Chạy từng bước dài tăng cường sức khỏe."
+ },
+ "游泳": {
+  "py": "yóuyǒng",
+  "mn": "bơi",
+  "hv": "du vịnh",
+  "ch": 4,
+  "note": "游 (Thủy 氵 dòng nước + Phương 方 trôi nổi) + 泳 (Thủy 氵 nước + Vĩnh 永 trường tồn): Vẫy vùng bơi lội trong làn nước mát."
+ },
+ "踢足球": {
+  "py": "tīzúqiú",
+  "mn": "đá bóng",
+  "hv": "thích túc cầu",
+  "ch": 4,
+  "note": "踢 (Túc 𧾷 chân tung cước) + 足 (bàn chân) + 球 (Vương 王 ngọc tròn): Dùng chân đá quả bóng tròn trên sân."
+ },
+ "打篮球": {
+  "py": "dǎlánqiú",
+  "mn": "chơi bóng rổ",
+  "hv": "đả lam cầu",
+  "ch": 4,
+  "note": "打 (tay vỗ ném) + 篮 (Trúc 竹 sọt tre làm rổ) + 球 (quả bóng tròn): Môn ném bóng vào rổ tre."
+ },
+ "唱歌": {
+  "py": "chànggē",
+  "mn": "hát",
+  "hv": "xướng ca",
+  "ch": 4,
+  "note": "唱 (Khẩu 口 miệng mở to + Xướng 昌 rực rỡ) + 歌 (Ca 哥 anh em + Khiếm 欠 há miệng ngân nga): Cất cao giọng hát giai điệu vui tươi."
+ },
+ "跳舞": {
+  "py": "tiàowǔ",
+  "mn": "nhảy múa",
+  "hv": "khiêu vũ",
+  "ch": 4,
+  "note": "跳 (Túc 𧾷 bật nhảy chân) + 舞 (Người cầm cành lá múa lượn theo nhịp điệu): Hòa mình nhảy múa uyển chuyển."
+ },
+ "旅游": {
+  "py": "lǚyóu",
+  "mn": "du lịch",
+  "hv": "lữ du",
+  "ch": 4,
+  "note": "旅 (Cờ bay theo đoàn quân viễn chinh) + 游 (bơi lội chu du khắp chốn): Đi ngao du thưởng ngoạn danh lam thắng cảnh."
+ },
+ "玩儿": {
+  "py": "wánr",
+  "mn": "chơi",
+  "hv": "ngoạn nhi",
+  "ch": 4,
+  "note": "玩 (Vương 王 viên ngọc quý + Nguyên 元 cầm trên tay đùa giỡn) + 儿: Vui chơi giải trí thảnh thơi."
+ },
+ "比赛": {
+  "py": "bǐsài",
+  "mn": "thi đấu",
+  "hv": "tỷ trại",
+  "ch": 4,
+  "note": "比 (so tài cao thấp) + 赛 (Miên 宀 mái đình + Tái 𡨄 trao bảo vật 贝 khen thưởng): Tranh tài đọ sức giành giải thưởng."
+ },
+ "照相机": {
+  "py": "zhàoxiàngjī",
+  "mn": "máy ảnh",
+  "hv": "chiếu tương cơ",
+  "ch": 4,
+  "note": "照 (ánh sáng rọi) + 相 (hình ảnh chân dung) + 机 (cỗ máy): Thiết bị quang học bắt trọn khoảnh khắc."
+ },
+ "照片": {
+  "py": "zhàopiàn",
+  "mn": "ảnh",
+  "hv": "chiếu phiến",
+  "ch": 4,
+  "note": "照 (ánh sáng phản chiếu) + 片 (Mảnh gỗ/giấy mỏng): Bức hình ghi lại khoảnh khắc kỷ niệm trên trang giấy."
+ },
+ "门票": {
+  "py": "ménpiào",
+  "mn": "vé vào cửa",
+  "hv": "môn phiếu",
+  "ch": 4,
+  "note": "门 (cánh cổng ra vào) + 票 (tấm vé chứng nhận): Phiếu vào cổng tham quan, xem hội."
+ },
+ "电影院": {
+  "py": "diànyǐngyuàn",
+  "mn": "rạp chiếu phim",
+  "hv": "điện ảnh viện",
+  "ch": 4,
+  "note": "电影 (phim ảnh ánh sáng) + 院 (tòa nhà khuôn viên lớn): Nơi khán giả tụ hội thưởng thức các bộ phim hay."
+ },
+ "爬山": {
+  "py": "páshān",
+  "mn": "leo núi",
+  "hv": "ba sơn",
+  "ch": 4,
+  "note": "爬 (Trảo 爪 móng vuốt bám víu + Ba 巴 bám chặt) + 山 (ngọn núi đá cao vút): Dùng tay chân bám đá trèo lên đỉnh núi."
+ },
+ "上班": {
+  "py": "shàngbān",
+  "mn": "đi làm",
+  "hv": "thượng ban",
+  "ch": 4,
+  "note": "上 (bắt đầu bước vào) + 班 (Vương 王 gươm báu Đao 刂 chia ca kíp làm việc): Bắt đầu ca làm việc mỗi ngày."
+ },
+ "下班": {
+  "py": "xiàbān",
+  "mn": "tan làm",
+  "hv": "hạ ban",
+  "ch": 4,
+  "note": "下 (kết thúc, rời khỏi) + 班 (ca kíp): Hoàn thành công việc trong ngày và ra về."
+ },
+ "起床": {
+  "py": "qǐchuáng",
+  "mn": "thức dậy",
+  "hv": "khởi sàng",
+  "ch": 4,
+  "note": "起 (Tẩu 走 bước đi + Kỷ 己 thân mình nhổm dậy) + 床 (Quảng 广 mái nhà + Mộc 木 chiếc giường gỗ): Rời khỏi giường bắt đầu ngày mới."
+ },
+ "睡觉": {
+  "py": "shuìjiào",
+  "mn": "ngủ",
+  "hv": "thụy giác",
+  "ch": 4,
+  "note": "睡 (Mục 目 đôi mắt + Thùy 垂 rủ mí xuống trĩu nặng) + 觉 (chìm vào giấc mộng): Nhắm mắt chìm sâu vào giấc ngủ an lành."
+ },
+ "休息": {
+  "py": "xiūxi",
+  "mn": "nghỉ ngơi",
+  "hv": "hưu tức",
+  "ch": 4,
+  "note": "休 (Người 亻 tựa lưng vào bóng mát thân cây Mộc 木) + 息 (Tự 自 cái mũi thở êm dịu từ Tâm 心): Dừng tay lấy lại sức lực."
+ },
+ "生病": {
+  "py": "shēngbìng",
+  "mn": "bị ốm",
+  "hv": "sinh bệnh",
+  "ch": 4,
+  "note": "生 (phát sinh) + 病 (Nạch 疒 giường bệnh + Bính 丙 nóng sốt suy nhược): Cơ thể phát sinh bệnh tật suy yếu."
+ },
+ "感冒": {
+  "py": "gǎnmào",
+  "mn": "cảm lạnh",
+  "hv": "cảm mạo",
+  "ch": 4,
+  "note": "感 (Tâm 忄 cảm nhận thời tiết) + 冒 (Mạo: che đầu lao ra gió rét): Nhiễm gió lạnh gây sổ mũi hắt hơi."
+ },
+ "发烧": {
+  "py": "fāshāo",
+  "mn": "sốt",
+  "hv": "phát thiêu",
+  "ch": 4,
+  "note": "发 (bộc phát ra ngoài) + 烧 (Hỏa 灬 ngọn lửa bùng cháy đống đất Nghiêu 尧): Thân nhiệt bốc hỏa nóng ran như lửa."
+ },
+ "头疼": {
+  "py": "tóuténg",
+  "mn": "đau đầu",
+  "hv": "đầu đông",
+  "ch": 4,
+  "note": "头 (cái đầu) + 疼 (Nạch 疒 đau đớn + Đông 冬 lạnh buốt nhức nhối): Đầu óc đau nhức ê ẩm như búa bổ."
+ },
+ "药": {
+  "py": "yào",
+  "mn": "thuốc",
+  "hv": "dược",
+  "ch": 4,
+  "note": "Thảo (艹 - cây thuốc nam) + Nhạc (乐 - âm nhạc làm lành vết thương, vui vẻ): Cỏ cây thảo mộc xua tan bệnh tật đem lại niềm vui."
+ },
+ "身体": {
+  "py": "shēntǐ",
+  "mn": "cơ thể, sức khỏe",
+  "hv": "thân thể",
+  "ch": 4,
+  "note": "身 (Thân thể người mẹ mang thai nâng niu) + 体 (Nhân đứng 亻 người + Bản 本 gốc rễ vững chãi): Tấm thân và sinh lực con người."
+ },
+ "眼睛": {
+  "py": "yǎnjing",
+  "mn": "mắt",
+  "hv": "nhãn tinh",
+  "ch": 4,
+  "note": "眼 (Mục 目 mắt + Cấn 艮 kiên định) + 睛 (Mục 目 + Thanh 青 tròng đen trong veo): Cửa sổ tâm hồn nhìn ngắm thế giới."
+ },
+ "手": {
+  "py": "shǒu",
+  "mn": "tay",
+  "hv": "thủ",
+  "ch": 4,
+  "note": "Chữ tượng hình vẽ bàn tay với 5 ngón xòe ra nắm giữ và lao động."
+ },
+ "口": {
+  "py": "kǒu",
+  "mn": "miệng",
+  "hv": "khẩu",
+  "ch": 4,
+  "note": "Chữ tượng hình vẽ chiếc miệng mở ra ăn uống và cất tiếng nói."
+ },
+ "脸": {
+  "py": "liǎn",
+  "mn": "mặt",
+  "hv": "kiểm",
+  "ch": 4,
+  "note": "Nguyệt (月 - da thịt) + Thiêm (佥 - nơi hội tụ mắt, mũi, miệng): Khuôn mặt biểu lộ cảm xúc con người."
+ },
+ "贵": {
+  "py": "guì",
+  "mn": "đắt",
+  "hv": "quý",
+  "ch": 4,
+  "note": "Trung (中 - chính giữa hộp báu) + Bối (贝 - vỏ sò/tiền tệ quý giá): Đồ vật quý giá hiếm có tốn nhiều tiền bạc."
+ },
+ "便宜": {
+  "py": "biànyí",
+  "mn": "rẻ",
+  "hv": "tiện nghi",
+  "ch": 4,
+  "note": "便 (Nhân đứng 亻 + Canh 更 thuận tiện) + 宜 (Miên 宀 mái ấm + Thả 且 thích hợp): Giá cả phải chăng, thuận mua vừa bán."
+ },
+ "快": {
+  "py": "kuài",
+  "mn": "nhanh",
+  "hv": "khoái",
+  "ch": 4,
+  "note": "Tâm (忄- lòng dạ háo hức) + Quyết (夬 - mũi tên vút bay dứt khoát): Tốc độ thoăn thoắt chớp mắt là tới."
+ },
+ "慢": {
+  "py": "màn",
+  "mn": "chậm",
+  "hv": "mạn",
+  "ch": 4,
+  "note": "Tâm (忄- tâm trí thư thả) + Mạn (曼 - tà áo dài thướt tha khoan thai): Từng bước từ tốn thong dong không vội vã."
+ },
+ "高": {
+  "py": "gāo",
+  "mn": "cao",
+  "hv": "cao",
+  "ch": 4,
+  "note": "Chữ tượng hình vẽ một tòa tháp cao vút có mái che nhô lên giữa tầng mây."
+ },
+ "红": {
+  "py": "hóng",
+  "mn": "đỏ",
+  "hv": "hồng",
+  "ch": 4,
+  "note": "Mịch (糸 - sợi tơ dệt) + Công (工 - bàn tay thợ nhuộm): Sợi lụa nhuộm sắc đỏ thắm rực rỡ may mắn."
+ },
+ "白": {
+  "py": "bái",
+  "mn": "trắng",
+  "hv": "bạch",
+  "ch": 4,
+  "note": "Hình ảnh hạt gạo xát sạch vỏ trấu lóe lên màu trắng ngần tinh khiết."
+ },
+ "黑": {
+  "py": "hēi",
+  "mn": "đen",
+  "hv": "hắc",
+  "ch": 4,
+  "note": "Hình ảnh ống khói lò nướng bám đầy muội than đen và 4 chấm lửa Hỏa 灬 bên dưới."
+ },
+ "忙": {
+  "py": "máng",
+  "mn": "bận",
+  "hv": "mang",
+  "ch": 4,
+  "note": "Tâm (忄- trái tim bồn chồn) + Vong (亡 - mất hút): Công việc bù đầu khiến tâm trí như muốn lạc mất phương hướng."
+ },
+ "累": {
+  "py": "lèi",
+  "mn": "mệt",
+  "hv": "lụy",
+  "ch": 4,
+  "note": "Điền (田 - cày cuốc ngoài đồng ruộng) + Mịch (糸 - trói buộc nặng trĩu): Lao động vất vả kiệt sức rã rời chân tay."
+ },
+ "新": {
+  "py": "xīn",
+  "mn": "mới",
+  "hv": "tân",
+  "ch": 4,
+  "note": "Cây Mộc 木 chặt bằng búa Cân 斤 thơm nồng mùi nhựa gỗ vừa đốn hạ."
+ },
+ "长": {
+  "py": "cháng",
+  "mn": "dài",
+  "hv": "trường",
+  "ch": 4,
+  "note": "Chữ tượng hình vẽ mái tóc dài tha thướt của người xưa buông xõa bay trong gió."
+ },
+ "错": {
+  "py": "cuò",
+  "mn": "sai",
+  "hv": "thác",
+  "ch": 4,
+  "note": "Kim (钅- vàng bạc quý) + Tích (昔 - ngày xưa): Đem vàng quý làm xước mẻ cong queo → Sai lầm, lệch lạc."
+ },
+ "对": {
+  "py": "duì",
+  "mn": "đúng",
+  "hv": "đối",
+  "ch": 4,
+  "note": "Hựu (又 - bàn tay phụng sự) + Thốn (寸 - tấc thước chuẩn mực): Hành động chuẩn xác đúng đắn như đo tấc thước."
+ },
+ "真": {
+  "py": "zhēn",
+  "mn": "thật",
+  "hv": "chân",
+  "ch": 4,
+  "note": "Thập (十) + Mục (目 con mắt nhìn xuyên thấu) + Bệ đỡ vững chắc: Sự thật hiển hiện ngay trước mắt không hề giả dối."
+ },
+ "非常": {
+  "py": "fēicháng",
+  "mn": "vô cùng",
+  "hv": "phi thường",
+  "ch": 4,
+  "note": "非 (bất thường vượt bậc) + 常 (thông thường thường nhật): Vượt xa quy chuẩn bình thường, vô cùng sâu sắc."
+ },
+ "太": {
+  "py": "tài",
+  "mn": "quá",
+  "hv": "thái",
+  "ch": 4,
+  "note": "Chữ Đại (大 - to lớn) thêm dấu chấm bên dưới nhấn mạnh: To lớn tột bậc vượt ngưỡng giới hạn."
+ },
+ "最": {
+  "py": "zuì",
+  "mn": "nhất",
+  "hv": "tối",
+  "ch": 4,
+  "note": "Nhật (日 - mặt trời tỏa sáng trên cao) + Thủ (取 - tay đoạt lấy vinh quang đỉnh cao): Vị trí số một tột đỉnh không ai sánh bằng."
+ },
+ "矮": {
+  "py": "ǎi",
+  "mn": "thấp",
+  "hv": "ải",
+  "ch": 4,
+  "note": "Thỉ (矢 - mũi tên ngắn tấc) + Ủy (委 - bông lúa uốn cong sát mặt đất): Chiều cao khiêm tốn gần mặt đất."
+ },
+ "瘦": {
+  "py": "shòu",
+  "mn": "gầy",
+  "hv": "sấu",
+  "ch": 4,
+  "note": "Nạch (疒- thân hình ốm yếu) + Tẩu (叟 - cụ già râu tóc khẳng khiu): Vóc dáng gầy gò mảnh khảnh trơ xương."
+ },
+ "胖": {
+  "py": "pàng",
+  "mn": "béo",
+  "hv": "bàn",
+  "ch": 4,
+  "note": "Nguyệt (月 - da thịt bắp cơ) + Bán (半 - nửa con trâu đầy đặn): Thân hình mũm mĩm đẫy đà thừa cân."
+ },
+ "干": {
+  "py": "gān",
+  "mn": "khô",
+  "hv": "can",
+  "ch": 4,
+  "note": "Chữ tượng hình chiếc đinh ba phơi nắng ráo hoảnh không còn giọt nước nào."
+ },
+ "湿": {
+  "py": "shī",
+  "mn": "ướt",
+  "hv": "thấp",
+  "ch": 4,
+  "note": "Thủy (氵- giọt nước) + Nhật (日) + Tơ sợi 𢆶: Vải vóc ngấm đẫm nước chưa kịp khô ráo."
+ },
+ "软": {
+  "py": "ruǎn",
+  "mn": "mềm",
+  "hv": "nhuyễn",
+  "ch": 4,
+  "note": "Xa (车 - cỗ xe) + Khiếm (欠 - uốn lượn thở nhẹ): Mềm mại êm ái như nệm lụa lót xe."
+ },
+ "硬": {
+  "py": "yìng",
+  "mn": "cứng",
+  "hv": "ngạnh",
+  "ch": 4,
+  "note": "Thạch (石- tảng đá hoa cương) + Canh (更 - rắn rỏi bền vững): Rắn chắc kiên cố như vách đá ngàn năm."
+ },
+ "轻": {
+  "py": "qīng",
+  "mn": "nhẹ",
+  "hv": "khinh",
+  "ch": 4,
+  "note": "Xa (车 - cỗ xe) + Kính (𢀖 - nhẹ tênh lướt êm): Khối lượng nhẹ bẫng tựa lông hồng bồng bềnh."
+ },
+ "重": {
+  "py": "zhòng",
+  "mn": "nặng",
+  "hv": "trọng",
+  "ch": 4,
+  "note": "Thiên (千 - ngàn cân) dồn lên đất Thổ (土) và xách nặng trĩu đè lên vai: Trọng lượng lớn trĩu xuống."
+ },
+ "准": {
+  "py": "zhǔn",
+  "mn": "chuẩn",
+  "hv": "chuẩn",
+  "ch": 4,
+  "note": "Băng (冫- giọt sương tinh khiết) + Chuẩn (隹 - con chim đo đường bay thẳng): Chuẩn mực chính xác từng ly."
+ },
+ "快活": {
+  "py": "kuàihuo",
+  "mn": "vui vẻ",
+  "hv": "khoái hoạt",
+  "ch": 4,
+  "note": "快 (nhanh nhảu hoạt bát) + 活 (Thủy 氵 dòng nước tuôn tràn sinh khí): Cuộc sống ngập tràn niềm vui phơi phới."
+ },
+ "暖和": {
+  "py": "nuǎnhuo",
+  "mn": "ấm áp",
+  "hv": "noãn hòa",
+  "ch": 4,
+  "note": "暖 (Nhật 日 mặt trời sưởi ấm) + 和 (Hòa 禾 lúa + Khẩu 口 no ấm hòa hợp): Không khí ấm áp dễ chịu lòng người."
+ },
+ "凉快": {
+  "py": "liángkuai",
+  "mn": "mát mẻ",
+  "hv": "lương khoái",
+  "ch": 4,
+  "note": "凉 (Băng 冫 hai giọt nước lạnh đầu thu) + 快 (sảng khoái): Gió thu mơn man xua tan cái oi bức."
+ },
+ "准时": {
+  "py": "zhǔnshí",
+  "mn": "đúng giờ",
+  "hv": "chuẩn thời",
+  "ch": 4,
+  "note": "准 (chuẩn xác từng ly) + 时 (thời khắc): Đúng giờ hẹn không chậm trễ một phút giây nào."
+ },
+ "深": {
+  "py": "shēn",
+  "mn": "sâu",
+  "hv": "thâm",
+  "ch": 4,
+  "note": "Thủy (氵- dòng nước thăm thẳm) + Mái nhà 宀 che hố sâu kín đáo: Vực thẳm sâu không thấy đáy."
+ },
+ "浅": {
+  "py": "qiǎn",
+  "mn": "nông",
+  "hv": "thiển",
+  "ch": 4,
+  "note": "Thủy (氵- dòng suối cạn) + Tàn (戋 - hai thanh gươm cạn queo): Làn nước nông có thể lội qua dễ dàng."
+ },
+ "圆": {
+  "py": "yuán",
+  "mn": "tròn",
+  "hv": "viên",
+  "ch": 4,
+  "note": "Vi (囗 - vòng bao bọc kín mít) + Viên (员 - đồng tiền tròn xoe): Hình tròn vành vạnh không góc cạnh khuyết thiếu."
+ },
+ "也": {
+  "py": "yě",
+  "mn": "cũng",
+  "hv": "dã",
+  "ch": 5,
+  "note": "Chữ tượng hình chiếc ấm nước thời cổ rót qua rót lại: Biểu thị sự đồng điệu, tương tự, cũng vậy."
+ },
+ "都": {
+  "py": "dōu",
+  "mn": "đều",
+  "hv": "đô",
+  "ch": 5,
+  "note": "Giả (者 - nhiều người tụ hội) + Ấp (阝- vùng đất/kinh thành): Toàn thể mọi người tụ họp đông đủ không sót ai."
+ },
+ "就": {
+  "py": "jiù",
+  "mn": "thì, liền",
+  "hv": "tựu",
+  "ch": 5,
+  "note": "Kinh (京 - kinh thành cao sang) + Vưu (尤 - đặc biệt nổi bật): Liền lập tức tiến bước đến nơi, dứt khoát ngay."
+ },
+ "再": {
+  "py": "zài",
+  "mn": "lại, nữa",
+  "hv": "tái",
+  "ch": 5,
+  "note": "Nét ngang 一 bao bọc đan kết tầng tầng: Lặp lại thêm một lần nữa, tiếp tục tiếp diễn."
+ },
+ "别": {
+  "py": "bié",
+  "mn": "đừng",
+  "hv": "biệt",
+  "ch": 5,
+  "note": "Khẩu (口 - lời can ngăn) + Đao (刂- cắt đứt dứt khoát): Cất lời khuyên ngăn người khác dừng lại, đừng làm."
+ },
+ "一起": {
+  "py": "yīqǐ",
+  "mn": "cùng nhau",
+  "hv": "nhất khởi",
+  "ch": 5,
+  "note": "一 (chung một hướng) + 起 (Tẩu 走 bước đi + Kỷ 己 thân mình): Cùng nhau đồng hành sát cánh bước tới."
+ },
+ "正在": {
+  "py": "zhèngzài",
+  "mn": "đang",
+  "hv": "chính tại",
+  "ch": 5,
+  "note": "正 (ngay thẳng, đúng lúc) + 在 (Thổ 土 cắm mốc hiện diện): Đúng ngay khoảnh khắc sự việc đang diễn ra."
+ },
+ "已经": {
+  "py": "yǐjīng",
+  "mn": "đã",
+  "hv": "dĩ kinh",
+  "ch": 5,
+  "note": "已 (dấu móc đã khép miệng hoàn tất) + 经 (Mịch 糸 sợi tơ trải qua dòng thời gian): Việc đã xảy ra trong quá khứ."
+ },
+ "差不多": {
+  "py": "chàbuduō",
+  "mn": "gần như",
+  "hv": "sai bất đa",
+  "ch": 5,
+  "note": "差 (sai lệch chút đỉnh) + 不 (không) + 多 (nhiều): Sự chênh lệch không đáng kể, xấp xỉ hoàn thành."
+ },
+ "经常": {
+  "py": "jīngcháng",
+  "mn": "thường xuyên",
+  "hv": "kinh thường",
+  "ch": 5,
+  "note": "经 (sợi tơ xuyên suốt) + 常 (khăn lụa 巾 dùng hàng ngày): Thói quen diễn ra đều đặn, liên tục."
+ },
+ "一共": {
+  "py": "yīgòng",
+  "mn": "tổng cộng",
+  "hv": "nhất cộng",
+  "ch": 5,
+  "note": "一 (quy về một mối) + 共 (hai tay nâng niu gom chung lại): Gom tất cả lại thành con số tổng thể."
+ },
+ "可能": {
+  "py": "kěnéng",
+  "mn": "có thể",
+  "hv": "khả năng",
+  "ch": 5,
+  "note": "可 (miệng Khẩu 口 thuận lòng) + 能 (loài gấu hùng dũng đủ năng lực): Một khả năng có thể xảy ra."
+ },
+ "一定": {
+  "py": "yīdìng",
+  "mn": "nhất định",
+  "hv": "nhất định",
+  "ch": 5,
+  "note": "一 (một lòng kiên định) + 定 (Miên 宀 mái nhà vững chắc): Ý chí son sắt không gì lay chuyển được."
+ },
+ "为什么": {
+  "py": "wèishénme",
+  "mn": "tại sao",
+  "hv": "vi thập ma",
+  "ch": 5,
+  "note": "为 (vì lý do gì) + 什 (mười người phức tạp) + 么 (thắc mắc): Lời cất lên truy tìm căn nguyên gốc rễ."
+ },
+ "每": {
+  "py": "měi",
+  "mn": "mỗi",
+  "hv": "mỗi",
+  "ch": 5,
+  "note": "Nhân (𠂉) + Mẫu (母 - người mẹ hiền): Người mẹ chăm lo chu đáo cho từng đứa con một cách tỉ mỉ."
+ },
+ "大家": {
+  "py": "dàjiā",
+  "mn": "mọi người",
+  "hv": "đại gia",
+  "ch": 5,
+  "note": "大 (to lớn, rộng khắp) + 家 (mái ấm gia đình): Tất cả mọi người cùng quây quần dưới một mái nhà."
+ },
+ "自己": {
+  "py": "zìjǐ",
+  "mn": "bản thân",
+  "hv": "tự kỷ",
+  "ch": 5,
+  "note": "自 (chỉ vào cái mũi chính mình) + 己 (sợi dây uốn lượn hình dáng tự thân): Bản thân mình, chính ta."
+ },
+ "更": {
+  "py": "gèng",
+  "mn": "hơn nữa",
+  "hv": "cánh",
+  "ch": 5,
+  "note": "Bính (丙) + Phộc (攵 đánh roi thúc giục): Thúc ngựa phi nhanh hơn nữa, tiến thêm một bậc."
+ },
+ "只": {
+  "py": "zhǐ",
+  "mn": "chỉ",
+  "hv": "chỉ",
+  "ch": 5,
+  "note": "Khẩu (口 - chiếc miệng) + Bát (八 - hai nét buông xuôi): Chỉ duy nhất một điều duy nhất được thốt ra."
+ },
+ "越": {
+  "py": "yuè",
+  "mn": "càng",
+  "hv": "việt",
+  "ch": 5,
+  "note": "Tẩu (走 - bước chân sải dài) + Việt (戉 - cây rìu mở rộng biên cương): Vượt qua ranh giới, càng lúc càng tăng tiến."
+ },
+ "可以": {
+  "py": "kěyǐ",
+  "mn": "có thể, được phép",
+  "hv": "khả dĩ",
+  "ch": 5,
+  "note": "可 (thuận theo lời hát) + 以 (lấy đó làm chuẩn): Được sự chấp thuận, hoàn toàn có khả năng."
+ },
+ "要": {
+  "py": "yào",
+  "mn": "muốn, cần",
+  "hv": "yếu",
+  "ch": 5,
+  "note": "Tây (覀 - che phủ bảo bọc) + Nữ (女 - người phụ nữ): Tâm nguyện cốt yếu khao khát cần phải có."
+ },
+ "会": {
+  "py": "huì",
+  "mn": "biết (làm), sẽ",
+  "hv": "hội",
+  "ch": 5,
+  "note": "Nhân (人 - con người) tụ họp dưới nắp đậy Vân (云): Học hỏi kỹ năng qua rèn luyện; điều sẽ đến."
+ },
+ "能": {
+  "py": "néng",
+  "mn": "có thể (năng lực)",
+  "hv": "năng",
+  "ch": 5,
+  "note": "Nguyệt (月 - thịt gân) + Tỷ 匕 hai móng vuốt gấu: Năng lực tự thân bẩm sinh khỏe khoắn làm được việc."
+ },
+ "试": {
+  "py": "shì",
+  "mn": "thử",
+  "hv": "thí",
+  "ch": 5,
+  "note": "Ngôn (讠- lời nói) + Thức (式 - khuôn phép kiểu mẫu): Đưa ra thử nghiệm xem có phù hợp với chuẩn mực không."
+ },
+ "拿": {
+  "py": "ná",
+  "mn": "cầm",
+  "hv": "nã",
+  "ch": 5,
+  "note": "Hợp (合 - chụm lại) + Thủ (手 - bàn tay): Bàn tay chụm năm ngón lại để nắm, cầm chắc vật thể."
+ },
+ "放": {
+  "py": "fàng",
+  "mn": "đặt, để",
+  "hv": "phóng",
+  "ch": 5,
+  "note": "Phương (方 - phương hướng vị trí) + Phộc (攵 - buông tay gõ nhẹ): Buông tay đặt vật ngay ngắn xuống vị trí."
+ },
+ "忘": {
+  "py": "wàng",
+  "mn": "quên",
+  "hv": "vong",
+  "ch": 5,
+  "note": "Vong (亡 - mất hút, tan biến) + Tâm (心 - trái tim): Ký ức tan biến khỏi tâm trí, không còn nhớ nữa."
+ },
+ "骑": {
+  "py": "qí",
+  "mn": "cưỡi, đạp",
+  "hv": "kỵ",
+  "ch": 5,
+  "note": "Mã (马 - con tuấn mã) + Kỳ (奇 - người ngồi dang chân trên lưng): Dang hai chân ngồi vững trên lưng ngựa/xe đạp."
+ },
+ "开会": {
+  "py": "kāihuì",
+  "mn": "họp",
+  "hv": "khai hội",
+  "ch": 5,
+  "note": "开 (hai tay mở cửa) + 会 (tụ họp đông đảo con người): Tập hợp mọi người cùng bàn thảo công việc."
+ },
+ "洗澡": {
+  "py": "xǐzǎo",
+  "mn": "tắm",
+  "hv": "tẩy táo",
+  "ch": 5,
+  "note": "洗 (Thủy 氵 rửa sạch bụi) + 澡 (Thủy 氵 nước + Táo 喿 đàn chim ríu rít gột lông): Tắm gội sạch sẽ sảng khoái."
+ },
+ "刷牙": {
+  "py": "shuāyá",
+  "mn": "đánh răng",
+  "hv": "loát nha",
+  "ch": 5,
+  "note": "刷 (Thi 尸 thân xác + Cân 巾 khăn cọ + Đao 刂 quét sạch) + 牙 (hàm răng): Chải sạch từng kẽ răng."
+ },
+ "寄": {
+  "py": "jì",
+  "mn": "gửi (thư)",
+  "hv": "ký",
+  "ch": 5,
+  "note": "Miên (宀 - gửi tới mái nhà) + Cơ (奇 - bưu mã chạy đường xa): Trao gửi thư từ, kiện hàng đi phương xa."
+ },
+ "画": {
+  "py": "huà",
+  "mn": "vẽ",
+  "hv": "họa",
+  "ch": 5,
+  "note": "Duật (聿 - ngọn bút lông) vạch ra bờ cõi đồng ruộng Điền (田): Cầm cọ phác họa nên bức tranh sống động."
+ },
+ "收拾": {
+  "py": "shōushi",
+  "mn": "dọn dẹp",
+  "hv": "thu thập",
+  "ch": 5,
+  "note": "收 (gom lại) + 拾 (Thủ 扌 tay nhặt + Hợp 合 xếp gọn gàng): Đôi tay thu dọn đồ đạc ngăn nắp."
+ },
+ "倒": {
+  "py": "dào",
+  "mn": "rót, đổ",
+  "hv": "đảo",
+  "ch": 5,
+  "note": "Nhân đứng (亻) + Đáo (到 - lộn ngược dốc xuống): Dốc ngược bình nước để rót dòng nước mát."
+ },
+ "端": {
+  "py": "duān",
+  "mn": "bưng",
+  "hv": "đoan",
+  "ch": 5,
+  "note": "Lập (立 - đứng vững vàng) + Đoan (耑 - mầm cây vươn thẳng): Hai tay nâng chén bát giữ thẳng thon không sánh đổ."
+ },
+ "接": {
+  "py": "jiē",
+  "mn": "đón, nhận",
+  "hv": "tiếp",
+  "ch": 5,
+  "note": "Thủ (扌- bàn tay đưa ra) + Thiếp (妾 - phụ nữ nâng niu): Dang rộng đôi tay đón nhận người hoặc đồ vật."
+ },
+ "关照": {
+  "py": "guānzhào",
+  "mn": "quan tâm, chiếu cố",
+  "hv": "quan chiếu",
+  "ch": 5,
+  "note": "关 (quan tâm gắn kết) + 照 (ánh sáng rọi ấm áp): Tấm lòng ân cần bảo bọc, nâng đỡ chở che."
+ },
+ "抱": {
+  "py": "bào",
+  "mn": "ôm",
+  "hv": "bão",
+  "ch": 5,
+  "note": "Thủ (扌- bàn tay) + Bao (包 - bao bọc ủ ấm như thai nhi): Vòng tay ôm trọn người thương vào lòng."
+ },
+ "推": {
+  "py": "tuī",
+  "mn": "đẩy",
+  "hv": "thôi",
+  "ch": 5,
+  "note": "Thủ (扌- bàn tay) + Chuy (隹 - chú chim đuôi ngắn): Dùng lực bàn tay đẩy mạnh vật về phía trước."
+ },
+ "拉": {
+  "py": "lā",
+  "mn": "kéo",
+  "hv": "lạp",
+  "ch": 5,
+  "note": "Thủ (扌- bàn tay) + Lập (立 - đứng trụ vững): Bàn tay ghì chặt kéo vật lại gần phía mình."
+ },
+ "指": {
+  "py": "zhǐ",
+  "mn": "chỉ",
+  "hv": "chỉ",
+  "ch": 5,
+  "note": "Thủ (扌- bàn tay) + Chỉ (旨 - điều thấu hiểu): Dùng ngón tay trỏ hướng về một điểm để dẫn dắt."
+ },
+ "指路": {
+  "py": "zhǐlù",
+  "mn": "chỉ đường",
+  "hv": "chỉ lộ",
+  "ch": 5,
+  "note": "指 (ngón tay chỉ) + 路 (con đường): Dùng ngón tay hướng dẫn lối đi cho người lỡ bước."
+ },
+ "打招呼": {
+  "py": "dǎzhāohu",
+  "mn": "chào hỏi",
+  "hv": "đả chiêu hô",
+  "ch": 5,
+  "note": "打 (làm) + 招 (tay vẫy gọi) + 呼 (miệng cất lời chào): Mỉm cười cất tiếng chào thân ái khi gặp mặt."
+ },
+ "快乐": {
+  "py": "kuàilè",
+  "mn": "vui vẻ",
+  "hv": "khoái lạc",
+  "ch": 5,
+  "note": "快 (nhanh nhẹn sảng khoái) + 乐 (chuông gõ vang khúc hoan ca): Niềm vui sướng tràn ngập tâm hồn."
+ },
+ "高兴": {
+  "py": "gāoxìng",
+  "mn": "vui mừng",
+  "hv": "cao hứng",
+  "ch": 5,
+  "note": "高 (lầu cao vút) + 兴 (bốn tay cùng nâng cao chúc tụng): Tâm trạng phấn khởi hân hoan tột cùng."
+ },
+ "难过": {
+  "py": "nánguò",
+  "mn": "buồn",
+  "hv": "nan quá",
+  "ch": 5,
+  "note": "难 (gian nan trắc trở) + 过 (bước qua thời gian): Nỗi niềm xót xa đau buồn khó lòng nguôi ngoai."
+ },
+ "生气": {
+  "py": "shēngqì",
+  "mn": "giận",
+  "hv": "sinh khí",
+  "ch": 5,
+  "note": "生 (bùng phát) + 气 (luồng khí nóng bốc lên ngùn ngụt): Cơn giận bốc hỏa đỏ mặt tía tai."
+ },
+ "害怕": {
+  "py": "hàipà",
+  "mn": "sợ",
+  "hv": "hại phạ",
+  "ch": 5,
+  "note": "害 (nỗi lo trong nhà 宀) + 怕 (Tâm 忄 run rẩy trước chữ Bạch 白 trắng bệch): Nỗi kinh sợ tái mét mặt mày."
+ },
+ "担心": {
+  "py": "dānxīn",
+  "mn": "lo lắng",
+  "hv": "đam tâm",
+  "ch": 5,
+  "note": "担 (Thủ 扌 vai gánh gồng gánh nặng) + 心 (trái tim): Trái tim trĩu nặng âu lo cho người phương xa."
+ },
+ "舒服": {
+  "py": "shūfu",
+  "mn": "dễ chịu",
+  "hv": "thư phục",
+  "ch": 5,
+  "note": "舒 (Xá 舍 ngôi nhà + Dư 予 thảnh thơi thả lỏng) + 服 (êm ái như áo lụa): Thân thể khoan khoái dễ chịu."
+ },
+ "难受": {
+  "py": "nánshòu",
+  "mn": "khó chịu",
+  "hv": "nan thụ",
+  "ch": 5,
+  "note": "难 (khó khăn) + 受 (Thụ: tay trao nhận muộn phiền): Cảm giác bức bối, đau đớn khó lòng chịu đựng."
+ },
+ "想念": {
+  "py": "xiǎngniàn",
+  "mn": "nhớ nhung",
+  "hv": "tưởng niệm",
+  "ch": 5,
+  "note": "想 (mắt dõi nhìn, tim thổn thức) + 念 (Kim 今 khoảnh khắc này luôn khắc ghi trong Tâm 心): Khắc khoải nhớ nhung khôn nguôi."
+ },
+ "安静": {
+  "py": "ānjìng",
+  "mn": "yên tĩnh",
+  "hv": "an tĩnh",
+  "ch": 5,
+  "note": "安 (Nữ 女 ngồi bình yên dưới mái nhà 宀) + 静 (Thanh 青 xanh biếc + Tranh 争 không tranh giành): Không gian tĩnh lặng, an lành."
+ },
+ "热闹": {
+  "py": "rènao",
+  "mn": "náo nhiệt",
+  "hv": "nhiệt náo",
+  "ch": 5,
+  "note": "热 (ngọn lửa bùng cháy hơi nóng) + 闹 (Môn 门 mở toang đón chợ Thị 市 vào): Không khí rộn rã tưng bừng phố xá."
+ },
+ "特别": {
+  "py": "tèbié",
+  "mn": "đặc biệt",
+  "hv": "đặc biệt",
+  "ch": 5,
+  "note": "特 (Ngưu 牛 con trâu đực hiếm có cúng Tự 寺) + 别 (khác biệt): Nổi bật vượt trội, không giống số đông."
+ },
+ "方便": {
+  "py": "fāngbiàn",
+  "mn": "tiện lợi",
+  "hv": "phương tiện",
+  "ch": 5,
+  "note": "方 (bốn phương thông suốt) + 便 (thuận tiện cho con người 亻): Tiện lợi, dễ dàng thực hiện không trở ngại."
+ },
+ "感动": {
+  "py": "gǎndòng",
+  "mn": "cảm động",
+  "hv": "cảm động",
+  "ch": 5,
+  "note": "感 (Tâm rung động trước ân tình) + 动 (Lực 力 làm lay chuyển): Tấm lòng bị lay động sâu sắc rơi lệ."
+ },
+ "难忘": {
+  "py": "nánwàng",
+  "mn": "khó quên",
+  "hv": "nan vong",
+  "ch": 5,
+  "note": "难 (khó khăn) + 忘 (quên đi khỏi tim): Kỷ niệm sâu sắc khắc cốt ghi tâm không bao giờ phai nhòa."
+ },
+ "聪明": {
+  "py": "cōngming",
+  "mn": "thông minh",
+  "hv": "thông minh",
+  "ch": 5,
+  "note": "聪 (Nhĩ 耳 tai thính + Tâm 心 sáng suốt) + 明 (mắt sáng như nhật nguyệt): Trí tuệ mẫn tiệp, nghe một hiểu mười."
+ },
+ "努力": {
+  "py": "nǔlì",
+  "mn": "nỗ lực",
+  "hv": "nỗ lực",
+  "ch": 5,
+  "note": "努 (Nô 奴 tận tụy + Lực 力 gắng hết sức) + 力 (sức mạnh): Bền bỉ dốc toàn tâm toàn lực phấn đấu."
+ },
+ "认真": {
+  "py": "rènzhēn",
+  "mn": "nghiêm túc",
+  "hv": "nhận chân",
+  "ch": 5,
+  "note": "认 (nhận rõ chân lý) + 真 (thật thà không gian dối): Thái độ chu đáo, cẩn trọng tuyệt đối."
+ },
+ "热情": {
+  "py": "rèqíng",
+  "mn": "nhiệt tình",
+  "hv": "nhiệt tình",
+  "ch": 5,
+  "note": "热 (ngọn lửa ấm nóng) + 情 (tình cảm chân thành): Tấm lòng nồng hậu, hiếu khách ấm áp như lửa."
+ },
+ "客气": {
+  "py": "kèqi",
+  "mn": "khách sáo",
+  "hv": "khách khí",
+  "ch": 5,
+  "note": "客 (khách phương xa) + 气 (khí chất, lễ nghi): Giữ kẽ, câu nệ khách sáo như người ngoài."
+ },
+ "简单": {
+  "py": "jiǎndān",
+  "mn": "đơn giản",
+  "hv": "giản đơn",
+  "ch": 5,
+  "note": "简 (Trúc 竹 thẻ tre mộc mạc) + 单 (một mình): Giản dị, rõ ràng không hề cầu kỳ phức tạp."
+ },
+ "容易": {
+  "py": "róngyì",
+  "mn": "dễ",
+  "hv": "dung dị",
+  "ch": 5,
+  "note": "容 (Miên 宀 mái nhà dung nạp Cốc 谷 dòng suối) + 易 (con thằn lằn biến đổi hanh thông): Thuận buồm xuôi gió, dễ như trở bàn tay."
+ },
+ "难": {
+  "py": "nán",
+  "mn": "khó",
+  "hv": "nan",
+  "ch": 5,
+  "note": "Hựu (又 - gian nan chồng chất) + Chuy (隹 - chú chim mắc bẫy gai góc): Trắc trở chông gai khó lòng vượt qua."
+ },
+ "重要": {
+  "py": "zhòngyào",
+  "mn": "quan trọng",
+  "hv": "trọng yếu",
+  "ch": 5,
+  "note": "重 (sức nặng ngàn cân trĩu xuống) + 要 (cốt lõi thiết yếu): Điểm mấu chốt then chốt không thể thiếu."
+ },
+ "漂亮": {
+  "py": "piàoliang",
+  "mn": "xinh đẹp",
+  "hv": "phiêu lượng",
+  "ch": 5,
+  "note": "漂 (Thủy 氵 dòng nước lấp lánh cuốn trôi bụi) + 亮 (ánh sáng lung linh): Nhan sắc rạng ngời tươi tắn."
+ },
+ "帅": {
+  "py": "shuài",
+  "mn": "đẹp trai",
+  "hv": "soái",
+  "ch": 5,
+  "note": "Cân (巾 - dải khăn soái soái kỳ) của vị tướng quân dũng mãnh, phong độ ngời ngời."
+ },
+ "可爱": {
+  "py": "kě'ài",
+  "mn": "đáng yêu",
+  "hv": "khả ái",
+  "ch": 5,
+  "note": "可 (đáng để nâng niu) + 爱 (đặt trọn trái tim yêu thương): Nét hồn nhiên trong trẻo khiến ai cũng yêu mến."
+ },
+ "年轻": {
+  "py": "niánqīng",
+  "mn": "trẻ",
+  "hv": "niên khinh",
+  "ch": 5,
+  "note": "年 (năm tháng tuổi đời) + 轻 (nhẹ nhàng phơi phới): Tuổi thanh xuân dạt dào sức sống tươi trẻ."
+ },
+ "老": {
+  "py": "lǎo",
+  "mn": "già",
+  "hv": "lão",
+  "ch": 5,
+  "note": "Thổ (土 - đất đai) + Phiệt (丿) + Chủy (匕 - chiếc gậy chống): Cụ già râu tóc bạc phơ chống gậy từng bước."
+ },
+ "有名": {
+  "py": "yǒumíng",
+  "mn": "nổi tiếng",
+  "hv": "hữu danh",
+  "ch": 5,
+  "note": "有 (nắm giữ báu vật) + 名 (Tịch 夕 đêm tối miệng Khẩu 口 xướng tên): Danh tiếng vang xa khắp bốn phương."
+ },
+ "钥匙": {
+  "py": "yàoshi",
+  "mn": "chìa khóa",
+  "hv": "thược thi",
+  "ch": 5,
+  "note": "钥 (Kim 钅 kim loại mở then Nguyệt 月) + 匙 (Thìa mở ổ khóa): Vật kim loại nhỏ dùng để mở ổ khóa then cài."
+ },
+ "钱包": {
+  "py": "qiánbāo",
+  "mn": "ví tiền",
+  "hv": "tiền bao",
+  "ch": 5,
+  "note": "钱 (tiền bạc kim loại quý) + 包 (túi bao bọc kín): Chiếc ví nhỏ cất giữ tiền bạc thẻ tờ."
+ },
+ "礼物": {
+  "py": "lǐwù",
+  "mn": "quà",
+  "hv": "lễ vật",
+  "ch": 5,
+  "note": "礼 (K示 bàn thờ tôn kính dâng lễ vật) + 物 (vật phẩm trân quý): Món quà gửi gắm trọn vẹn ân tình."
+ },
+ "地图": {
+  "py": "dìtú",
+  "mn": "bản đồ",
+  "hv": "địa đồ",
+  "ch": 5,
+  "note": "地 (đất đai bờ cõi) + 图 (khung Vi 囗 vẽ chi tiết sông núi): Tấm bản đồ chỉ lối dẫn đường đi khắp chốn."
+ },
+ "票": {
+  "py": "piào",
+  "mn": "vé",
+  "hv": "phiếu",
+  "ch": 5,
+  "note": "Phách (覀) đặt trên thị (示 - bàn thờ/dấu triện mộc đỏ): Mảnh giấy có triện mộc chứng nhận quyền vào cửa/lên tàu."
+ },
+ "灯": {
+  "py": "dēng",
+  "mn": "đèn",
+  "hv": "đăng",
+  "ch": 5,
+  "note": "Hỏa (火 - ngọn lửa bùng sáng) + Đinh (丁 - chiếc cọc đứng vững): Ngọn đèn dầu thắp sáng màn đêm tăm tối."
+ },
+ "床": {
+  "py": "chuáng",
+  "mn": "giường",
+  "hv": "sàng",
+  "ch": 5,
+  "note": "Quảng (广 - mái nhà ấm áp) + Mộc (木 - thanh gỗ phẳng êm): Chiếc giường gỗ vững chãi nâng giấc ngủ say."
+ },
+ "字": {
+  "py": "zì",
+  "mn": "chữ",
+  "hv": "tự",
+  "ch": 5,
+  "note": "Miên (宀 - mái nhà) + Tử (子 - đứa con học chữ): Con trẻ ngồi dưới mái nhà nắn nót từng con chữ."
+ },
+ "课": {
+  "py": "kè",
+  "mn": "bài học",
+  "hv": "khóa",
+  "ch": 5,
+  "note": "Ngôn (讠- lời giảng của thầy) + Quả (果 - kết tinh trái ngọt tri thức): Bài học bổ ích nuôi dưỡng tâm hồn."
+ },
+ "笔": {
+  "py": "bǐ",
+  "mn": "bút",
+  "hv": "bút",
+  "ch": 5,
+  "note": "Trúc (竹 - ống trúc làm cán) + Duật (聿 - ngòi lông chấm mực viết): Cây bút lông ghi chép muôn điều hay."
+ },
+ "前天": {
+  "py": "qiántiān",
+  "mn": "hôm kia",
+  "hv": "tiền thiên",
+  "ch": 5,
+  "note": "前 (phía trước thời gian) + 天 (ngày): Ngày cách hôm nay hai ngày về trước."
+ },
+ "后天": {
+  "py": "hòutiān",
+  "mn": "ngày kia",
+  "hv": "hậu thiên",
+  "ch": 5,
+  "note": "后 (phía sau nối tiếp) + 天 (ngày): Ngày cách hôm nay hai ngày về sau."
+ },
+ "大后天": {
+  "py": "dàhòutiān",
+  "mn": "ba ngày nữa",
+  "hv": "đại hậu thiên",
+  "ch": 5,
+  "note": "大 (lớn hơn, xa hơn) + 后天 (ngày kia): Ba ngày nữa tính từ ngày hôm nay."
+ },
+ "大前天": {
+  "py": "dàqiántiān",
+  "mn": "ba ngày trước",
+  "hv": "đại tiền thiên",
+  "ch": 5,
+  "note": "大 (xa hơn) + 前天 (hôm kia): Ba ngày trước tính từ ngày hôm nay."
+ },
+ "偶尔": {
+  "py": "ǒu'ěr",
+  "mn": "thỉnh thoảng",
+  "hv": "ngẫu nhĩ",
+  "ch": 5,
+  "note": "偶 (Nhân đứng 亻 người kết đôi Ngung 禺 ngẫu nhiên) + 尔 (nhẹ nhàng): Thảng hoặc đôi khi mới diễn ra."
+ },
+ "从来": {
+  "py": "cónglái",
+  "mn": "từ trước đến nay",
+  "hv": "tùng lai",
+  "ch": 5,
+  "note": "从 (bắt đầu từ quá khứ) + 来 (tới tận bây giờ): Xuyên suốt toàn bộ thời gian từ trước tới nay."
+ },
+ "立刻": {
+  "py": "lìkè",
+  "mn": "lập tức",
+  "hv": "lập khắc",
+  "ch": 5,
+  "note": "立 (đứng thẳng người dậy) + 刻 (Đao 刂 khắc một khắc thời gian ngắn): Ngay tức khắc không chần chừ một giây."
+ },
+ "渐渐": {
+  "py": "jiànjiàn",
+  "mn": "dần dần",
+  "hv": "tiệm tiệm",
+  "ch": 5,
+  "note": "Thủy (氵- từng giọt nước) + Trảm (斩 - xẻ đá từ từ): Nước chảy đá mòn, chuyển biến từ từ từng bước."
+ },
+ "终于": {
+  "py": "zhōngyú",
+  "mn": "cuối cùng",
+  "hv": "chung vu",
+  "ch": 5,
+  "note": "终 (Mịch 糸 sợi tơ cột nút thắt cuối cùng Đông 冬) + 于: Kết quả đạt được sau chuỗi ngày mong đợi."
+ },
+ "随时": {
+  "py": "suíshí",
+  "mn": "bất cứ lúc nào",
+  "hv": "tùy thời",
+  "ch": 5,
+  "note": "随 (Quai xước 辶 thuận theo hoàn cảnh) + 时 (thời khắc): Bất kể giờ phút nào cũng sẵn sàng."
+ },
+ "随便": {
+  "py": "suíbiàn",
+  "mn": "tùy ý",
+  "hv": "tùy tiện",
+  "ch": 5,
+  "note": "随 (thuận theo lòng) + 便 (thuận tiện): Tự nhiên thoải mái, tùy ý lựa chọn không gò bó."
+ },
+ "赶紧": {
+  "py": "gǎnjǐn",
+  "mn": "khẩn trương",
+  "hv": "cản khẩn",
+  "ch": 5,
+  "note": "赶 (Tẩu 走 chạy rượt đuổi Can 干) + 紧 (sợi tơ thắt chặt Mịch 糸): Nhanh chóng khẩn trương hành động gấp gáp."
+ },
+ "顺便": {
+  "py": "shùnbiàn",
+  "mn": "tiện thể",
+  "hv": "thuận tiện",
+  "ch": 5,
+  "note": "顺 (Hiệt 页 đầu xuôi theo dòng nước Xuyên 川) + 便 (thuận tiện): Nhân tiện trên đường làm thêm việc."
+ },
+ "到处": {
+  "py": "dàochù",
+  "mn": "khắp nơi",
+  "hv": "đáo xứ",
+  "ch": 5,
+  "note": "到 (đặt chân tới) + 处 (Hổ 虍 vồ đất/nơi chốn dừng chân): Mọi ngóc ngách, khắp bốn phương trời."
+ },
+ "到底": {
+  "py": "dàodǐ",
+  "mn": "rốt cuộc",
+  "hv": "đáo để",
+  "ch": 5,
+  "note": "到 (chạm tới) + 底 (Quảng 广 mái nhà che Đê 氐 đáy sâu cùng): Chạm tới tận cùng gốc rễ vấn đề."
+ },
+ "甜": {
+  "py": "tián",
+  "mn": "ngọt",
+  "hv": "điềm",
+  "ch": 6,
+  "note": "Thiệt (舌 - chiếc lưỡi) nếm Cam (甘 - vị ngọt thanh của mía đường): Vị ngọt lịm tan chảy trên đầu lưỡi."
+ },
+ "苦": {
+  "py": "kǔ",
+  "mn": "đắng",
+  "hv": "khổ",
+  "ch": 6,
+  "note": "Thảo (艹 - mầm cây cỏ) + Cổ (古 - trăm năm già cỗi): Cây thuốc thảo mộc lâu năm có vị đắng ngắt giải độc."
+ },
+ "辣": {
+  "py": "là",
+  "mn": "cay",
+  "hv": "lạt",
+  "ch": 6,
+  "note": "Tân (辛 - vị cay xé nồng nàn) + Thúc (束 - bó ớt đỏ cột chặt): Vị cay nồng xé lưỡi bừng bừng ấm nóng."
+ },
+ "酸": {
+  "py": "suān",
+  "mn": "chua",
+  "hv": "toan",
+  "ch": 6,
+  "note": "Dậu (酉 - vò rượu lên men) + Tuấn (夋 - con người nhăn mặt): Vị chua của giấm thanh làm nhăn cả khóe mắt."
+ },
+ "咸": {
+  "py": "xián",
+  "mn": "mặn",
+  "hv": "hàm",
+  "ch": 6,
+  "note": "Thành (戊 - ngọn giáo) + Khẩu (口 - nếm hạt muối biển mặn mòi): Vị mặn đậm đà của muối biển nuôi dưỡng sự sống."
+ },
+ "好吃": {
+  "py": "hǎochī",
+  "mn": "ngon",
+  "hv": "hảo ngật",
+  "ch": 6,
+  "note": "好 (tuyệt vời, tốt lành) + 吃 (mở miệng thưởng thức ẩm thực): Món ăn đậm đà ngon miệng hợp khẩu vị."
+ },
+ "好喝": {
+  "py": "hǎohē",
+  "mn": "ngon (đồ uống)",
+  "hv": "hảo hát",
+  "ch": 6,
+  "note": "好 (thích thú) + 喝 (uống nước giải khát): Thức uống thanh mát thơm ngon sảng khoái."
+ },
+ "好看": {
+  "py": "hǎokàn",
+  "mn": "đẹp mắt, hay",
+  "hv": "hảo khán",
+  "ch": 6,
+  "note": "好 (đẹp đẽ) + 看 (đưa tay lên mắt ngắm nhìn): Diện mạo xinh xắn bắt mắt, cuốn hút ánh nhìn."
+ },
+ "好听": {
+  "py": "hǎotīng",
+  "mn": "êm tai",
+  "hv": "hảo thính",
+  "ch": 6,
+  "note": "好 (ngọt ngào) + 听 (lắng nghe âm thanh): Âm thanh du dương êm dịu rót vào tai."
+ },
+ "好玩儿": {
+  "py": "hǎowánr",
+  "mn": "vui",
+  "hv": "hảo ngoạn nhi",
+  "ch": 6,
+  "note": "好 (thích thú) + 玩 (cầm ngọc đùa vui) + 儿: Trò chơi thú vị, mang lại tiếng cười sảng khoái."
+ },
+ "香": {
+  "py": "xiāng",
+  "mn": "thơm",
+  "hv": "hương",
+  "ch": 6,
+  "note": "Hòa (禾 - bông lúa chín vàng trĩu hạt) + Nhật (日 - phơi dưới ánh mặt trời): Mùi cơm mới thơm ngát lan tỏa."
+ },
+ "难看": {
+  "py": "nánkàn",
+  "mn": "xấu",
+  "hv": "nan khán",
+  "ch": 6,
+  "note": "难 (khó khăn) + 看 (ngắm nhìn): Diện mạo khó coi, xấu xí mất thẩm mỹ."
+ },
+ "难吃": {
+  "py": "nánchī",
+  "mn": "dở",
+  "hv": "nan ngật",
+  "ch": 6,
+  "note": "难 (khó nuốt) + 吃 (ăn): Vị dở tệ, khó lòng nuốt trôi."
+ },
+ "难听": {
+  "py": "nántīng",
+  "mn": "khó nghe",
+  "hv": "nan thính",
+  "ch": 6,
+  "note": "难 (chói tai) + 听 (nghe): Âm thanh chói gắt, thô lỗ khó lọt tai."
+ },
+ "衣服": {
+  "py": "yīfu",
+  "mn": "quần áo",
+  "hv": "y phục",
+  "ch": 6,
+  "note": "衣 (chữ tượng hình vạt áo xẻ tà) + 服 (Nguyệt 月 da thịt khoác áo lụa): Trang phục mặc lên người che chở thân thể."
+ },
+ "颜色": {
+  "py": "yánsè",
+  "mn": "màu sắc",
+  "hv": "nhan sắc",
+  "ch": 6,
+  "note": "颜 (Hiệt 页 khuôn mặt rạng rỡ) + 色 (dáng vẻ quyến rũ): Sắc màu muôn vẻ rực rỡ của vạn vật."
+ },
+ "衬衫": {
+  "py": "chènshān",
+  "mn": "áo sơ mi",
+  "hv": "sấn sam",
+  "ch": 6,
+  "note": "衬 (Y 衤 vạt áo lót bên trong) + 衫 (Y 衤 áo cánh có 3 sợi tua 彡): Chiếc áo sơ mi cổ bẻ trang nhã."
+ },
+ "裤子": {
+  "py": "kùzi",
+  "mn": "quần",
+  "hv": "khố tử",
+  "ch": 6,
+  "note": "裤 (Y 衤 trang phục vải + Khố 库 nhà kho cất hai ống chân) + 子: Chiếc quần có hai ống chân vận động linh hoạt."
+ },
+ "裙子": {
+  "py": "qúnzi",
+  "mn": "váy",
+  "hv": "quần tử",
+  "ch": 6,
+  "note": "裙 (Y 衤 tà áo lụa + Quân 君 đoan trang thướt tha) + 子: Tà váy mềm mại xòe rộng của phái nữ."
+ },
+ "鞋子": {
+  "py": "xiézi",
+  "mn": "giày",
+  "hv": "hài tử",
+  "ch": 6,
+  "note": "鞋 (Cách 革 tấm da thuộc dẻo dai + Khuê 圭 đất nung vững chãi) + 子: Đôi giày da bền bỉ bảo vệ đôi bàn chân."
+ },
+ "帽子": {
+  "py": "màozi",
+  "mn": "mũ",
+  "hv": "mạo tử",
+  "ch": 6,
+  "note": "帽 (Cân 巾 mảnh vải dệt + Mạo 冒 che trùm lên đầu Mạo) + 子: Chiếc mũ đội đầu che mưa nắng."
+ },
+ "包": {
+  "py": "bāo",
+  "mn": "túi",
+  "hv": "bao",
+  "ch": 6,
+  "note": "Chữ tượng hình chiếc bọc thai nhi cuộn tròn: Chiếc túi xách gói ghém đồ đạc gọn gàng."
+ },
+ "绿": {
+  "py": "lǜ",
+  "mn": "xanh lá",
+  "hv": "lục",
+  "ch": 6,
+  "note": "Mịch (糸 - sợi tơ óng ả) + Lục (录 - bóc vỏ cây khắc chữ): Màu xanh lục tươi mát của chồi non lộc biếc."
+ },
+ "蓝": {
+  "py": "lán",
+  "mn": "xanh lam",
+  "hv": "lam",
+  "ch": 6,
+  "note": "Thảo (艹 - cây cỏ chàm nhuộm vải) + Giám (监 - soi bóng nước trong veo): Màu xanh lam thăm thẳm như bầu trời."
+ },
+ "黄": {
+  "py": "huáng",
+  "mn": "vàng",
+  "hv": "hoàng",
+  "ch": 6,
+  "note": "Chữ tượng hình miếng ngọc bội hình tròn treo trên đai lưng tỏa ánh hào quang sắc vàng rực rỡ."
+ },
+ "戴": {
+  "py": "dài",
+  "mn": "đeo, đội",
+  "hv": "đới",
+  "ch": 6,
+  "note": "Thập (十) + Qua (戈 vũ khí) + Dị (异 nâng niu hai tay): Trân trọng nâng vật quý cài lên đầu hoặc đeo lên người."
+ },
+ "眼镜": {
+  "py": "yǎnjìng",
+  "mn": "kính",
+  "hv": "nhãn kính",
+  "ch": 6,
+  "note": "眼 (Mục 目 con mắt) + 镜 (Kim 钅 gọng kim loại + Cảnh 竟 thấu kính trong suốt): Chiếc kính đeo mắt trợ lực tầm nhìn."
+ },
+ "双": {
+  "py": "shuāng",
+  "mn": "đôi",
+  "hv": "song",
+  "ch": 6,
+  "note": "Hai chữ Hựu (又又 - hai bàn tay đan kết kề cận): Một cặp, một đôi sóng bước không tách rời."
+ },
+ "条": {
+  "py": "tiáo",
+  "mn": "chiếc, sợi",
+  "hv": "điều",
+  "ch": 6,
+  "note": "Trang (夂 bước chân nhẹ) buông dài theo cành Mộc (木): Lượng từ chỉ vật thon dài mềm mại như khăn, quần, dòng sông."
+ },
+ "手机": {
+  "py": "shǒujī",
+  "mn": "điện thoại di động",
+  "hv": "thủ cơ",
+  "ch": 6,
+  "note": "手 (bàn tay nhỏ gọn) + 机 (cỗ máy tinh vi): Thiết bị di động cầm tay liên lạc không dây."
+ },
+ "电脑": {
+  "py": "diànnǎo",
+  "mn": "máy tính",
+  "hv": "điện não",
+  "ch": 6,
+  "note": "电 (Điện: năng lượng tia chớp) + 脑 (Nguyệt 月 khối óc xử lý thông tin): Bộ não điện tử tính toán siêu tốc."
+ },
+ "电视": {
+  "py": "diànshì",
+  "mn": "ti vi",
+  "hv": "điện thị",
+  "ch": 6,
+  "note": "电 (dòng điện phát sáng) + 视 (Thị: Mục 目 con mắt nhìn K示 hình ảnh): Thiết bị thu phát truyền hình ảnh động."
+ },
+ "冰箱": {
+  "py": "bīngxiāng",
+  "mn": "tủ lạnh",
+  "hv": "băng tương",
+  "ch": 6,
+  "note": "冰 (Băng: nước đóng băng mát lạnh) + 箱 (Trúc 竹 tre đan làm rương kín): Tủ làm lạnh bảo quản thực phẩm tươi ngon."
+ },
+ "空调": {
+  "py": "kōngtiáo",
+  "mn": "điều hòa",
+  "hv": "không điều",
+  "ch": 6,
+  "note": "空 (không gian bầu không khí) + 调 (Ngôn 讠 + Chu 周 điều tiết nhiệt độ): Máy điều hòa nhiệt độ không khí."
+ },
+ "网络": {
+  "py": "wǎngluò",
+  "mn": "mạng",
+  "hv": "võng lạc",
+  "ch": 6,
+  "note": "网 (tấm lưới giăng tơ bốn phía) + 络 (Mịch 糸 sợi tơ kết nối Các 各 điểm): Mạng lưới kết nối thông tin toàn cầu."
+ },
+ "网站": {
+  "py": "wǎngzhàn",
+  "mn": "trang web",
+  "hv": "võng trạm",
+  "ch": 6,
+  "note": "网 (mạng lưới internet) + 站 (trạm dừng chân cắm mốc): Địa chỉ trang web trên không gian mạng."
+ },
+ "短信": {
+  "py": "duǎnxìn",
+  "mn": "tin nhắn",
+  "hv": "đoản tín",
+  "ch": 6,
+  "note": "短 (Thỉ 矢 mũi tên ngắn + Đậu 豆 hạt nhỏ) + 信 (bức thư): Bức thông điệp ngắn gọn gửi qua điện thoại."
+ },
+ "打电话": {
+  "py": "dǎdiànhuà",
+  "mn": "gọi điện",
+  "hv": "đả điện thoại",
+  "ch": 6,
+  "note": "打 (bấm phím gọi) + 电 (dòng điện truyền âm) + 话 (Ngôn 讠 lời nói): Nhấc máy trò chuyện từ xa qua sóng điện thoại."
+ },
+ "关机": {
+  "py": "guānjī",
+  "mn": "tắt máy",
+  "hv": "quan cơ",
+  "ch": 6,
+  "note": "关 (then cài khép lại ngắt kết nối) + 机 (máy móc): Tắt nguồn thiết bị điện tử."
+ },
+ "开机": {
+  "py": "kāijī",
+  "mn": "bật máy",
+  "hv": "khai cơ",
+  "ch": 6,
+  "note": "开 (mở khóa kích hoạt) + 机 (cỗ máy): Bật nguồn khởi động thiết bị hoạt động."
+ },
+ "充电": {
+  "py": "chōngdiàn",
+  "mn": "sạc pin",
+  "hv": "sung điện",
+  "ch": 6,
+  "note": "充 (Đầu 亠 + Dục 育 nuôi dưỡng đong đầy) + 电 (dòng điện): Nạp đầy năng lượng điện vào pin."
+ },
+ "经理": {
+  "py": "jīnglǐ",
+  "mn": "giám đốc",
+  "hv": "kinh lý",
+  "ch": 6,
+  "note": "经 (sợi tơ điều hành then chốt) + 理 (Vương 王 giũa ngọc theo thớ nếp): Người đứng đầu quản lý điều hành doanh nghiệp."
+ },
+ "先生": {
+  "py": "xiānsheng",
+  "mn": "ông, ngài",
+  "hv": "tiên sinh",
+  "ch": 6,
+  "note": "先 (đi trước dẫn đường) + 生 (sinh ra): Bậc tiền bối sinh ra trước, tiếng xưng hô tôn kính quý ông."
+ },
+ "小姐": {
+  "py": "xiǎojie",
+  "mn": "cô, tiểu thư",
+  "hv": "tiểu tỷ",
+  "ch": 6,
+  "note": "小 (nhỏ nhắn thanh tú) + 姐 (chị gái hiền thục): Cách xưng hô lịch thiệp dành cho quý cô trẻ tuổi."
+ },
+ "师傅": {
+  "py": "shīfu",
+  "mn": "thợ, sư phụ",
+  "hv": "sư phó",
+  "ch": 6,
+  "note": "师 (thầy dạy nghề giỏi giang) + 傅 (Phụ: người cha truyền thụ bí kíp): Người thợ lành nghề, bậc thầy chuyên môn."
+ },
+ "祝": {
+  "py": "zhù",
+  "mn": "chúc",
+  "hv": "chúc",
+  "ch": 6,
+  "note": "K示 (bàn thờ kính bái tổ tiên) + Nhân (儿) mở miệng Khẩu (口) khấn nguyện: Cất lời cầu chúc vạn điều bình an."
+ },
+ "祝贺": {
+  "py": "zhùhè",
+  "mn": "chúc mừng",
+  "hv": "chúc hạ",
+  "ch": 6,
+  "note": "祝 (cầu chúc tốt lành) + 贺 (Gia 加 thêm niềm vui + Bối 贝 bưng quà mừng): Chúc mừng thành công hỷ sự."
+ },
+ "结婚": {
+  "py": "jiéhūn",
+  "mn": "kết hôn",
+  "hv": "kết hôn",
+  "ch": 6,
+  "note": "结 (Mịch 糸 sợi tơ duyên thắt chặt nút Cát 吉) + 婚 (Nữ 女 + Hôn 昏 đón dâu lúc hoàng hôn): Đôi lứa xe duyên kết tóc nên vợ thành chồng."
+ },
+ "了解": {
+  "py": "liǎojiě",
+  "mn": "tìm hiểu",
+  "hv": "liễu giải",
+  "ch": 6,
+  "note": "了 (thấu suốt tường tận) + 解 (dao mổ xẻ rành mạch từng chi tiết): Tìm hiểu sâu sắc và thấu tỏ bản chất vấn đề."
+ },
+ "锻炼": {
+  "py": "duànliàn",
+  "mn": "rèn luyện",
+  "hv": "đoán luyện",
+  "ch": 6,
+  "note": "锻 (Kim 钅 đe búa tôi thép) + 炼 (Hỏa 火 ngọn lửa tinh luyện Đông 柬): Rèn giũa thể lực và ý chí như tôi luyện thép."
+ },
+ "练习": {
+  "py": "liànxí",
+  "mn": "luyện tập",
+  "hv": "luyện tập",
+  "ch": 6,
+  "note": "练 (Mịch 糸 sợi tơ nhúng nước gột sạch tạp chất) + 习 (đập cánh bay thuần thục): Rèn dũa kỹ năng qua từng bài tập."
+ },
+ "进步": {
+  "py": "jìnbù",
+  "mn": "tiến bộ",
+  "hv": "tiến bộ",
+  "ch": 6,
+  "note": "进 (bước chân tiến vào phía trước) + 步 (bước chân vững vàng): Trình độ phát triển vươn lên tầm cao mới."
+ },
+ "成功": {
+  "py": "chénggōng",
+  "mn": "thành công",
+  "hv": "thành công",
+  "ch": 6,
+  "note": "成 (mũi giáo Qua 戈 vung lên đạt mục tiêu) + 功 (Công 工 tay nghề + Lực 力 sức mạnh): Gặt hái thành tựu viên mãn nhờ nỗ lực."
+ },
+ "成绩": {
+  "py": "chéngjì",
+  "mn": "thành tích",
+  "hv": "thành tích",
+  "ch": 6,
+  "note": "成 (hoàn thành) + 绩 (Mịch 糸 dệt nên cuộn tơ óng vàng Trách 责): Kết quả học tập và rèn luyện được ghi nhận."
+ },
+ "机会": {
+  "py": "jīhuì",
+  "mn": "cơ hội",
+  "hv": "cơ hội",
+  "ch": 6,
+  "note": "机 (cơ duyên mấu chốt) + 会 (hội ngộ thời điểm): Thời cơ thuận lợi ngàn năm có một."
+ },
+ "办法": {
+  "py": "bànfǎ",
+  "mn": "cách, biện pháp",
+  "hv": "biện pháp",
+  "ch": 6,
+  "note": "办 (Lực 力 gắng sức giữa hai bên chấm) + 法 (Thủy 氵 dòng nước chảy theo quy luật Khứ 去): Phương thức giải quyết vấn đề hiệu quả."
+ },
+ "结束": {
+  "py": "jiéshù",
+  "mn": "kết thúc",
+  "hv": "kết thúc",
+  "ch": 6,
+  "note": "结 (thắt nút sợi tơ) + 束 (Mộc 木 bó củi cột chặt): Khép lại trọn vẹn một chặng đường."
+ },
+ "邮局": {
+  "py": "yóujú",
+  "mn": "bưu điện",
+  "hv": "bưu cục",
+  "ch": 6,
+  "note": "邮 (Bưu: chuyển phát thư tín) + 局 (Xích 尺 thước đo phân chia cơ quan 口): Trụ sở bưu chính tiếp nhận thư từ bưu phẩm."
+ },
+ "信用卡": {
+  "py": "xìnyòngkǎ",
+  "mn": "thẻ tín dụng",
+  "hv": "tín dụng tạp",
+  "ch": 6,
+  "note": "信 (uy tín chữ tín) + 用 (sử dụng) + 卡 (Thượng 下 kẹp giữa): Thẻ ngân hàng chi tiêu dựa trên uy tín cá nhân."
+ },
+ "现金": {
+  "py": "xiànjīn",
+  "mn": "tiền mặt",
+  "hv": "hiện kim",
+  "ch": 6,
+  "note": "现 (hiện diện ngay trước mắt) + 金 (vàng bạc tiền tệ): Tiền mặt trao tay trực tiếp."
+ },
+ "密码": {
+  "py": "mìmǎ",
+  "mn": "mật khẩu",
+  "hv": "mật mã",
+  "ch": 6,
+  "note": "密 (Miên 宀 mái che Tất 必 kín đáo dưới núi Sơn) + 码 (Thạch 石 con số khắc trên đá): Ký tự bí mật bảo mật an toàn."
+ },
+ "护士": {
+  "py": "hùshi",
+  "mn": "y tá",
+  "hv": "hộ sĩ",
+  "ch": 6,
+  "note": "护 (Thủ 扌 tay bảo bọc chở che) + 士 (kẻ sĩ có chuyên môn): Người điều dưỡng chăm sóc sức khỏe bệnh nhân."
+ },
+ "警察": {
+  "py": "jǐngchá",
+  "mn": "cảnh sát",
+  "hv": "cảnh sát",
+  "ch": 6,
+  "note": "警 (Ngôn 讠 lời răn đe kẻ gian Kính 敬) + 察 (Miên 宀 mái đình soi xét Tế 祭): Lực lượng gìn giữ an ninh trật tự."
+ },
+ "律师": {
+  "py": "lǜshī",
+  "mn": "luật sư",
+  "hv": "luật sư",
+  "ch": 6,
+  "note": "律 (Xích 彳 bước đi ngay thẳng theo Duật 聿 khuôn phép) + 师 (bậc thầy): Chuyên gia pháp lý bảo vệ công lý và thân chủ."
+ },
+ "记者": {
+  "py": "jìzhě",
+  "mn": "phóng viên",
+  "hv": "ký giả",
+  "ch": 6,
+  "note": "记 (Ngôn 讠 ghi chép sự thật Kỷ 己) + 者 (người cầm bút): Người làm báo săn tin và truyền tải sự thật."
+ },
+ "校长": {
+  "py": "xiàozhǎng",
+  "mn": "hiệu trưởng",
+  "hv": "hiệu trưởng",
+  "ch": 6,
+  "note": "校 (mái trường giao lưu tri thức) + 长 (người đứng đầu trường thọ uyên bác): Người lãnh đạo cao nhất của ngôi trường."
+ },
+ "亲戚": {
+  "py": "qīnqi",
+  "mn": "họ hàng",
+  "hv": "thân thích",
+  "ch": 6,
+  "note": "亲 (thân thương ruột thịt) + 戚 (Qua 戈 vũ khí bảo vệ người thân): Bà con họ hàng cùng dòng máu tương thân tương ái."
+ },
+ "词典": {
+  "py": "cídiǎn",
+  "mn": "từ điển",
+  "hv": "từ điển",
+  "ch": 6,
+  "note": "词 (Ngôn 讠 lời nói kết hợp Tư 司 cai quản ý) + 典 (Sách quý đặt trang trọng trên giá K兀): Cuốn sách tra cứu giải nghĩa kho từ vựng."
+ },
+ "笔记本": {
+  "py": "bǐjìběn",
+  "mn": "sổ tay",
+  "hv": "bút ký bản",
+  "ch": 6,
+  "note": "笔 (cây bút lông) + 记 (ghi chép) + 本 (gốc rễ xấp giấy đóng thành tập): Cuốn sổ nhỏ dùng để ghi chép việc cần nhớ."
+ },
+ "日期": {
+  "py": "rìqī",
+  "mn": "ngày tháng",
+  "hv": "nhật kỳ",
+  "ch": 6,
+  "note": "日 (mặt trời soi rọi ngày) + 期 (Kỳ: chu kỳ trăng tròn hẹn ước): Mốc thời gian ngày tháng năm cụ thể trên lịch."
+ },
+ "礼貌": {
+  "py": "lǐmào",
+  "mn": "lịch sự",
+  "hv": "lễ mạo",
+  "ch": 6,
+  "note": "礼 (lễ nghi cung kính) + 貌 (khuôn mặt cử chỉ hòa nhã): Cử chỉ đàng hoàng, phong thái nhã nhặn tôn trọng người khác."
+ },
+ "经验": {
+  "py": "jīngyàn",
+  "mn": "kinh nghiệm",
+  "hv": "kinh nghiệm",
+  "ch": 6,
+  "note": "经 (trải qua muôn nẻo đường) + 验 (Mã 马 thử ngựa phân biệt thật giả): Vốn sống và bài học đúc kết sau nhiều trải nghiệm."
+ },
+ "轻松": {
+  "py": "qīngsōng",
+  "mn": "thoải mái",
+  "hv": "khinh tùng",
+  "ch": 6,
+  "note": "轻 (nhẹ nhõm như lông hồng) + 松 (Mộc 木 cây thông thong dong trước gió): Tâm hồn thảnh thơi, không chút áp lực nặng nề."
+ },
+ "集合": {
+  "py": "jíhé",
+  "mn": "tập hợp",
+  "hv": "tập hợp",
+  "ch": 6,
+  "note": "集 (đàn chim Chuy 隹 đậu trên cành Mộc 木) + 合 (chụm lại dưới mái nhà): Tụ họp đông đủ cùng một địa điểm."
+ },
+ "风景": {
+  "py": "fēngjǐng",
+  "mn": "phong cảnh",
+  "hv": "phong cảnh",
+  "ch": 6,
+  "note": "风 (làn gió mơn man cây cỏ) + 景 (Nhật 日 ánh nắng rọi lầu son Kinh 京): Cảnh sắc thiên nhiên tươi đẹp say đắm lòng người."
+ },
+ "绿茶": {
+  "py": "lǜchá",
+  "mn": "trà xanh",
+  "hv": "lục trà",
+  "ch": 6,
+  "note": "绿 (sắc xanh nõn chuối) + 茶 (búp trà cỏ cây thảo mộc): Trà xanh tươi mát đậm đà thanh nhiệt."
+ },
+ "红茶": {
+  "py": "hóngchá",
+  "mn": "trà đen",
+  "hv": "hồng trà",
+  "ch": 6,
+  "note": "红 (sắc đỏ thẫm lên men) + 茶 (lá trà): Trà đỏ ủ lên men có hương vị nồng ấm."
+ },
+ "做饭": {
+  "py": "zuòfàn",
+  "mn": "nấu cơm",
+  "hv": "tố phạn",
+  "ch": 6,
+  "note": "做 (bắt tay làm việc) + 饭 (bát cơm thơm dẻo): Nấu nướng chế biến các món ăn ngon cho bữa cơm."
+ },
+ "炒菜": {
+  "py": "chǎocài",
+  "mn": "xào rau",
+  "hv": "sao thái",
+  "ch": 6,
+  "note": "炒 (Hỏa 火 đảo ngọn lửa bùng + Thiếu 少 nhanh tay) + 菜 (rau củ): Đảo nhanh rau củ trong chảo lửa nóng hổi."
+ },
+ "请客": {
+  "py": "qǐngkè",
+  "mn": "mời khách",
+  "hv": "thỉnh khách",
+  "ch": 6,
+  "note": "请 (ngỏ lời mời trân trọng) + 客 (vị khách quý): Đãi tiệc chiêu đãi bạn bè, người thân."
+ },
+ "约会": {
+  "py": "yuēhuì",
+  "mn": "hẹn hò",
+  "hv": "ước hội",
+  "ch": 6,
+  "note": "约 (Mịch 糸 sợi tơ hồng buộc chặt lời ước hẹn Thược 勺) + 会 (gặp mặt): Cuộc hẹn hò lãng mạn của lứa đôi."
+ },
+ "作业": {
+  "py": "zuòyè",
+  "mn": "bài tập",
+  "hv": "tác nghiệp",
+  "ch": 6,
+  "note": "作 (làm việc) + 业 (giá treo chuông khánh/sự nghiệp tri thức): Bài tập thầy cô giao về nhà để rèn luyện củng cố."
+ },
+ "放假": {
+  "py": "fàngjià",
+  "mn": "nghỉ lễ",
+  "hv": "phóng giả",
+  "ch": 6,
+  "note": "放 (buông lỏng tay thảnh thơi) + 假 (kỳ nghỉ mượn tạm thời gian): Tạm gác công việc học hành để nghỉ ngơi du lịch."
+ },
+ "开学": {
+  "py": "kāixué",
+  "mn": "khai giảng",
+  "hv": "khai học",
+  "ch": 6,
+  "note": "开 (mở ra) + 学 (mái trường tiếp thu tri thức): Ngày tựu trường bắt đầu một năm học mới."
+ },
+ "安全": {
+  "py": "ānquán",
+  "mn": "an toàn",
+  "hv": "an toàn",
+  "ch": 6,
+  "note": "安 (Nữ 女 ngồi bình yên dưới mái nhà 宀) + 全 (Vương 王 viên ngọc quý vẹn toàn): Yên ổn trọn vẹn, không lo hiểm nguy tai họa."
+ },
+ "危险": {
+  "py": "wēixiǎn",
+  "mn": "nguy hiểm",
+  "hv": "nguy hiểm",
+  "ch": 6,
+  "note": "危 (Người đứng cheo leo trên mỏm đá nhọn) + 险 (Phụ 阝 vách núi dựng đứng cạm bẫy): Tình thế nguy nan rình rập cần hết sức dè chừng."
+ },
+ "计划": {
+  "py": "jìhuà",
+  "mn": "kế hoạch",
+  "hv": "kế hoạch",
+  "ch": 6,
+  "note": "计 (Ngôn 讠 lời bàn + Thập 十 tính toán chu toàn) + 划 (Đao 刂 vạch định đường hướng): Bản dự thảo các bước hành động trong tương lai."
+ },
+ "改变": {
+  "py": "gǎibiàn",
+  "mn": "thay đổi",
+  "hv": "cải biến",
+  "ch": 6,
+  "note": "改 (Kỷ 己 uốn nắn bản thân + Phộc 攵 đánh roi sửa sai) + 变 (biến đổi linh hoạt): Chuyển biến từ trạng thái này sang trạng thái mới."
+ },
+ "要求": {
+  "py": "yāoqiú",
+  "mn": "yêu cầu",
+  "hv": "yêu cầu",
+  "ch": 6,
+  "note": "要 (điều cốt lõi cần thiết) + 求 (chữ tượng hình tấm da thú khát khao van nài): Đưa ra tiêu chuẩn đòi hỏi người khác thực hiện."
+ },
+ "反对": {
+  "py": "fǎnduì",
+  "mn": "phản đối",
+  "hv": "phản đối",
+  "ch": 6,
+  "note": "反 (bàn tay lật ngược lại) + 对 (đối diện): Đưa ra quan điểm trái ngược không đồng tình."
+ },
+ "根据": {
+  "py": "gēnjù",
+  "mn": "căn cứ",
+  "hv": "căn cứ",
+  "ch": 6,
+  "note": "根 (Mộc 木 rễ cây cắm sâu vào lòng đất Cấn 艮) + 据 (chỗ dựa tay nắm Thủ 扌): Điểm tựa làm nền tảng vững chắc để suy xét."
+ },
+ "按照": {
+  "py": "ànzhào",
+  "mn": "theo",
+  "hv": "án chiếu",
+  "ch": 6,
+  "note": "按 (Thủ 扌 tay ấn định khuôn phép Yên 安) + 照 (soi rọi theo mẫu mực): Tuân thủ nghiêm ngặt theo đúng hướng dẫn."
+ },
+ "通过": {
+  "py": "tōngguò",
+  "mn": "thông qua",
+  "hv": "thông quá",
+  "ch": 6,
+  "note": "通 (Quai xước 辶 bước qua dũng cảm Dũng 甬) + 过 (băng qua thử thách): Vượt qua kiểm duyệt kỳ thi, hanh thông suôn sẻ."
+ },
+ "翻译": {
+  "py": "fānyì",
+  "mn": "dịch",
+  "hv": "phiên dịch",
+  "ch": 6,
+  "note": "翻 (Phi 飞 tung cánh bay qua ranh giới) + 译 (Ngôn 讠 lời nói chuyển hóa Dịch 睪): Cầu nối chuyển ngữ thông suốt giữa các nền văn hóa."
+ },
+ "作家": {
+  "py": "zuòjiā",
+  "mn": "nhà văn",
+  "hv": "tác gia",
+  "ch": 6,
+  "note": "作 (sáng tác tác phẩm văn học) + 家 (chuyên gia tinh hoa): Người sáng tạo nên những câu chuyện lay động lòng người."
+ },
+ "演员": {
+  "py": "yǎnyuán",
+  "mn": "diễn viên",
+  "hv": "diễn viên",
+  "ch": 6,
+  "note": "演 (Thủy 氵 dòng nước biến hóa tài tình Dần 寅) + 员 (người làm nghệ thuật): Người hóa thân tài tình vào các số phận nhân vật."
+ },
+ "歌手": {
+  "py": "gēshǒu",
+  "mn": "ca sĩ",
+  "hv": "ca thủ",
+  "ch": 6,
+  "note": "歌 (cất tiếng hát véo von) + 手 (người tài hoa chuyên biệt): Người sở hữu giọng ca truyền cảm biểu diễn âm nhạc."
+ },
+ "运动员": {
+  "py": "yùndòngyuán",
+  "mn": "vận động viên",
+  "hv": "vận động viên",
+  "ch": 6,
+  "note": "运动 (hoạt động thể thao dẻo dai) + 员 (thành viên chuyên nghiệp): Người thi đấu thể thao chuyên nghiệp rèn luyện đỉnh cao."
+ },
+ "市长": {
+  "py": "shìzhǎng",
+  "mn": "thị trưởng",
+  "hv": "thị trưởng",
+  "ch": 6,
+  "note": "市 (đô thị sầm uất) + 长 (người đứng đầu chèo lái): Người lãnh đạo cao nhất quản lý và phát triển thành phố."
+ },
+ "读者": {
+  "py": "dúzhě",
+  "mn": "độc giả",
+  "hv": "độc giả",
+  "ch": 6,
+  "note": "读 (đọc từng trang sách mở ra chân trời mới) + 者 (người): Người bạn yêu sách đồng hành cùng trang viết của tác giả."
+ }
+}
